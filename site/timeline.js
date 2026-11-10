@@ -196,8 +196,11 @@ function urlFor(item) {
 }
 
 export class Timeline {
-  constructor(root, {onRangeChange = () => {}, onItemSelect = () => {}} = {}) {
+  constructor(root, {
+    onRangeChange = () => {}, onItemSelect = () => {}, overviewRoot = root, humanHistoryButton,
+  } = {}) {
     this.root = root;
+    this.overviewRoot = overviewRoot;
     this.onRangeChange = onRangeChange;
     this.onItemSelect = onItemSelect;
     this.now = currentYear();
@@ -214,11 +217,20 @@ export class Timeline {
     this.words = translations.en;
     this.root.classList.add("timeline");
     this.root.replaceChildren();
+    if (this.overviewRoot !== this.root) {
+      this.overviewRoot.classList.add("timeline");
+      this.overviewRoot.replaceChildren();
+    }
     this.overviews = Array.from({length: 3}, (_, index) => this.makeOverview(index));
+    this.human = humanHistoryButton ?? element("button", "timeline-human");
+    this.human.type = "button";
+    this.listen(this.human, "click", () => this.focusHumanHistory());
+    if (!humanHistoryButton) this.overviewRoot.append(this.human);
     this.makeMain();
     this.setLanguage("en");
     this.resize = new ResizeObserver(() => this.requestRender());
     this.resize.observe(root);
+    if (overviewRoot !== root) this.resize.observe(overviewRoot);
     this.resize.observe(this.scroll);
   }
 
@@ -249,7 +261,7 @@ export class Timeline {
     this.number = new Intl.NumberFormat(locale, {maximumFractionDigits: 2, useGrouping: false});
     const monthFormat = new Intl.DateTimeFormat(locale, {month: "short", timeZone: "UTC"});
     this.months = Array.from({length: 12}, (_, month) => monthFormat.format(Date.UTC(2024, month, 1)));
-    this.overviews.forEach((overview, index) => { overview.name.textContent = this.words.overview[index]; });
+    this.overviews.forEach(({section}, index) => section.setAttribute("aria-label", this.words.overview[index]));
     this.human.textContent = this.words.human;
     this.scroll.setAttribute("aria-label", this.words.timeline);
     this.empty.textContent = this.words.empty;
@@ -277,6 +289,10 @@ export class Timeline {
     cancelAnimationFrame(this.frame);
     this.root.replaceChildren();
     this.root.classList.remove("timeline");
+    if (this.overviewRoot !== this.root) {
+      this.overviewRoot.replaceChildren();
+      this.overviewRoot.classList.remove("timeline");
+    }
   }
 
   formatDate(year, step = 1) {
@@ -337,16 +353,7 @@ export class Timeline {
 
   makeOverview(index) {
     const section = element("div", "timeline-overview");
-    const bar = element("div", "timeline-overview-heading");
-    const name = element("span", "timeline-overview-name");
-    const readout = element("span", "timeline-range-label");
-    bar.append(element("span", "timeline-overview-number", `0${index + 1}`), name, readout);
-    if (index === 0) {
-      this.human = element("button", "timeline-human");
-      this.human.type = "button";
-      this.listen(this.human, "click", () => this.focusHumanHistory());
-      bar.append(this.human);
-    }
+    section.setAttribute("role", "group");
     const track = element("div", "timeline-overview-track");
     const bands = element("div", "timeline-overview-bands");
     const axis = element("div", "timeline-axis timeline-overview-axis");
@@ -361,15 +368,15 @@ export class Timeline {
       node.setAttribute("role", "slider");
     }
     brush.append(selection, left, right);
-    track.append(bands, brush);
-    section.append(bar, track, axis);
-    this.root.append(section);
+    track.append(bands, brush, axis);
+    section.append(track);
+    this.overviewRoot.append(section);
     this.listen(track, "pointerdown", (event) => this.beginBrush(event, index));
     this.listen(track, "pointermove", (event) => this.moveBrush(event, index));
     this.listen(track, "pointerup", (event) => this.endBrush(event, index));
     this.listen(track, "pointercancel", () => { this.drag = null; });
     this.listen(track, "keydown", (event) => this.keyBrush(event, index));
-    return {track, bands, axis, brush, selection, left, right, name, readout};
+    return {section, track, bands, axis, brush, selection, left, right};
   }
 
   makeMain() {
@@ -624,13 +631,12 @@ export class Timeline {
     const selected = this.views[index + 1];
     const labels = [this.words.brush, this.words.start, this.words.end];
     [row.selection, row.left, row.right].forEach((node, position) => {
-      node.setAttribute("aria-label", `${row.name.textContent} · ${labels[position]}`);
+      node.setAttribute("aria-label", `${this.words.overview[index]} · ${labels[position]}`);
       node.setAttribute("aria-valuemin", range[0]);
       node.setAttribute("aria-valuemax", range[1]);
       node.setAttribute("aria-valuenow", position ? selected[position - 1] : center(selected));
       node.setAttribute("aria-valuetext", position ? this.formatDate(selected[position - 1], span(range) / 10) : this.formatRange(selected));
     });
-    row.readout.textContent = this.formatRange(range);
     row.brush.title = this.formatRange(selected);
     const brushWidth = clamp(span(selected) / span(range) * width, Math.min(16, width), width);
     row.brush.style.left = `${clamp(toX(selected[0], range, width), 0, width - brushWidth)}px`;

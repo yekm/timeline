@@ -12,39 +12,15 @@
 }
 
 .timeline-overview {
-  padding: 9px clamp(12px, 2.3vw, 28px) 8px;
-  border-top: 1px solid var(--timeline-rule);
+  padding-inline: clamp(12px, 2.3vw, 28px);
 }
 
-.timeline-overview-heading {
-  display: flex;
-  align-items: baseline;
-  gap: 8px;
-  min-height: 26px;
-  margin-bottom: 3px;
-  white-space: nowrap;
-}
+.timeline-overview + .timeline-overview { margin-top: 6px; }
 
-.timeline-overview-number,
-.timeline-range-label,
 .timeline-axis {
   font: .69rem/1.25 var(--timeline-mono);
   font-variant-numeric: tabular-nums;
   color: var(--timeline-muted);
-}
-
-.timeline-overview-number { color: var(--timeline-accent); }
-
-.timeline-overview-name {
-  font-size: .73rem;
-  font-weight: 650;
-  letter-spacing: .025em;
-}
-
-.timeline-range-label {
-  margin-left: auto;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .timeline-human {
@@ -65,8 +41,9 @@
 }
 
 .timeline-overview-track {
+  --overview-axis-height: 22px;
   position: relative;
-  height: 25px;
+  height: 68px;
   isolation: isolate;
   touch-action: none;
   user-select: none;
@@ -78,8 +55,9 @@
 
 .timeline-overview-bands {
   position: absolute;
-  inset: 0;
+  inset: 0 0 var(--overview-axis-height);
   overflow: hidden;
+  border-radius: 2px 2px 0 0;
 }
 
 .timeline-overview-band {
@@ -102,8 +80,7 @@
   position: absolute;
   z-index: 1;
   box-sizing: border-box;
-  top: -2px;
-  bottom: -2px;
+  inset-block: 0;
   min-width: 1px;
   border: 1px solid var(--timeline-accent);
   border-radius: 2px;
@@ -149,6 +126,16 @@
   height: 17px;
   white-space: nowrap;
   user-select: none;
+}
+
+.timeline-overview-axis {
+  position: absolute;
+  z-index: 2;
+  inset: auto 0 0;
+  height: var(--overview-axis-height);
+  border-top: 1px solid color-mix(in srgb, var(--timeline-rule) 75%, transparent);
+  color: #626262;
+  pointer-events: none;
 }
 
 .timeline-tick {
@@ -360,13 +347,8 @@
 }
 
 @media (max-width: 500px) {
-  .timeline-overview { padding-block: 6px; }
-  .timeline-overview-heading { gap: 5px; }
-  .timeline-overview-heading:has(.timeline-human) .timeline-range-label { visibility: hidden; }
-  .timeline-overview-number,
-  .timeline-range-label,
+  .timeline-overview-track { height: 62px; }
   .timeline-axis { font-size: .64rem; }
-  .timeline-overview-name,
   .timeline-human { font-size: .68rem; }
   .timeline-brush-handle { width: 12px; }
   .timeline-brush-left { left: -5px; }

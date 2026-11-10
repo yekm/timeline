@@ -2,9 +2,7 @@ import { Timeline } from './timeline.js';
 
 const copy = {
   en: {
-    wordmark: 'TIME ATLAS', language: 'Catalogue language', eyebrow: 'THE INTERACTIVE CHRONOLOGY',
-    title: 'Atlas of Time', intro: "Explore Earth's eras, historical events, and the lives that overlap them.",
-    era: 'Era', interval: 'Interval', point: 'Point event', symbols: 'Timeline symbols',
+    language: 'Catalogue language', title: 'Atlas of Time',
     catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', filterHint: 'Choose what appears on the timeline.',
     clear: 'Clear', visibleRange: 'VISIBLE RANGE', reset: 'Reset view', retry: 'Retry',
     gestures: 'Wheel to zoom · Drag or Shift + wheel to pan', footer: 'A timeline built from linked open data.',
@@ -15,9 +13,7 @@ const copy = {
     expand: 'Expand', collapse: 'Collapse', bce: 'BCE', million: 'Ma', billion: 'Ga',
   },
   ru: {
-    wordmark: 'АТЛАС ВРЕМЕНИ', language: 'Язык каталога', eyebrow: 'ИНТЕРАКТИВНАЯ ХРОНОЛОГИЯ',
-    title: 'Атлас времени', intro: 'Геологические эпохи, исторические события и жизни людей на одной шкале.',
-    era: 'Эпоха', interval: 'Интервал', point: 'Точечное событие', symbols: 'Обозначения на шкале',
+    language: 'Язык каталога', title: 'Атлас времени',
     catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', filterHint: 'Выберите данные для отображения на шкале.',
     clear: 'Сбросить', visibleRange: 'ВИДИМЫЙ ПЕРИОД', reset: 'Сбросить вид', retry: 'Повторить',
     gestures: 'Колесо — зум · Перетаскивание или Shift + колесо — сдвиг', footer: 'Хронология на основе открытых связанных данных.',
@@ -74,6 +70,8 @@ const expanded = new Set();
 const chunks = new Map();
 
 const timeline = new Timeline(document.getElementById('timeline'), {
+  overviewRoot: document.getElementById('timeline-overviews'),
+  humanHistoryButton: document.getElementById('human-history'),
   onRangeChange(nextRange) {
     range = nextRange;
     updateRangeLabel();
@@ -363,7 +361,6 @@ function updateLanguage() {
   for (const element of document.querySelectorAll('[data-copy]')) {
     element.textContent = strings()[element.dataset.copy];
   }
-  document.getElementById('legend').setAttribute('aria-label', strings().symbols);
   const snapshotLabel = manifest.partial ? strings().sample : strings().snapshot;
   datasetLabel.textContent = usingDemo ? strings().demo : `${snapshotLabel}${manifest.snapshot ? ` ${manifest.snapshot}` : ''}`;
   datasetLabel.hidden = false;
