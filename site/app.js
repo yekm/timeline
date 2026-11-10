@@ -271,6 +271,7 @@ function appendCategory(container, id) {
   const entry = document.createElement('li');
   const row = document.createElement('div');
   row.className = 'category-row';
+  if (category.color) row.style.setProperty('--category-color', category.color);
   entry.append(row);
 
   if (branch.length) {
@@ -325,7 +326,6 @@ function appendCategory(container, id) {
   const swatch = document.createElement('span');
   swatch.className = 'category-swatch';
   swatch.setAttribute('aria-hidden', 'true');
-  if (category.color) swatch.style.setProperty('--category-color', category.color);
   const title = document.createElement('span');
   title.className = 'category-name';
   title.textContent = name;

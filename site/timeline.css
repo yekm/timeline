@@ -60,11 +60,16 @@
   border-radius: 2px 2px 0 0;
 }
 
+.timeline-overview-band,
+.timeline-era-label {
+  padding-inline: clamp(0px, calc((var(--timeline-band-width) - 24px) / 8), 5px);
+}
+
 .timeline-overview-band {
   --timeline-mark: var(--timeline-era-mark);
   position: absolute;
   box-sizing: border-box;
-  padding: 0 5px;
+  width: var(--timeline-band-width);
   overflow: hidden;
   color: var(--timeline-ink);
   font-size: .64rem;
@@ -221,8 +226,9 @@
 .timeline-era-label {
   --timeline-mark: var(--timeline-era-mark);
   position: absolute;
+  width: max-content;
+  max-width: var(--timeline-band-width);
   height: 16px;
-  padding: 0 5px;
   border: 1px solid color-mix(in srgb, var(--timeline-mark) 25%, transparent);
   border-radius: 3px;
   box-sizing: border-box;
@@ -265,7 +271,7 @@
 
 .timeline-interval {
   border-radius: 3px;
-  background: color-mix(in srgb, var(--timeline-mark) 25%, var(--timeline-surface));
+  background: color-mix(in srgb, var(--timeline-mark) 38%, var(--timeline-surface));
   box-shadow: inset 3px 0 0 var(--timeline-mark);
 }
 
@@ -319,7 +325,7 @@
 }
 
 .timeline :is(.timeline-block, .timeline-era-label):hover { z-index: 2; }
-.timeline-interval:hover { background: color-mix(in srgb, var(--timeline-mark) 39%, var(--timeline-surface)); }
+.timeline-interval:hover { background: color-mix(in srgb, var(--timeline-mark) 45%, var(--timeline-surface)); }
 .timeline-point:hover { background: color-mix(in srgb, var(--timeline-mark) 13%, transparent); }
 
 .timeline-main-axis {

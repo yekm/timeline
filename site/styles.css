@@ -85,12 +85,12 @@ button:enabled, select:enabled { cursor: pointer; }
 .category-children { margin-left: 0.68rem; padding-left: 0.4rem; border-left: 1px solid var(--line); }
 .category-row { display: flex; align-items: center; min-width: 0; border-radius: 0.32rem; }
 .category-row:hover { background: #f3f0e9; }
-.category-row[data-active] { background: var(--accent-soft); }
+.category-row[data-active] { background: color-mix(in srgb, var(--category-color, var(--accent)) 12%, var(--surface)); }
 .category-row > label { flex: 1; display: flex; align-items: center; gap: 0.38rem; min-width: 0; padding: 0.52rem 0.14rem 0.52rem 0; line-height: 1.3; cursor: pointer; }
-.category-row input { accent-color: var(--accent); flex: 0 0 auto; width: 1rem; height: 1rem; margin: 0; }
+.category-row input { accent-color: var(--category-color, var(--accent)); flex: 0 0 auto; width: 1rem; height: 1rem; margin: 0; }
 .category-row input:disabled + .category-swatch + .category-name { color: var(--muted); }
 .category-name { overflow-wrap: anywhere; }
-.category-swatch { flex: 0 0 auto; width: 0.58rem; height: 0.58rem; border-radius: 2px; background: var(--category-color, var(--muted)); }
+.category-swatch { flex: 0 0 auto; width: 0.72rem; height: 0.72rem; border-radius: 2px; background: var(--category-color, var(--muted)); }
 
 .category-expander {
   flex: 0 0 1.5rem;

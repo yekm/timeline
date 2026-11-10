@@ -655,10 +655,10 @@ export class Timeline {
     const lanes = stack(bands, 0);
     lanes.slice(0, 2).forEach((lane, rowIndex) => {
       for (const {item, left, right} of lane) {
-        const band = element("span", "timeline-overview-band", right - left >= 28 ? item.title : "");
+        const band = element("span", "timeline-overview-band", item.title);
         band.title = this.itemLabel(item);
         band.style.left = `${left}px`;
-        band.style.width = `${right - left}px`;
+        band.style.setProperty("--timeline-band-width", `${right - left}px`);
         band.style.top = `${rowIndex * 50}%`;
         band.style.height = lanes.length > 1 ? "50%" : "100%";
         if (item.color) band.style.setProperty("--timeline-mark", item.color);
@@ -688,6 +688,7 @@ export class Timeline {
   drawEpochs(range, width) {
     const blocks = [];
     const fills = document.createDocumentFragment();
+    const labels = document.createDocumentFragment();
     const selected = this.epochs.filter((epoch) => epoch.end > range[0] && epoch.start < range[1]);
     const byId = new Map(selected.map((epoch) => [epoch.id, epoch]));
     const obscured = new Set(selected.filter((epoch) => epoch.parent && byId.has(epoch.parent) && epoch.start <= range[0] && epoch.end >= range[1]).map((epoch) => epoch.parent));
@@ -701,22 +702,24 @@ export class Timeline {
       fill.style.width = `${right - left}px`;
       if (item.color) fill.style.setProperty("--timeline-mark", item.color);
       fills.append(fill);
-      blocks.push({item, left, right: Math.min(right, left + Math.max(55, item.title.length * 7 + 19))});
+      const label = this.makeLink(item, "timeline-era-label");
+      label.textContent = this.linkText(item);
+      label.style.left = `${left}px`;
+      label.style.setProperty("--timeline-band-width", `${right - left}px`);
+      labels.append(label);
+      blocks.push({item, left, label});
     }
-    const labels = document.createDocumentFragment();
-    const lanes = stack(blocks);
-    lanes.forEach((lane, row) => {
-      for (const {item, left, right} of lane) {
-        const label = this.makeLink(item, "timeline-era-label");
-        label.textContent = right - left >= 22 ? this.linkText(item) : "";
-        label.style.left = `${left}px`;
-        label.style.top = `${row * ERA_ROW + 3}px`;
-        label.style.width = `${right - left}px`;
-        labels.append(label);
-      }
-    });
     this.backdrop.replaceChildren(fills);
     this.eraLabels.replaceChildren(labels);
+    for (const block of blocks) {
+      block.right = block.left + block.label.getBoundingClientRect().width;
+    }
+    const lanes = stack(blocks);
+    lanes.forEach((lane, row) => {
+      for (const {label} of lane) {
+        label.style.top = `${row * ERA_ROW + 3}px`;
+      }
+    });
     return lanes.length * ERA_ROW + 5;
   }
 
