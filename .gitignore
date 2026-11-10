@@ -1,0 +1,26 @@
+# Local Wikidata archives, including symlinks to archives.
+*.gz
+*.bz2
+*.xz
+*.zst
+*.7z
+*.zip
+*.dump
+wikidata-*-all.json
+wikidata-*-lexemes.json
+latest-all.json
+latest-lexemes.json
+wikidatawiki-*.xml
+wikidatawiki-*-multistream-index.txt
+
+# Import state and build output.
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+/build/
+/site/.data-*/
+__pycache__/
+*.pyc
