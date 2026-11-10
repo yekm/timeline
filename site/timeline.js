@@ -2,8 +2,8 @@ const DAY = 1 / 366;
 const EARTH_START = -4_567_000_000;
 const HUMAN_START = -3_000_000;
 const HISTORY_DETAIL_START = -9_999;
-const LANE_HEIGHT = 37;
-const ERA_ROW = 24;
+const LANE_HEIGHT = 24;
+const ERA_ROW = 18;
 const BLOCK_GAP = 5;
 const FADE_WIDTH = 66;
 const POINT_WIDTH = 12;
@@ -386,6 +386,7 @@ export class Timeline {
     this.content = element("div", "timeline-content");
     this.backdrop = element("div", "timeline-backdrop");
     this.grid = element("div", "timeline-grid");
+    this.grid.style.setProperty("--timeline-lane-height", `${LANE_HEIGHT}px`);
     this.eraLabels = element("div", "timeline-era-labels");
     this.blocks = element("div", "timeline-blocks");
     this.empty = element("p", "timeline-empty");
@@ -709,14 +710,14 @@ export class Timeline {
         const label = this.makeLink(item, "timeline-era-label");
         label.textContent = right - left >= 22 ? this.linkText(item) : "";
         label.style.left = `${left}px`;
-        label.style.top = `${row * ERA_ROW + 5}px`;
+        label.style.top = `${row * ERA_ROW + 3}px`;
         label.style.width = `${right - left}px`;
         labels.append(label);
       }
     });
     this.backdrop.replaceChildren(fills);
     this.eraLabels.replaceChildren(labels);
-    return lanes.length * ERA_ROW + 8;
+    return lanes.length * ERA_ROW + 5;
   }
 
   drawVisibleLanes() {
@@ -777,7 +778,7 @@ export class Timeline {
     });
     this.grid.replaceChildren(...rules);
     this.eraHeight = this.drawEpochs(range, this.width);
-    this.grid.style.backgroundPositionY = `${this.eraHeight - 5}px`;
+    this.grid.style.backgroundPositionY = `${this.eraHeight}px`;
     const blocks = [];
     for (const item of this.items) {
       const bounds = itemBounds(item, range, this.width);

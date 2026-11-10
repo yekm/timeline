@@ -149,14 +149,19 @@
 
 .timeline-main {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   min-width: 0;
+  min-height: 0;
   padding: 0 clamp(12px, 2.3vw, 28px) 6px;
   border-top: 1px solid var(--timeline-rule);
 }
 
 .timeline-scroll {
   position: relative;
-  height: clamp(275px, 49vh, 610px);
+  flex: 1;
+  min-height: 0;
   overflow: hidden auto;
   scrollbar-gutter: stable;
   scrollbar-color: color-mix(in srgb, var(--timeline-accent) 42%, var(--timeline-rule)) var(--timeline-surface);
@@ -189,7 +194,10 @@
 }
 
 .timeline-grid {
-  background: repeating-linear-gradient(to bottom, transparent 0, transparent 36px, color-mix(in srgb, var(--timeline-rule) 55%, transparent) 36px, color-mix(in srgb, var(--timeline-rule) 55%, transparent) 37px);
+  --lane-rule: color-mix(in srgb, var(--timeline-rule) 55%, transparent);
+  background: repeating-linear-gradient(to bottom,
+    transparent 0 calc(var(--timeline-lane-height) - 1px),
+    var(--lane-rule) calc(var(--timeline-lane-height) - 1px) var(--timeline-lane-height));
 }
 
 .timeline-grid-line,
@@ -213,7 +221,7 @@
 .timeline-era-label {
   --timeline-mark: var(--timeline-era-mark);
   position: absolute;
-  height: 19px;
+  height: 16px;
   padding: 0 5px;
   border: 1px solid color-mix(in srgb, var(--timeline-mark) 25%, transparent);
   border-radius: 3px;
@@ -225,8 +233,8 @@
   white-space: nowrap;
   overflow: hidden;
   font-size: .66rem;
-  font-weight: 650;
-  line-height: 17px;
+  font-weight: 400;
+  line-height: 14px;
   pointer-events: auto;
 }
 
@@ -234,13 +242,13 @@
   position: absolute;
   display: block;
   box-sizing: border-box;
-  height: 28px;
+  height: 20px;
   overflow: hidden;
   text-decoration: none;
   color: var(--timeline-ink);
   font-size: .75rem;
-  font-weight: 600;
-  line-height: 28px;
+  font-weight: 400;
+  line-height: 20px;
   pointer-events: auto;
 }
 
@@ -303,7 +311,8 @@
 }
 
 .timeline-point::after {
-  top: 10px;
+  top: 50%;
+  transform: translate(-50%, -50%);
   width: 7px;
   height: 7px;
   border-radius: 100%;
@@ -314,6 +323,7 @@
 .timeline-point:hover { background: color-mix(in srgb, var(--timeline-mark) 13%, transparent); }
 
 .timeline-main-axis {
+  flex: none;
   height: 23px;
   border-top: 1px solid var(--timeline-rule);
 }
@@ -353,4 +363,8 @@
   .timeline-brush-handle { width: 12px; }
   .timeline-brush-left { left: -5px; }
   .timeline-brush-right { right: -5px; }
+}
+
+@media (max-height: 480px) {
+  .timeline-overview-track { height: clamp(40px, 11dvh, 52px); }
 }
