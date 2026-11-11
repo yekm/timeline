@@ -408,6 +408,25 @@ async function chooseFeatured() {
   return null;
 }
 
+function applyCategoryColors() {
+  for (const root of children.get(null) ?? []) {
+    const category = categories.get(root);
+    category.color ||= 'var(--accent)';
+    const base = category.color;
+    const descendants = [...(children.get(root) ?? [])];
+    for (const id of descendants) {
+      for (const child of children.get(id) ?? []) descendants.push(child);
+    }
+
+    const shades = Math.min(descendants.length, 9);
+    const step = 36 / Math.max(1, shades - 1);
+    for (const [index, id] of descendants.entries()) {
+      const white = 12 + (index % shades) * step;
+      categories.get(id).color = `color-mix(in srgb, ${base}, white ${white}%)`;
+    }
+  }
+}
+
 async function start() {
   try {
     await loadManifest();
@@ -418,6 +437,7 @@ async function start() {
       if (!children.has(parent)) children.set(parent, []);
       children.get(parent).push(category.id);
     }
+    applyCategoryColors();
     select.replaceChildren(...manifest.languages.map(({ id, label }) => new Option(label, id)));
     select.value = baseLanguage;
     timeline.setRange(initialRange);

@@ -98,7 +98,7 @@ class Catalog:
             labels.setdefault("en", next(iter(labels.values()), qid))
             parent = self.categories["other-professions"]
             self.categories[tag] = {
-                "id": tag, "label": labels, "color": parent["color"], "parent": parent["id"],
+                "id": tag, "label": labels, "parent": parent["id"],
             }
         return tag
 
