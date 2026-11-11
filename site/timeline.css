@@ -271,7 +271,7 @@
 
 .timeline-interval {
   border-radius: 3px;
-  background: color-mix(in srgb, var(--timeline-mark) 38%, var(--timeline-surface));
+  background: color-mix(in lab, var(--timeline-mark) 52%, var(--timeline-surface));
   box-shadow: inset 3px 0 0 var(--timeline-mark);
 }
 
@@ -325,7 +325,7 @@
 }
 
 .timeline :is(.timeline-block, .timeline-era-label):hover { z-index: 2; }
-.timeline-interval:hover { background: color-mix(in srgb, var(--timeline-mark) 45%, var(--timeline-surface)); }
+.timeline-interval:hover { background: color-mix(in lab, var(--timeline-mark) 58%, var(--timeline-surface)); }
 .timeline-point:hover { background: color-mix(in srgb, var(--timeline-mark) 13%, transparent); }
 
 .timeline-main-axis {

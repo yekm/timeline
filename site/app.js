@@ -422,7 +422,7 @@ function applyCategoryColors() {
     const step = 36 / Math.max(1, shades - 1);
     for (const [index, id] of descendants.entries()) {
       const white = 12 + (index % shades) * step;
-      categories.get(id).color = `color-mix(in srgb, ${base}, white ${white}%)`;
+      categories.get(id).color = `color-mix(in lab, ${base}, lab(100% 0 0) ${white}%)`;
     }
   }
 }
