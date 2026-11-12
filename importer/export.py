@@ -139,13 +139,14 @@ class Catalog:
         return sorted(tags, key=order)
 
 
-def position_fields(row):
+def position_fields(row, *, prefer_bounds=False):
     start, end, point = row["start"], row["end"], row["point"]
+    single_bound = (start is None) != (end is None)
     values = {}
     if start is not None and end is not None and start <= end:
         fields = [("start", "startLabel", start, row["start_label"]),
                   ("end", "endLabel", end, row["end_label"])]
-    elif point is not None:
+    elif point is not None and not (prefer_bounds and single_bound):
         fields = [("point", "pointLabel", point, row["point_label"])]
     elif start is not None and end is None:
         fields = [("start", "startLabel", start, row["start_label"])]
@@ -239,11 +240,11 @@ def build_catalogue(connection, stage, args):
             available = [language for language in args.languages if sitelinks.get(language)]
             if not available:
                 continue
-            position = position_fields(row)
-            if not position:
-                continue
             tags = catalog.tags_for(row)
             if not tags:
+                continue
+            position = position_fields(row, prefer_bounds="wars" in tags and "battles" not in tags)
+            if not position:
                 continue
             values, start, end = position
             entry = {"id": row["qid"], "kind": row["kind"], **values, "tags": tags}

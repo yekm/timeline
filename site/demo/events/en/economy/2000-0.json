@@ -1,0 +1,6 @@
+[
+{"id":"Q896666","kind":"event","start":2007.0,"startLabel":"2007","tags":["economy"],"title":"2007–2008 financial crisis","url":"https://en.wikipedia.org/wiki/2008_financial_crisis","language":"en"},
+{"id":"Q19600530","kind":"event","point":2013.5287671232877,"pointLabel":"2013-07-13","tags":["economy"],"parent":"Q13406660","title":"Black Lives Matter","url":"https://en.wikipedia.org/wiki/Black_Lives_Matter","language":"en"},
+{"id":"Q42133786","kind":"event","point":2017.7479452054795,"pointLabel":"2017-10","tags":["economy"],"parent":"Q25382187","title":"MeToo movement","url":"https://en.wikipedia.org/wiki/MeToo_movement","language":"en"},
+{"id":"Q58805164","kind":"event","start":2018.876712328767,"startLabel":"2018-11-17","tags":["economy"],"parent":"Q76753469","title":"Yellow vests movement","url":"https://en.wikipedia.org/wiki/Yellow_vests_protests","language":"en"}
+]

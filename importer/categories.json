@@ -54,74 +54,69 @@
     {"id":"wars","label":{"en":"Wars and conflicts","ru":"Войны и конфликты"},"parent":"history-events","types":["Q198","Q350604"]},
     {"id":"battles","label":{"en":"Battles, sieges and campaigns","ru":"Сражения, осады и кампании"},"parent":"history-events","types":["Q178561","Q188055","Q831663"]},
     {"id":"revolutions","label":{"en":"Revolutions, uprisings and coups","ru":"Революции, восстания и перевороты"},"parent":"history-events","types":["Q10931","Q124734","Q45382"]},
-    {"id":"states","label":{"en":"Statehood and diplomacy","ru":"Государства и дипломатия"},"parent":"history-events","types":["Q131569","Q1464916","Q6256","Q484652"]},
-    {"id":"economy","label":{"en":"Social and economic history","ru":"Общество и экономика"},"parent":"history-events","types":["Q114380","Q49773","Q900406"]},
+    {"id":"states","label":{"en":"Statehood and diplomacy","ru":"Государства и дипломатия"},"parent":"history-events","types":["Q131569","Q1464916","Q6256","Q484652","Q194465","Q7157512","Q267995"]},
+    {"id":"economy","label":{"en":"Social and economic history","ru":"Общество и экономика"},"parent":"history-events","types":["Q114380","Q49773","Q900406","Q1814941","Q176494","Q49776"]},
     {"id":"discoveries","label":{"en":"Discoveries and exploration","ru":"Открытия и исследования"},"parent":"history-events","types":["Q12772819","Q2401485","Q2133344"]},
-    {"id":"disasters","label":{"en":"Epidemics and disasters","ru":"Эпидемии и катастрофы"},"parent":"history-events","types":["Q44512","Q12184","Q8065","Q7944","Q7692360"]},
-    {"id":"culture-events","label":{"en":"Culture and sports milestones","ru":"Культурные и спортивные вехи"},"parent":"history-events","types":["Q159821","Q204854","Q5389"]}
+    {"id":"disasters","label":{"en":"Epidemics and disasters","ru":"Эпидемии и катастрофы"},"parent":"history-events","types":["Q44512","Q12184","Q8065","Q7944","Q7692360","Q168247","Q68800046","Q3193890","Q8068"]},
+    {"id":"culture-events","label":{"en":"Culture and sports milestones","ru":"Культурные и спортивные вехи"},"parent":"history-events","types":["Q159821","Q204854","Q5389","Q172754"]}
   ],
   "pinned": {
-    "Q361": [
-      "wars",
-      "key-events"
-    ],
-    "Q362": [
-      "wars",
-      "key-events"
-    ],
-    "Q6534": [
-      "revolutions",
-      "key-events"
-    ],
-    "Q42976": [
-      "revolutions",
-      "key-events"
-    ],
-    "Q40949": [
-      "wars",
-      "key-events"
-    ],
-    "Q8707": [
-      "states",
-      "key-events"
-    ],
-    "Q8736": [
-      "states",
-      "key-events"
-    ],
-    "Q127912": [
-      "states",
-      "key-events"
-    ],
-    "Q129053": [
-      "states",
-      "key-events"
-    ],
-    "Q8698": [
-      "economy",
-      "key-events"
-    ],
-    "Q896666": [
-      "economy"
-    ],
-    "Q43653": [
-      "discoveries",
-      "key-events"
-    ],
-    "Q42005": [
-      "disasters",
-      "key-events"
-    ],
-    "Q81068910": [
-      "disasters",
-      "key-events"
-    ],
-    "Q8088": [
-      "culture-events",
-      "key-events"
-    ],
-    "Q48314": [
-      "battles"
-    ]
+    "Q361": ["wars", "key-events"],
+    "Q362": ["wars", "key-events"],
+    "Q6534": ["revolutions", "key-events"],
+    "Q42976": ["revolutions", "key-events"],
+    "Q40949": ["wars", "key-events"],
+    "Q8707": ["states", "revolutions", "key-events"],
+    "Q8736": ["states", "key-events"],
+    "Q127912": ["states", "key-events"],
+    "Q129053": ["states", "key-events"],
+    "Q8698": ["economy", "key-events"],
+    "Q896666": ["economy"],
+    "Q43653": ["discoveries", "key-events"],
+    "Q42005": ["disasters", "key-events"],
+    "Q81068910": ["disasters", "key-events"],
+    "Q8088": ["culture-events", "key-events"],
+    "Q48314": ["battles", "key-events"],
+    "Q486": ["disasters", "key-events"],
+    "Q3588": ["revolutions", "key-events"],
+    "Q6271": ["wars", "key-events"],
+    "Q8080": ["culture-events", "key-events"],
+    "Q8663": ["wars", "key-events"],
+    "Q8676": ["wars", "key-events"],
+    "Q8740": ["wars", "key-events"],
+    "Q11264": ["revolutions", "key-events"],
+    "Q12551": ["wars", "key-events"],
+    "Q33143": ["wars", "key-events"],
+    "Q33745": ["wars", "key-events"],
+    "Q38789": ["battles", "key-events"],
+    "Q46959": ["revolutions", "key-events"],
+    "Q51122": ["states", "key-events"],
+    "Q56039": ["states", "key-events"],
+    "Q78994": ["wars", "key-events"],
+    "Q80811": ["discoveries", "key-events"],
+    "Q83224": ["battles", "key-events"],
+    "Q126065": ["revolutions", "key-events"],
+    "Q130754": ["disasters", "key-events"],
+    "Q150995": ["states", "key-events"],
+    "Q164815": ["culture-events", "key-events"],
+    "Q178275": ["disasters", "key-events"],
+    "Q179670": ["battles", "key-events"],
+    "Q180897": ["states", "key-events"],
+    "Q182524": ["discoveries", "key-events"],
+    "Q190517": ["revolutions", "key-events"],
+    "Q191055": ["disasters", "key-events"],
+    "Q201684": ["economy", "key-events"],
+    "Q208191": ["states", "key-events"],
+    "Q244356": ["battles", "key-events"],
+    "Q273095": ["culture-events", "key-events"],
+    "Q576338": ["wars", "key-events"],
+    "Q689128": ["revolutions", "key-events"],
+    "Q828435": ["wars", "key-events"],
+    "Q830059": ["battles", "key-events"],
+    "Q1128871": ["economy", "key-events"],
+    "Q1225170": ["discoveries", "key-events"],
+    "Q5167679": ["states", "key-events"],
+    "Q21707860": ["states", "key-events"],
+    "Q65049774": ["discoveries", "key-events"]
   }
 }

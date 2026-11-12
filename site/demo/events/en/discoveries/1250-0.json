@@ -1,0 +1,6 @@
+[
+{"id":"Q699127","kind":"event","start":1405.0,"startLabel":"1405","end":1433.0,"endLabel":"1433","tags":["discoveries"],"title":"Treasure Voyages","url":"https://en.wikipedia.org/wiki/Ming_treasure_voyages","language":"en"},
+{"id":"Q18578423","kind":"event","start":1492.0,"startLabel":"1492","end":1504.0,"endLabel":"1504","tags":["discoveries"],"title":"voyages by Christopher Columbus","url":"https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus","language":"en"},
+{"id":"Q221474","kind":"event","point":1492.8032786885246,"pointLabel":"1492-10-12 (Julian)","tags":["discoveries"],"title":"first arrival of Christopher Columbus to America","url":"https://en.wikipedia.org/wiki/Discovery_of_the_Americas","language":"en"},
+{"id":"Q951383","kind":"event","point":1498.0,"pointLabel":"1498","tags":["discoveries"],"title":"The Portuguese discovery of the sea route to India","url":"https://en.wikipedia.org/wiki/Portuguese_discovery_of_the_sea_route_to_India","language":"en"}
+]

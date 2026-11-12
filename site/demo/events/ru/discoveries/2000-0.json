@@ -1,0 +1,8 @@
+[
+{"id":"Q2518709","kind":"event","start":2007.5013698630137,"startLabel":"2007-07-03","end":2013.7150684931507,"endLabel":"2013-09-19","tags":["discoveries"],"title":"EPOXI","url":"https://ru.wikipedia.org/wiki/EPOXI","language":"ru"},
+{"id":"Q2156739","kind":"event","start":2013.8438356164384,"startLabel":"2013-11-05","tags":["discoveries"],"title":"Mangalyaan","url":"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD","language":"ru"},
+{"id":"Q22683173","kind":"event","point":2015.7013698630137,"pointLabel":"2015-09-14","tags":["discoveries"],"title":"Открытие гравитационных волн","url":"https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%BB%D0%BD","language":"ru"},
+{"id":"Q723045","kind":"event","start":2018.9315068493152,"startLabel":"2018-12-07","end":2019.0054794520547,"endLabel":"2019-01-03","tags":["discoveries"],"parent":"Q860037","title":"Чанъэ-4","url":"https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D1%8A%D1%8D-4","language":"ru"},
+{"id":"Q186447","kind":"event","start":2021.9808219178083,"startLabel":"2021-12-25","tags":["discoveries"],"title":"Космический телескоп «Джеймс Уэбб»","url":"https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A3%D1%8D%D0%B1%D0%B1_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF)","language":"ru"},
+{"id":"Q65049774","kind":"event","start":2023.531506849315,"startLabel":"2023-07-14","tags":["discoveries","key-events"],"parent":"Q3406955","title":"Чандраян-3","url":"https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%8F%D0%BD-3","language":"ru"}
+]

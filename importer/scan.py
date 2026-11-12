@@ -221,8 +221,8 @@ def candidate_row(entity, qid, claims, types):
         start = date_value(claims, "P569")
         end = date_value(claims, "P570")
     else:
-        start = date_value(claims, "P580")
-        end = date_value(claims, "P582")
+        start = date_value(claims, "P580") or date_value(claims, "P619")
+        end = date_value(claims, "P582") or date_value(claims, "P620")
         for prop in POINT_PROPERTIES:
             point = date_value(claims, prop)
             if point is not None:
