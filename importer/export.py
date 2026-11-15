@@ -47,7 +47,7 @@ def read_catalog(path):
         for tags in overrides.values():
             if set(tags) - categories.keys():
                 raise ValueError("A category override uses an undefined category")
-    return categories, pinned, excluded_tags, config.get("excludedSubclassEdges", [])
+    return categories, pinned, excluded_tags, config
 
 
 def descendants(connection, roots, excluded_edges=()):
@@ -80,7 +80,8 @@ def descendants(connection, roots, excluded_edges=()):
 class Catalog:
     def __init__(self, connection, path):
         self.connection = connection
-        self.categories, self.pinned, self.excluded_tags, excluded_edges = read_catalog(path)
+        self.categories, self.pinned, self.excluded_tags, config = read_catalog(path)
+        self.title_overrides = config.get("titleOverrides", {})
         self.occupation_roots = defaultdict(set)
         self.event_roots = defaultdict(set)
         self.field_rules = []
@@ -95,7 +96,7 @@ class Catalog:
         roots = self.occupation_roots.keys() | self.event_roots.keys()
         for profession, field, _ in self.field_rules:
             roots.update((profession, field))
-        self.ancestors = descendants(connection, sorted(roots), excluded_edges)
+        self.ancestors = descendants(connection, sorted(roots), config.get("excludedSubclassEdges", ()))
         self.priority = {tag: i for i, tag in enumerate(self.categories)}
 
     def other_occupation(self, qid):
@@ -286,6 +287,7 @@ def stage_entries(connection, catalog, languages, staged):
         if parents:
             entry["parent"] = parents[0]
         labels = json.loads(row["labels"])
+        labels.update(catalog.title_overrides.get(row["qid"], {}))
         items = [localize(entry, language, sitelinks, labels, languages) for language in available]
         score = sum(bool(article) for article in sitelinks.values())
         histograms[kind][score] += 1

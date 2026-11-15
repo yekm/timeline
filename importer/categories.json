@@ -45,7 +45,7 @@
     {"id":"sports","label":{"en":"Sports and games","ru":"Спорт и игры"},"color":"#27a717"},
     {"id":"athletes","label":{"en":"Athletes","ru":"Спортсмены"},"parent":"sports","occupations":["Q2066131"]},
     {"id":"coaches","label":{"en":"Coaches and chess players","ru":"Тренеры и шахматисты"},"parent":"sports","occupations":["Q41583","Q10873124"]},
-    {"id":"trades","label":{"en":"Industry and crafts","ru":"Производство и ремёсла"},"color":"#774727","occupations":["Q327055","Q1294787","Q154549"]},
+    {"id":"trades","label":{"en":"Industry and crafts","ru":"Производство и ремёсла"},"color":"#774727","occupations":["Q1294787","Q154549","Q87285943","Q196721","Q327029","Q820037"]},
     {"id":"agriculture","label":{"en":"Agriculture and natural resources","ru":"Сельское хозяйство и природопользование"},"color":"#175727","occupations":["Q131512","Q331432","Q1895303"]},
     {"id":"services","label":{"en":"Services and clerical work","ru":"Услуги и административная работа"},"color":"#6707f7","occupations":["Q3499072","Q80687"]},
     {"id":"other-professions","label":{"en":"Other occupations","ru":"Другие профессии"},"color":"#574767"},
@@ -60,8 +60,23 @@
     {"id":"disasters","label":{"en":"Epidemics and disasters","ru":"Эпидемии и катастрофы"},"parent":"history-events","types":["Q44512","Q12184","Q8065","Q7944","Q7692360","Q168247","Q68800046","Q3193890","Q8068"]},
     {"id":"culture-events","label":{"en":"Culture and sports milestones","ru":"Культурные и спортивные вехи"},"parent":"history-events","types":["Q159821","Q204854","Q5389","Q172754"]}
   ],
-  "excludedSubclassEdges": [["Q18931911", "Q901"], ["Q1231865", "Q15319501"]],
+  "excludedSubclassEdges": [
+    ["Q18931911", "Q901"],
+    ["Q1231865", "Q15319501"],
+    ["Q5428874", "Q4359236"],
+    ["Q2588761", "Q3704253"],
+    ["Q1650915", "Q15980158"]
+  ],
   "excludedTags": {"Q7200": ["scientists"]},
+  "titleOverrides": {
+    "Q23": {"ru": "Джордж Вашингтон"},
+    "Q329": {"ru": "Николя Саркози"},
+    "Q535": {"ru": "Виктор Гюго"},
+    "Q935": {"ru": "Исаак Ньютон"},
+    "Q937": {"ru": "Альберт Эйнштейн"},
+    "Q8016": {"ru": "Уинстон Черчилль"},
+    "Q11812": {"ru": "Томас Джефферсон"}
+  },
   "pinned": {
     "Q361": ["wars", "key-events"],
     "Q362": ["wars", "key-events"],
@@ -97,6 +112,7 @@
     "Q78994": ["wars", "key-events"],
     "Q80811": ["discoveries", "key-events"],
     "Q83224": ["battles", "key-events"],
+    "Q83233": ["writers"],
     "Q126065": ["revolutions", "key-events"],
     "Q130754": ["disasters", "key-events"],
     "Q150995": ["states", "key-events"],
