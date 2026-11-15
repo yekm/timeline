@@ -1,6 +1,6 @@
 [
-{"id":"Q545449","kind":"event","start":2003.213698630137,"startLabel":"2003-03-20","end":2011.9534246575342,"endLabel":"2011-12-15","tags":["wars","battles"],"parent":"Q185729","title":"Iraq War","url":"https://en.wikipedia.org/wiki/Iraq_War","language":"en"},
-{"id":"Q15860072","kind":"event","start":2014.13698630137,"startLabel":"2014-02-20","tags":["wars"],"parent":"Q17510383","title":"Russo-Ukrainian war","url":"https://en.wikipedia.org/wiki/Russo-Ukrainian_war","language":"en"},
-{"id":"Q110999040","kind":"event","start":2022.1479452054793,"startLabel":"2022-02-24","tags":["wars"],"parent":"Q15860072","title":"full-scale Russo-Ukrainian war","url":"https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)","language":"en"},
-{"id":"Q122962941","kind":"event","start":2023.7643835616439,"startLabel":"2023-10-07","tags":["wars"],"parent":"Q124373310","title":"Gaza War","url":"https://en.wikipedia.org/wiki/Gaza_war","language":"en"}
+{"id":"Q545449","kind":"event","start":2003.213698630137,"startLabel":"2003-03-20","end":2011.9534246575342,"endLabel":"2011-12-15","tags":["wars","battles"],"parent":"Q185729","title":"Iraq War","url":"https://en.wikipedia.org/wiki/Iraq_War","language":"en","tier":100},
+{"id":"Q15860072","kind":"event","start":2014.13698630137,"startLabel":"2014-02-20","tags":["wars"],"parent":"Q17510383","title":"Russo-Ukrainian war","url":"https://en.wikipedia.org/wiki/Russo-Ukrainian_war","language":"en","tier":100},
+{"id":"Q110999040","kind":"event","start":2022.1479452054793,"startLabel":"2022-02-24","tags":["wars"],"parent":"Q15860072","title":"full-scale Russo-Ukrainian war","url":"https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)","language":"en","tier":5},
+{"id":"Q122962941","kind":"event","start":2023.7643835616439,"startLabel":"2023-10-07","tags":["wars"],"parent":"Q124373310","title":"Gaza War","url":"https://en.wikipedia.org/wiki/Gaza_war","language":"en","tier":100}
 ]

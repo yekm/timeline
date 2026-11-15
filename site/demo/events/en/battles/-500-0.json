@@ -1,5 +1,5 @@
 [
-{"id":"Q31900","kind":"event","point":-488.31780821917806,"pointLabel":"0490-09-12 BCE (Julian)","tags":["battles"],"parent":"Q2362482","title":"Battle of Marathon","url":"https://en.wikipedia.org/wiki/Battle_of_Marathon","language":"en"},
-{"id":"Q131969","kind":"event","point":-478.4054794520548,"pointLabel":"0480-08-11 BCE (Julian)","tags":["battles"],"parent":"Q1122337","title":"Battle of Thermopylae","url":"https://en.wikipedia.org/wiki/Battle_of_Thermopylae","language":"en"},
-{"id":"Q179670","kind":"event","point":-329.26575342465753,"pointLabel":"0331-10-01 BCE (Julian)","tags":["battles","key-events"],"parent":"Q551888","title":"Battle of Gaugamela","url":"https://en.wikipedia.org/wiki/Battle_of_Gaugamela","language":"en"}
+{"id":"Q31900","kind":"event","point":-488.31780821917806,"pointLabel":"0490-09-12 BCE (Julian)","tags":["battles"],"parent":"Q2362482","title":"Battle of Marathon","url":"https://en.wikipedia.org/wiki/Battle_of_Marathon","language":"en","tier":100},
+{"id":"Q131969","kind":"event","point":-478.4054794520548,"pointLabel":"0480-08-11 BCE (Julian)","tags":["battles"],"parent":"Q1122337","title":"Battle of Thermopylae","url":"https://en.wikipedia.org/wiki/Battle_of_Thermopylae","language":"en","tier":100},
+{"id":"Q179670","kind":"event","point":-329.26575342465753,"pointLabel":"0331-10-01 BCE (Julian)","tags":["battles","key-events"],"parent":"Q551888","title":"Battle of Gaugamela","url":"https://en.wikipedia.org/wiki/Battle_of_Gaugamela","language":"en","tier":100}
 ]

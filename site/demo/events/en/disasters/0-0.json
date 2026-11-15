@@ -1,4 +1,4 @@
 [
-{"id":"Q599141","kind":"event","start":165.0,"startLabel":"165","end":180.0,"endLabel":"180","tags":["disasters"],"title":"Antonine Plague","url":"https://en.wikipedia.org/wiki/Antonine_Plague","language":"en"},
-{"id":"Q2321578","kind":"event","start":249.0,"startLabel":"249","end":262.0,"endLabel":"262","tags":["disasters"],"title":"Plague of Cyprian","url":"https://en.wikipedia.org/wiki/Plague_of_Cyprian","language":"en"}
+{"id":"Q599141","kind":"event","start":165.0,"startLabel":"165","end":180.0,"endLabel":"180","tags":["disasters"],"title":"Antonine Plague","url":"https://en.wikipedia.org/wiki/Antonine_Plague","language":"en","tier":100},
+{"id":"Q2321578","kind":"event","start":249.0,"startLabel":"249","end":262.0,"endLabel":"262","tags":["disasters"],"title":"Plague of Cyprian","url":"https://en.wikipedia.org/wiki/Plague_of_Cyprian","language":"en","tier":100}
 ]

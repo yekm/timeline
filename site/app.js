@@ -3,23 +3,27 @@ import { Timeline } from './timeline.js';
 const copy = {
   en: {
     language: 'Catalogue language', title: 'Atlas of Time',
+    ranking: 'Article notability', top1: 'Top 1%', top5: 'Top 5%', top10: 'Top 10%', showAll: 'All (100%)',
+    rankingHint: 'People and events are ranked separately by how many Wikipedia language editions cover them. Tied articles stay together.',
     catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', filterHint: 'Choose what appears on the timeline.',
     clear: 'Clear', visibleRange: 'VISIBLE RANGE', reset: 'Reset view', retry: 'Retry',
     gestures: 'Wheel to zoom · Drag or Shift + wheel to pan', footer: 'A timeline built from linked open data.',
     demo: 'Demo catalogue', snapshot: 'Wikidata snapshot', sample: 'Partial snapshot', selected: 'Layers enabled',
     loading: 'Loading catalogue…', choose: 'Choose a layer to display entries.',
-    empty: 'No matching entries in this range.', visible: 'Entries in range',
+    empty: 'No matching entries in this range.', rankedEmpty: 'No entries in this range at the selected cutoff.', visible: 'Entries in range',
     partial: 'Some data could not be loaded.', unavailable: 'The catalogue could not be loaded.',
     expand: 'Expand', collapse: 'Collapse', bce: 'BCE', million: 'Ma', billion: 'Ga',
   },
   ru: {
     language: 'Язык каталога', title: 'Атлас времени',
+    ranking: 'Известность статей', top1: 'Топ 1%', top5: 'Топ 5%', top10: 'Топ 10%', showAll: 'Все (100%)',
+    rankingHint: 'Люди и события ранжируются отдельно по числу языковых версий Википедии. Записи с одинаковым числом не разделяются.',
     catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', filterHint: 'Выберите данные для отображения на шкале.',
     clear: 'Сбросить', visibleRange: 'ВИДИМЫЙ ПЕРИОД', reset: 'Сбросить вид', retry: 'Повторить',
     gestures: 'Колесо — зум · Перетаскивание или Shift + колесо — сдвиг', footer: 'Хронология на основе открытых связанных данных.',
     demo: 'Демокаталог', snapshot: 'Снимок Wikidata', sample: 'Часть снимка', selected: 'Включено слоёв',
     loading: 'Загрузка каталога…', choose: 'Выберите слой, чтобы увидеть записи.',
-    empty: 'В выбранном диапазоне записей нет.', visible: 'Записей в диапазоне',
+    empty: 'В выбранном диапазоне записей нет.', rankedEmpty: 'В этом диапазоне нет записей с выбранным порогом.', visible: 'Записей в диапазоне',
     partial: 'Часть данных не удалось загрузить.', unavailable: 'Каталог не удалось загрузить.',
     expand: 'Раскрыть', collapse: 'Свернуть', bce: 'до н. э.', million: 'млн лет назад', billion: 'млрд лет назад',
   },
@@ -30,6 +34,8 @@ const rangeLabel = document.getElementById('range-label');
 const status = document.getElementById('data-status');
 const retry = document.getElementById('retry-load');
 const select = document.getElementById('language');
+const rankingControl = document.getElementById('ranking-control');
+const rankingSelect = document.getElementById('ranking');
 const clear = document.getElementById('clear-filters');
 const reset = document.getElementById('reset-range');
 const explorer = document.getElementById('explorer');
@@ -50,6 +56,7 @@ const year = currentYear();
 const initialRange = [year - 300, year];
 const baseLanguage = 'en';
 let language = baseLanguage;
+let cutoff = 100;
 let range = initialRange;
 let manifest;
 let manifestURL;
@@ -171,12 +178,16 @@ function loadChunk(path) {
   return promise;
 }
 
-async function itemsFor(active, window, locale) {
+function matchesChunk(chunk, window, locale, limit) {
+  return (chunk.language === baseLanguage || chunk.language === locale) &&
+    (chunk.tier ?? 1) <= limit && overlaps(chunk.from, chunk.to, window);
+}
+
+async function itemsFor(active, window, locale, limit) {
   const paths = new Set();
   for (const id of active) {
     for (const chunk of categories.get(id).chunks ?? []) {
-      const available = chunk.language === baseLanguage || chunk.language === locale;
-      if (available && overlaps(chunk.from, chunk.to, window)) paths.add(chunk.path);
+      if (matchesChunk(chunk, window, locale, limit)) paths.add(chunk.path);
     }
   }
   const results = await Promise.allSettled(Array.from(paths, loadChunk));
@@ -190,7 +201,7 @@ async function itemsFor(active, window, locale) {
     }
     for (const entry of result.value) {
       const activeTag = entry.tags.find((tag) => active.has(tag));
-      if (!activeTag || !itemOverlaps(entry, window)) continue;
+      if (!activeTag || (entry.tier ?? 1) > limit || !itemOverlaps(entry, window)) continue;
       const previous = byId.get(entry.id);
       if (previous?.language === locale || (previous && entry.language !== locale)) continue;
       byId.set(entry.id, {
@@ -214,13 +225,15 @@ function queueLoad(delay = 0) {
   const active = new Set(selected);
   const window = range;
   const locale = language;
+  const limit = cutoff;
   setStatus(strings().loading);
   timer = setTimeout(async () => {
     try {
-      const { items, failed } = await itemsFor(active, window, locale);
+      const { items, failed } = await itemsFor(active, window, locale, limit);
       if (id !== request) return;
       timeline.setItems(items);
-      const message = items.length ? `${strings().visible} ${number(items.length)}` : strings().empty;
+      const emptyMessage = limit < 100 ? strings().rankedEmpty : strings().empty;
+      const message = items.length ? `${strings().visible} ${number(items.length)}` : emptyMessage;
       setStatus(failed ? `${strings().partial}${items.length ? ` ${message}` : ''}` : message, failed);
     } catch (error) {
       if (id !== request) return;
@@ -361,6 +374,7 @@ function updateLanguage() {
   for (const element of document.querySelectorAll('[data-copy]')) {
     element.textContent = strings()[element.dataset.copy];
   }
+  rankingSelect.title = strings().rankingHint;
   const snapshotLabel = manifest.partial ? strings().sample : strings().snapshot;
   datasetLabel.textContent = usingDemo ? strings().demo : `${snapshotLabel}${manifest.snapshot ? ` ${manifest.snapshot}` : ''}`;
   datasetLabel.hidden = false;
@@ -374,6 +388,11 @@ select.addEventListener('change', () => {
   interacted = true;
   language = select.value;
   updateLanguage();
+  queueLoad();
+});
+
+rankingSelect.addEventListener('change', () => {
+  cutoff = Number(rankingSelect.value);
   queueLoad();
 });
 
@@ -398,11 +417,11 @@ retry.addEventListener('click', () => {
 
 async function chooseFeatured() {
   const candidates = [...categories.values()].filter((category) => category.featured &&
-    category.chunks?.some((chunk) => chunk.language === baseLanguage && overlaps(chunk.from, chunk.to, initialRange)));
+    category.chunks?.some((chunk) => matchesChunk(chunk, initialRange, baseLanguage, cutoff)));
   while (candidates.length && !interacted) {
     const index = Math.floor(Math.random() * candidates.length);
     const [candidate] = candidates.splice(index, 1);
-    const { items } = await itemsFor(new Set(collectTargets(candidate.id)), initialRange, baseLanguage);
+    const { items } = await itemsFor(new Set(collectTargets(candidate.id)), initialRange, baseLanguage, cutoff);
     if (items.length) return candidate;
   }
   return null;
@@ -430,6 +449,11 @@ function applyCategoryColors() {
 async function start() {
   try {
     await loadManifest();
+    if (manifest.ranking) {
+      cutoff = manifest.ranking.default ?? (usingDemo ? 100 : 1);
+      rankingSelect.value = String(cutoff);
+      rankingControl.hidden = false;
+    }
     epochs = await fetchJSON(new URL(manifest.epochs, manifestURL));
     for (const category of manifest.categories) categories.set(category.id, category);
     for (const category of categories.values()) {
@@ -452,6 +476,7 @@ async function start() {
     }
     ready = true;
     select.disabled = false;
+    rankingSelect.disabled = false;
     reset.disabled = false;
     queueLoad();
   } catch (error) {

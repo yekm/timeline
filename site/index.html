@@ -39,12 +39,24 @@
               </button>
               <button class="toolbar-button" id="human-history" type="button">Human history</button>
             </div>
-            <div class="window-label">
-              <h2 id="workspace-heading" class="eyebrow" data-copy="visibleRange">VISIBLE RANGE</h2>
-              <span id="range-label" class="range-label">—</span>
+            <div class="window-controls">
+              <div class="window-label">
+                <h2 id="workspace-heading" class="eyebrow" data-copy="visibleRange">VISIBLE RANGE</h2>
+                <span id="range-label" class="range-label">—</span>
+              </div>
+              <label class="toolbar-select" id="ranking-control" for="ranking" hidden>
+                <span class="visually-hidden" data-copy="ranking">Article notability</span>
+                <select id="ranking" aria-describedby="ranking-description" disabled>
+                  <option value="1" data-copy="top1">Top 1%</option>
+                  <option value="5" data-copy="top5">Top 5%</option>
+                  <option value="10" data-copy="top10">Top 10%</option>
+                  <option value="100" data-copy="showAll">All (100%)</option>
+                </select>
+              </label>
+              <span class="visually-hidden" id="ranking-description" data-copy="rankingHint"></span>
             </div>
             <div class="toolbar-actions toolbar-end">
-              <label class="language-control" for="language">
+              <label class="toolbar-select" for="language">
                 <span class="visually-hidden" data-copy="language">Catalogue language</span>
                 <svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5">
                   <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.2 2.5 3.4 5.5 3.4 9s-1.2 6.5-3.4 9c-2.2-2.5-3.4-5.5-3.4-9s1.2-6.5 3.4-9Z"/>

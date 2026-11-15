@@ -1,8 +1,8 @@
 [
-{"id":"Q178510","kind":"event","point":1526.6575342465753,"pointLabel":"1526-08-29","tags":["battles"],"parent":"Q124785345","title":"Battle of Mohács","url":"https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs","language":"en"},
-{"id":"Q58732","kind":"event","start":1565.4027397260274,"startLabel":"1565-05-18 (Julian)","end":1565.7123287671234,"endLabel":"1565-09-08 (Julian)","tags":["battles"],"parent":"Q786171","title":"Siege of Malta","url":"https://en.wikipedia.org/wiki/Great_Siege_of_Malta","language":"en"},
-{"id":"Q165425","kind":"event","point":1571.7917808219179,"pointLabel":"1571-10-07 (Julian)","tags":["battles"],"parent":"Q118929718","title":"Battle of Lepanto","url":"https://en.wikipedia.org/wiki/Battle_of_Lepanto","language":"en"},
-{"id":"Q4373","kind":"event","point":1620.8524590163934,"pointLabel":"1620-11-08","tags":["battles"],"parent":"Q1785022","title":"Battle of White Mountain","url":"https://en.wikipedia.org/wiki/Battle_of_White_Mountain","language":"en"},
-{"id":"Q200855","kind":"event","point":1683.695890410959,"pointLabel":"1683-09-12","tags":["battles"],"title":"Battle of Vienna","url":"https://en.wikipedia.org/wiki/Battle_of_Vienna","language":"en"},
-{"id":"Q152486","kind":"event","point":1709.5150684931507,"pointLabel":"1709-06-27 (Julian)","tags":["battles"],"parent":"Q151616","title":"Battle of Poltava","url":"https://en.wikipedia.org/wiki/Battle_of_Poltava","language":"en"}
+{"id":"Q178510","kind":"event","point":1526.6575342465753,"pointLabel":"1526-08-29","tags":["battles"],"parent":"Q124785345","title":"Battle of Mohács","url":"https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs","language":"en","tier":100},
+{"id":"Q58732","kind":"event","start":1565.4027397260274,"startLabel":"1565-05-18 (Julian)","end":1565.7123287671234,"endLabel":"1565-09-08 (Julian)","tags":["battles"],"parent":"Q786171","title":"Siege of Malta","url":"https://en.wikipedia.org/wiki/Great_Siege_of_Malta","language":"en","tier":100},
+{"id":"Q165425","kind":"event","point":1571.7917808219179,"pointLabel":"1571-10-07 (Julian)","tags":["battles"],"parent":"Q118929718","title":"Battle of Lepanto","url":"https://en.wikipedia.org/wiki/Battle_of_Lepanto","language":"en","tier":100},
+{"id":"Q4373","kind":"event","point":1620.8524590163934,"pointLabel":"1620-11-08","tags":["battles"],"parent":"Q1785022","title":"Battle of White Mountain","url":"https://en.wikipedia.org/wiki/Battle_of_White_Mountain","language":"en","tier":100},
+{"id":"Q200855","kind":"event","point":1683.695890410959,"pointLabel":"1683-09-12","tags":["battles"],"title":"Battle of Vienna","url":"https://en.wikipedia.org/wiki/Battle_of_Vienna","language":"en","tier":100},
+{"id":"Q152486","kind":"event","point":1709.5150684931507,"pointLabel":"1709-06-27 (Julian)","tags":["battles"],"parent":"Q151616","title":"Battle of Poltava","url":"https://en.wikipedia.org/wiki/Battle_of_Poltava","language":"en","tier":100}
 ]

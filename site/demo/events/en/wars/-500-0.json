@@ -1,5 +1,5 @@
 [
-{"id":"Q76026","kind":"event","start":-498.0,"startLabel":"499 BCE","end":-448.0,"endLabel":"449 BCE","tags":["wars"],"title":"Greco-Persian Wars","url":"https://en.wikipedia.org/wiki/Greco-Persian_Wars","language":"en"},
-{"id":"Q33745","kind":"event","start":-430.0,"startLabel":"431 BCE","end":-402.7013698630137,"endLabel":"0404-04-25 BCE (Julian)","tags":["wars","key-events"],"parent":"Q29788594","title":"Peloponnesian War","url":"https://en.wikipedia.org/wiki/Peloponnesian_War","language":"en"},
-{"id":"Q6286","kind":"event","start":-263.0,"startLabel":"264 BCE","end":-240.0,"endLabel":"241 BCE","tags":["wars"],"parent":"Q124988","title":"First Punic War","url":"https://en.wikipedia.org/wiki/First_Punic_War","language":"en"}
+{"id":"Q76026","kind":"event","start":-498.0,"startLabel":"499 BCE","end":-448.0,"endLabel":"449 BCE","tags":["wars"],"title":"Greco-Persian Wars","url":"https://en.wikipedia.org/wiki/Greco-Persian_Wars","language":"en","tier":100},
+{"id":"Q33745","kind":"event","start":-430.0,"startLabel":"431 BCE","end":-402.7013698630137,"endLabel":"0404-04-25 BCE (Julian)","tags":["wars","key-events"],"parent":"Q29788594","title":"Peloponnesian War","url":"https://en.wikipedia.org/wiki/Peloponnesian_War","language":"en","tier":100},
+{"id":"Q6286","kind":"event","start":-263.0,"startLabel":"264 BCE","end":-240.0,"endLabel":"241 BCE","tags":["wars"],"parent":"Q124988","title":"First Punic War","url":"https://en.wikipedia.org/wiki/First_Punic_War","language":"en","tier":100}
 ]

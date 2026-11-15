@@ -1,7 +1,7 @@
 [
-{"id":"Q963303","kind":"event","point":1569.5232876712328,"pointLabel":"1569-07-01 (Julian)","tags":["states"],"title":"Union of Lublin","url":"https://en.wikipedia.org/wiki/Union_of_Lublin","language":"en"},
-{"id":"Q216165","kind":"event","point":1579.0876712328768,"pointLabel":"1579-01-23 (Julian)","tags":["states"],"title":"Union of Utrecht","url":"https://en.wikipedia.org/wiki/Union_of_Utrecht","language":"en"},
-{"id":"Q150995","kind":"event","point":1648.811475409836,"pointLabel":"1648-10-24","tags":["states","key-events"],"title":"Peace of Westphalia","url":"https://en.wikipedia.org/wiki/Peace_of_Westphalia","language":"en"},
-{"id":"Q525758","kind":"event","point":1654.0,"pointLabel":"1654","tags":["states"],"title":"Treaty of Pereyaslav","url":"https://en.wikipedia.org/wiki/Pereiaslav_Agreement","language":"en"},
-{"id":"Q221670","kind":"event","point":1659.849315068493,"pointLabel":"1659-11-07","tags":["states"],"parent":"Q65990169","title":"Treaty of the Pyrenees","url":"https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees","language":"en"}
+{"id":"Q963303","kind":"event","point":1569.5232876712328,"pointLabel":"1569-07-01 (Julian)","tags":["states"],"title":"Union of Lublin","url":"https://en.wikipedia.org/wiki/Union_of_Lublin","language":"en","tier":100},
+{"id":"Q216165","kind":"event","point":1579.0876712328768,"pointLabel":"1579-01-23 (Julian)","tags":["states"],"title":"Union of Utrecht","url":"https://en.wikipedia.org/wiki/Union_of_Utrecht","language":"en","tier":100},
+{"id":"Q150995","kind":"event","point":1648.811475409836,"pointLabel":"1648-10-24","tags":["states","key-events"],"title":"Peace of Westphalia","url":"https://en.wikipedia.org/wiki/Peace_of_Westphalia","language":"en","tier":100},
+{"id":"Q525758","kind":"event","point":1654.0,"pointLabel":"1654","tags":["states"],"title":"Treaty of Pereyaslav","url":"https://en.wikipedia.org/wiki/Pereiaslav_Agreement","language":"en","tier":100},
+{"id":"Q221670","kind":"event","point":1659.849315068493,"pointLabel":"1659-11-07","tags":["states"],"parent":"Q65990169","title":"Treaty of the Pyrenees","url":"https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees","language":"en","tier":100}
 ]

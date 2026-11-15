@@ -1,4 +1,4 @@
 [
-{"id":"Q162665","kind":"event","point":532.0054644808744,"pointLabel":"0532-01 (Julian)","tags":["revolutions"],"title":"Nika Riots","url":"https://en.wikipedia.org/wiki/Nika_riots","language":"en"},
-{"id":"Q5933860","kind":"event","start":746.4465753424657,"startLabel":"0746-06-09 (Julian)","end":750.5068493150685,"endLabel":"0750-07 (Julian)","tags":["revolutions"],"title":"Abbasid Revolution","url":"https://en.wikipedia.org/wiki/Abbasid_revolution","language":"en"}
+{"id":"Q162665","kind":"event","point":532.0054644808744,"pointLabel":"0532-01 (Julian)","tags":["revolutions"],"title":"Nika Riots","url":"https://en.wikipedia.org/wiki/Nika_riots","language":"en","tier":100},
+{"id":"Q5933860","kind":"event","start":746.4465753424657,"startLabel":"0746-06-09 (Julian)","end":750.5068493150685,"endLabel":"0750-07 (Julian)","tags":["revolutions"],"title":"Abbasid Revolution","url":"https://en.wikipedia.org/wiki/Abbasid_revolution","language":"en","tier":100}
 ]

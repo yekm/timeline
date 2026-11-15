@@ -1,7 +1,7 @@
 """Build the static catalogue from a completed Wikidata scan."""
 
 import argparse
-from collections import OrderedDict, defaultdict
+from collections import Counter, OrderedDict, defaultdict
 from contextlib import closing
 import json
 import math
@@ -9,12 +9,13 @@ from pathlib import Path
 import re
 import sqlite3
 import sys
-from tempfile import TemporaryDirectory
+from tempfile import TemporaryDirectory, TemporaryFile
 from urllib.parse import quote
 
 
 DEFAULT_CATEGORIES = Path(__file__).with_name("categories.json")
 GENERATOR = "chronoscope-wikidata"
+RANK_TIERS = (1, 5, 10, 100)
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 LANGUAGE = re.compile(r"[a-z]{2,12}(?:-[a-z0-9]{2,12})*\Z")
 LANGUAGE_NAMES = {
@@ -176,6 +177,32 @@ def localize(entry, language, sitelinks, labels, languages):
     return result
 
 
+def ranking_summary(histograms, default=1):
+    counts = {}
+    for kind, histogram in histograms.items():
+        total = sum(histogram.values())
+        cumulative = 0
+        thresholds = {str(tier): {"minSitelinks": None, "count": 0} for tier in RANK_TIERS}
+        distances = {tier: math.inf for tier in RANK_TIERS}
+        for score, count in sorted(histogram.items(), reverse=True):
+            cumulative += count
+            for tier in RANK_TIERS:
+                distance = abs(cumulative * 100 - total * tier)
+                if distance < distances[tier]:
+                    distances[tier] = distance
+                    thresholds[str(tier)] = {"minSitelinks": score, "count": cumulative}
+        counts[kind] = {"total": total, "thresholds": thresholds}
+    return {"metric": "wikipedia-sitelinks", "tiers": list(RANK_TIERS), "default": default, "counts": counts}
+
+
+def tier_for_score(score, kind_ranking):
+    for tier in RANK_TIERS:
+        minimum = kind_ranking["thresholds"][str(tier)]["minSitelinks"]
+        if minimum is not None and score >= minimum:
+            return tier
+    return RANK_TIERS[-1]
+
+
 class Shards:
     def __init__(self, directory, bucket_years, shard_items):
         self.directory = directory
@@ -188,10 +215,11 @@ class Shards:
 
     def append(self, entry, start, end):
         bucket = math.floor(start / self.bucket_years) * self.bucket_years
-        key = (entry["language"], entry["tags"][0], bucket)
+        tier = entry["tier"]
+        key = (entry["language"], entry["tags"][0], bucket, tier)
         index = self.bucket_counts[key]
         self.bucket_counts[key] += 1
-        path = f"{key[0]}/{key[1]}/{bucket}-{index // self.shard_items}.json"
+        path = f"{key[0]}/{key[1]}/{bucket}-top{tier}-{index // self.shard_items}.json"
         stream = self.open_files.pop(path, None)
         if stream is None:
             if len(self.open_files) >= 48:
@@ -207,6 +235,7 @@ class Shards:
         for tag in entry["tags"]:
             chunk = self.by_tag[tag].setdefault(path, {
                 "from": start, "to": end, "path": path, "count": 0, "language": entry["language"],
+                "tier": tier,
             })
             chunk["from"] = min(chunk["from"], start)
             chunk["to"] = max(chunk["to"], end)
@@ -224,6 +253,34 @@ class Shards:
                 stream.write("\n]\n")
 
 
+def stage_entries(connection, catalog, languages, staged):
+    histograms = {"person": Counter(), "event": Counter()}
+    for row in connection.execute("SELECT * FROM entities"):
+        sitelinks = json.loads(row["sitelinks"])
+        available = [language for language in languages if sitelinks.get(language)]
+        if not available:
+            continue
+        tags = catalog.tags_for(row)
+        if not tags:
+            continue
+        position = position_fields(row, prefer_bounds="wars" in tags and "battles" not in tags)
+        if not position:
+            continue
+        values, start, end = position
+        kind = row["kind"]
+        entry = {"id": row["qid"], "kind": kind, **values, "tags": tags}
+        parents = json.loads(row["part_of"])
+        if parents:
+            entry["parent"] = parents[0]
+        labels = json.loads(row["labels"])
+        items = [localize(entry, language, sitelinks, labels, languages) for language in available]
+        score = sum(bool(article) for article in sitelinks.values())
+        histograms[kind][score] += 1
+        staged.write(json.dumps((kind, score, start, end, items), ensure_ascii=False,
+                                separators=(",", ":"), allow_nan=False) + "\n")
+    return histograms
+
+
 def build_catalogue(connection, stage, args):
     connection.row_factory = sqlite3.Row
     metadata = dict(connection.execute("SELECT key, value FROM metadata"))
@@ -234,36 +291,29 @@ def build_catalogue(connection, stage, args):
     catalog = Catalog(connection, args.categories)
     shards = Shards(stage, args.bucket_years, args.shard_items)
     exported = defaultdict(int)
-    try:
-        for row in connection.execute("SELECT * FROM entities"):
-            sitelinks = json.loads(row["sitelinks"])
-            available = [language for language in args.languages if sitelinks.get(language)]
-            if not available:
-                continue
-            tags = catalog.tags_for(row)
-            if not tags:
-                continue
-            position = position_fields(row, prefer_bounds="wars" in tags and "battles" not in tags)
-            if not position:
-                continue
-            values, start, end = position
-            entry = {"id": row["qid"], "kind": row["kind"], **values, "tags": tags}
-            parents = json.loads(row["part_of"])
-            if parents:
-                entry["parent"] = parents[0]
-            labels = json.loads(row["labels"])
-            for language in available:
-                item = localize(entry, language, sitelinks, labels, args.languages)
-                shards.append(item, start, end)
-                exported[language] += 1
-    finally:
-        shards.close()
+    with TemporaryFile(mode="w+", encoding="utf-8", dir=stage.parent) as staged:
+        histograms = stage_entries(connection, catalog, args.languages, staged)
+        ranking = ranking_summary(histograms)
+        total = sum(info["total"] for info in ranking["counts"].values())
+        print(f"Ranked {total:,} entries by Wikipedia language count; writing catalogue fragments.", file=sys.stderr)
+        staged.seek(0)
+        try:
+            for line in staged:
+                kind, score, start, end, items = json.loads(line)
+                tier = tier_for_score(score, ranking["counts"][kind])
+                for item in items:
+                    item["tier"] = tier
+                    shards.append(item, start, end)
+                    exported[item["language"]] += 1
+        finally:
+            shards.close()
     shards.finish()
 
     manifest = {
         "version": 1, "generator": GENERATOR, "snapshot": metadata.get("snapshot", ""),
         "partial": partial, "epochs": "../epochs.json",
         "languages": [{"id": lang, "label": LANGUAGE_NAMES.get(lang, lang)} for lang in args.languages],
+        "ranking": ranking,
         "categories": [],
     }
     for tag, category in catalog.categories.items():
