@@ -3,7 +3,7 @@ import { Timeline } from './timeline.js';
 const copy = {
   en: {
     language: 'Catalogue language', title: 'Atlas of Time',
-    ranking: 'Article notability', top1: 'Top 1%', top5: 'Top 5%', top10: 'Top 10%', showAll: 'All (100%)',
+    ranking: 'Article notability', top: 'Top', showAll: 'All (100%)',
     rankingHint: 'People and events are ranked separately by how many Wikipedia language editions cover them. Tied articles stay together.',
     catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', filterHint: 'Choose what appears on the timeline.',
     clear: 'Clear', visibleRange: 'VISIBLE RANGE', reset: 'Reset view', retry: 'Retry',
@@ -16,7 +16,7 @@ const copy = {
   },
   ru: {
     language: 'Язык каталога', title: 'Атлас времени',
-    ranking: 'Известность статей', top1: 'Топ 1%', top5: 'Топ 5%', top10: 'Топ 10%', showAll: 'Все (100%)',
+    ranking: 'Известность статей', top: 'Топ', showAll: 'Все (100%)',
     rankingHint: 'Люди и события ранжируются отдельно по числу языковых версий Википедии. Записи с одинаковым числом не разделяются.',
     catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', filterHint: 'Выберите данные для отображения на шкале.',
     clear: 'Сбросить', visibleRange: 'ВИДИМЫЙ ПЕРИОД', reset: 'Сбросить вид', retry: 'Повторить',
@@ -180,7 +180,7 @@ function loadChunk(path) {
 
 function matchesChunk(chunk, window, locale, limit) {
   return (chunk.language === baseLanguage || chunk.language === locale) &&
-    (chunk.tier ?? 1) <= limit && overlaps(chunk.from, chunk.to, window);
+    (chunk.tier ?? 0) <= limit && overlaps(chunk.from, chunk.to, window);
 }
 
 async function itemsFor(active, window, locale, limit) {
@@ -201,7 +201,7 @@ async function itemsFor(active, window, locale, limit) {
     }
     for (const entry of result.value) {
       const activeTag = entry.tags.find((tag) => active.has(tag));
-      if (!activeTag || (entry.tier ?? 1) > limit || !itemOverlaps(entry, window)) continue;
+      if (!activeTag || (entry.tier ?? 0) > limit || !itemOverlaps(entry, window)) continue;
       const previous = byId.get(entry.id);
       if (previous?.language === locale || (previous && entry.language !== locale)) continue;
       byId.set(entry.id, {
@@ -374,6 +374,10 @@ function updateLanguage() {
   for (const element of document.querySelectorAll('[data-copy]')) {
     element.textContent = strings()[element.dataset.copy];
   }
+  for (const option of rankingSelect.options) {
+    const tier = Number(option.value);
+    option.textContent = tier === 100 ? strings().showAll : `${strings().top} ${number(tier)}%`;
+  }
   rankingSelect.title = strings().rankingHint;
   const snapshotLabel = manifest.partial ? strings().sample : strings().snapshot;
   datasetLabel.textContent = usingDemo ? strings().demo : `${snapshotLabel}${manifest.snapshot ? ` ${manifest.snapshot}` : ''}`;
@@ -450,7 +454,10 @@ async function start() {
   try {
     await loadManifest();
     if (manifest.ranking) {
-      cutoff = manifest.ranking.default ?? (usingDemo ? 100 : 1);
+      const tiers = manifest.ranking.tiers ?? [1, 5, 10, 100];
+      const defaultTier = manifest.ranking.default ?? (usingDemo ? 100 : tiers[0]);
+      cutoff = tiers.includes(defaultTier) ? defaultTier : tiers[0];
+      rankingSelect.replaceChildren(...tiers.map((tier) => new Option('', String(tier))));
       rankingSelect.value = String(cutoff);
       rankingControl.hidden = false;
     }

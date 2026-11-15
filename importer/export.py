@@ -15,7 +15,7 @@ from urllib.parse import quote
 
 DEFAULT_CATEGORIES = Path(__file__).with_name("categories.json")
 GENERATOR = "chronoscope-wikidata"
-RANK_TIERS = (1, 5, 10, 100)
+RANK_TIERS = (0.1, 0.5, 1, 10, 100)
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 LANGUAGE = re.compile(r"[a-z]{2,12}(?:-[a-z0-9]{2,12})*\Z")
 LANGUAGE_NAMES = {
@@ -177,17 +177,19 @@ def localize(entry, language, sitelinks, labels, languages):
     return result
 
 
-def ranking_summary(histograms, default=1):
+def ranking_summary(histograms, default=RANK_TIERS[0]):
     counts = {}
     for kind, histogram in histograms.items():
         total = sum(histogram.values())
+        # Compare cumulative proportions in tenths of a percent without float rounding.
+        targets = {tier: total * round(tier * 10) for tier in RANK_TIERS}
         cumulative = 0
         thresholds = {str(tier): {"minSitelinks": None, "count": 0} for tier in RANK_TIERS}
         distances = {tier: math.inf for tier in RANK_TIERS}
         for score, count in sorted(histogram.items(), reverse=True):
             cumulative += count
             for tier in RANK_TIERS:
-                distance = abs(cumulative * 100 - total * tier)
+                distance = abs(cumulative * 1000 - targets[tier])
                 if distance < distances[tier]:
                     distances[tier] = distance
                     thresholds[str(tier)] = {"minSitelinks": score, "count": cumulative}
