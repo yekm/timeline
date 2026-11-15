@@ -42,23 +42,32 @@ def read_catalog(path):
             seen.add(parent)
             parent = categories[parent].get("parent")
     pinned = config.get("pinned", {})
-    for tags in pinned.values():
-        if set(tags) - categories.keys():
-            raise ValueError("A pinned entry uses an undefined category")
-    return categories, pinned
+    excluded_tags = config.get("excludedTags", {})
+    for overrides in (pinned, excluded_tags):
+        for tags in overrides.values():
+            if set(tags) - categories.keys():
+                raise ValueError("A category override uses an undefined category")
+    return categories, pinned, excluded_tags, config.get("excludedSubclassEdges", [])
 
 
-def descendants(connection, roots):
+def descendants(connection, roots, excluded_edges=()):
     if not roots:
         return {}
     values = ",".join("(?, ?)" for _ in roots)
     parameters = [value for root in roots for value in (root, root)]
+    where = ""
+    if excluded_edges:
+        exclusions = ",".join("(?, ?)" for _ in excluded_edges)
+        where = f"WHERE (subclasses.child, subclasses.parent) NOT IN (VALUES {exclusions})"
+        for child, parent in excluded_edges:
+            parameters.extend((child, parent))
     rows = connection.execute(f"""
         WITH RECURSIVE closure(root, qid) AS (
             VALUES {values}
             UNION
             SELECT closure.root, subclasses.child
             FROM closure JOIN subclasses ON subclasses.parent = closure.qid
+            {where}
         )
         SELECT root, qid FROM closure
     """, parameters)
@@ -71,7 +80,7 @@ def descendants(connection, roots):
 class Catalog:
     def __init__(self, connection, path):
         self.connection = connection
-        self.categories, self.pinned = read_catalog(path)
+        self.categories, self.pinned, self.excluded_tags, excluded_edges = read_catalog(path)
         self.occupation_roots = defaultdict(set)
         self.event_roots = defaultdict(set)
         self.field_rules = []
@@ -86,7 +95,7 @@ class Catalog:
         roots = self.occupation_roots.keys() | self.event_roots.keys()
         for profession, field, _ in self.field_rules:
             roots.update((profession, field))
-        self.ancestors = descendants(connection, sorted(roots))
+        self.ancestors = descendants(connection, sorted(roots), excluded_edges)
         self.priority = {tag: i for i, tag in enumerate(self.categories)}
 
     def other_occupation(self, qid):
@@ -126,6 +135,8 @@ class Catalog:
             for event_type in json.loads(row["types"]):
                 for root in self.ancestors.get(event_type, ()):
                     tags.update(self.event_roots.get(root, ()))
+
+        tags.difference_update(self.excluded_tags.get(row["qid"], ()))
 
         # Keep the most specific configured category first for shard ownership and colour.
         def order(tag):

@@ -60,6 +60,8 @@
     {"id":"disasters","label":{"en":"Epidemics and disasters","ru":"Эпидемии и катастрофы"},"parent":"history-events","types":["Q44512","Q12184","Q8065","Q7944","Q7692360","Q168247","Q68800046","Q3193890","Q8068"]},
     {"id":"culture-events","label":{"en":"Culture and sports milestones","ru":"Культурные и спортивные вехи"},"parent":"history-events","types":["Q159821","Q204854","Q5389","Q172754"]}
   ],
+  "excludedSubclassEdges": [["Q18931911", "Q901"], ["Q1231865", "Q15319501"]],
+  "excludedTags": {"Q7200": ["scientists"]},
   "pinned": {
     "Q361": ["wars", "key-events"],
     "Q362": ["wars", "key-events"],
