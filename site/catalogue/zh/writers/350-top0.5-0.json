@@ -1,0 +1,7 @@
+[
+{"id":"Q104804","kind":"person","start":362.0,"startLabel":"≈362","end":440.1311475409836,"endLabel":"0440-02-17 (Julian)","tags":["writers","translation"],"title":"聖梅斯羅布","url":"https://zh.wikipedia.org/wiki/%E6%A2%85%E6%96%AF%E7%BD%97%E6%99%AE%C2%B7%E9%A9%AC%E4%BB%80%E6%89%98%E8%8C%A8","language":"zh","tier":0.5},
+{"id":"Q185073","kind":"person","start":381.0,"startLabel":"≈381","end":451.0,"endLabel":"≈451","tags":["writers","religion"],"title":"聶斯脫里","url":"https://zh.wikipedia.org/wiki/%E8%81%B6%E6%96%AF%E8%84%AB%E9%87%8C","language":"zh","tier":0.5},
+{"id":"Q165479","kind":"person","start":385.0,"startLabel":"≈385","end":461.2082191780822,"endLabel":"≈0461-03-17 (Julian)","tags":["writers","religion","agriculture","occupation-q219477"],"title":"圣帕特里克","url":"https://zh.wikipedia.org/wiki/%E8%81%96%E5%8D%9A%E5%BE%B7","language":"zh","tier":0.5},
+{"id":"Q311456","kind":"person","start":385.0,"startLabel":"≈385","end":418.0,"endLabel":"≈418","tags":["writers","scientists","religion"],"title":"保卢斯·奥罗修斯","url":"https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%8D%A2%E6%96%AF%C2%B7%E5%A5%A5%E7%BD%97%E4%BF%AE%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q205947","kind":"person","start":370.0,"startLabel":"≈370","end":404.0,"endLabel":"≈404","tags":["writers","poetry"],"title":"克劳狄安","url":"https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8A%B3%E7%8B%84%E5%AE%89","language":"zh","tier":0.5}
+]

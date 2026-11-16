@@ -1,0 +1,6 @@
+[
+{"id":"Q184634","kind":"person","start":30.0,"startLabel":"≈30","end":61.0,"endLabel":"61","tags":["politicians","rulers","military","activism"],"title":"Boudicca","url":"https://de.wikipedia.org/wiki/Boudicca","language":"de","tier":0.5},
+{"id":"Q272082","kind":"person","start":40.52459016393443,"startLabel":"0040-07-13 (Julian)","end":93.64109589041095,"endLabel":"0093-08-23","tags":["politicians","military"],"title":"Gnaeus Iulius Agricola","url":"https://de.wikipedia.org/wiki/Gnaeus_Iulius_Agricola","language":"de","tier":0.5},
+{"id":"Q229871","kind":"person","start":20.0,"startLabel":"20","end":48.0,"endLabel":"48","tags":["politicians"],"title":"Valeria Messalina","url":"https://de.wikipedia.org/wiki/Valeria_Messalina","language":"de","tier":0.5},
+{"id":"Q154732","kind":"person","start":15.841095890410958,"startLabel":"0015-11-06 (Julian)","end":59.2,"endLabel":"0059-03-17 (Julian)","tags":["politicians"],"title":"Agrippina die Jüngere","url":"https://de.wikipedia.org/wiki/Agrippina_die_J%C3%BCngere","language":"de","tier":0.5}
+]

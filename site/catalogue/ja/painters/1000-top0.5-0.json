@@ -1,0 +1,4 @@
+[
+{"id":"Q319618","kind":"person","start":1021.9506849315069,"startLabel":"1021-12-08 (Julian)","end":1086.4,"endLabel":"1086-05-21 (Julian)","tags":["painters","writers","poetry","scientists","politicians","occupation-q3303330"],"parent":"Q831237","title":"王安石","url":"https://ja.wikipedia.org/wiki/%E7%8E%8B%E5%AE%89%E7%9F%B3","language":"ja","tier":0.5},
+{"id":"Q36020","kind":"person","start":1037.035616438356,"startLabel":"1037-01-08 (Julian)","end":1101.66301369863,"endLabel":"1101-08-24 (Julian)","tags":["painters","writers","poetry","scientists","healthcare","politicians","music","occupation-q20826540","occupation-q3303330"],"parent":"Q10947431","title":"蘇軾","url":"https://ja.wikipedia.org/wiki/%E8%98%87%E8%BB%BE","language":"ja","tier":0.5}
+]

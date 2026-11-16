@@ -1,0 +1,6 @@
+[
+{"id":"Q313701","kind":"person","start":1598.0602739726028,"startLabel":"1598-01-23","end":1666.7260273972602,"endLabel":"1666-09-23","tags":["architecture"],"title":"François Mansart","url":"https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Mansart","language":"pt","tier":0.5},
+{"id":"Q122328","kind":"person","start":1556.0,"startLabel":"1556","end":1629.0794520547945,"endLabel":"1629-01-30","tags":["architecture"],"title":"Carlo Maderno","url":"https://pt.wikipedia.org/wiki/Carlo_Maderno","language":"pt","tier":0.5},
+{"id":"Q152817","kind":"person","start":1591.164383561644,"startLabel":"1591-03-02","end":1661.7698630136986,"endLabel":"1661-10-09","tags":["architecture","scientists","engineers","military"],"title":"Girard Desargues","url":"https://pt.wikipedia.org/wiki/Girard_Desargues","language":"pt","tier":0.5},
+{"id":"Q295929","kind":"person","start":1573.5342465753424,"startLabel":"1573-07-15","end":1652.4699453551912,"endLabel":"1652-06-21","tags":["architecture","politicians"],"title":"Inigo Jones","url":"https://pt.wikipedia.org/wiki/Inigo_Jones","language":"pt","tier":0.5}
+]

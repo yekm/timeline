@@ -1,7 +1,0 @@
-[
-{"id":"Q33761","kind":"event","start":2010.9616438356165,"startLabel":"2010-12-18","end":2012.9153005464482,"endLabel":"2012-12","tags":["revolutions"],"title":"Arab Spring","url":"https://en.wikipedia.org/wiki/Arab_Spring","language":"en","tier":100},
-{"id":"Q46959","kind":"event","start":2010.9616438356165,"startLabel":"2010-12-18","end":2011.035616438356,"endLabel":"2011-01-14","tags":["revolutions","key-events"],"parent":"Q33761","title":"Tunisian revolution","url":"https://en.wikipedia.org/wiki/Tunisian_revolution","language":"en","tier":100},
-{"id":"Q15224558","kind":"event","start":2013.8876712328768,"startLabel":"2013-11-21","end":2014.145205479452,"endLabel":"2014-02-23","tags":["revolutions"],"parent":"Q16918333","title":"Euromaidan","url":"https://en.wikipedia.org/wiki/Euromaidan","language":"en","tier":100},
-{"id":"Q104705419","kind":"event","point":2021.013698630137,"pointLabel":"2021-01-06","tags":["revolutions"],"parent":"Q101213028","title":"January 6 United States Capitol attack","url":"https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack","language":"en","tier":100},
-{"id":"Q119860532","kind":"event","start":2023.4739726027397,"startLabel":"2023-06-23","end":2023.4767123287672,"endLabel":"2023-06-24","tags":["revolutions"],"parent":"Q110999040","title":"Wagner Group rebellion","url":"https://en.wikipedia.org/wiki/Wagner_Group_rebellion","language":"en","tier":100}
-]

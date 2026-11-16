@@ -1,0 +1,5 @@
+[
+{"id":"Q869","kind":"event","point":1768.9890710382513,"pointLabel":"1768-12-28","tags":["states"],"parent":"Q11708","title":"Thailand","url":"https://de.wikipedia.org/wiki/Thailand","language":"de","tier":0.5},
+{"id":"Q55","kind":"event","point":1795.0493150684931,"pointLabel":"1795-01-19","tags":["states"],"parent":"Q29999","title":"Niederlande","url":"https://de.wikipedia.org/wiki/Niederlande","language":"de","tier":0.5},
+{"id":"Q837","kind":"event","point":1768.7322404371585,"pointLabel":"1768-09-25","tags":["states"],"parent":"Q771405","title":"Nepal","url":"https://de.wikipedia.org/wiki/Nepal","language":"de","tier":0.5}
+]

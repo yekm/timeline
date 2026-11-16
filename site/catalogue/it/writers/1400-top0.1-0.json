@@ -1,0 +1,6 @@
+[
+{"id":"Q34503","kind":"person","start":1432.2677595628415,"startLabel":"1432-03-30 (Julian)","end":1481.358904109589,"endLabel":"1481-05-03 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"Maometto II","url":"https://it.wikipedia.org/wiki/Maometto_II","language":"it","tier":0.1},
+{"id":"Q849","kind":"person","start":1431.2712328767122,"startLabel":"1431-04-01 (Julian)","end":1463.0,"endLabel":"1463","tags":["writers","poetry"],"title":"François Villon","url":"https://it.wikipedia.org/wiki/Fran%C3%A7ois_Villon","language":"it","tier":0.1},
+{"id":"Q101437","kind":"person","start":1405.8191780821917,"startLabel":"1405-10-18 (Julian)","end":1464.6420765027322,"endLabel":"1464-08-14 (Julian)","tags":["writers","poetry","scientists","educators","diplomacy","religion"],"title":"papa Pio II","url":"https://it.wikipedia.org/wiki/Papa_Pio_II","language":"it","tier":0.1},
+{"id":"Q177854","kind":"person","start":1449.0246575342467,"startLabel":"1449-01-01 (Julian)","end":1492.292349726776,"endLabel":"1492-04-08 (Julian)","tags":["writers","poetry","politicians","businesspeople","finance-trade"],"title":"Lorenzo de' Medici","url":"https://it.wikipedia.org/wiki/Lorenzo_de%27_Medici","language":"it","tier":0.1}
+]

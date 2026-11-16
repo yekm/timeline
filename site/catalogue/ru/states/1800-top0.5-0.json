@@ -1,0 +1,15 @@
+[
+{"id":"Q31","kind":"event","point":1830.7561643835616,"pointLabel":"1830-10-04","tags":["states"],"parent":"Q1065","title":"Бельгия","url":"https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F","language":"ru","tier":0.5},
+{"id":"Q717","kind":"event","point":1811.5068493150684,"pointLabel":"1811-07-05","tags":["states"],"parent":"Q12585","title":"Венесуэла","url":"https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0","language":"ru","tier":0.5},
+{"id":"Q736","kind":"event","point":1840.1256830601094,"pointLabel":"1840-02-16","tags":["states"],"parent":"Q12585","title":"Эквадор","url":"https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B0%D0%B4%D0%BE%D1%80","language":"ru","tier":0.5},
+{"id":"Q750","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"Боливия","url":"https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%8F","language":"ru","tier":0.5},
+{"id":"Q783","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Гондурас","url":"https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%B4%D1%83%D1%80%D0%B0%D1%81","language":"ru","tier":0.5},
+{"id":"Q347","kind":"event","point":1806.5260273972603,"pointLabel":"1806-07-12","tags":["states"],"parent":"Q151624","title":"Лихтенштейн","url":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD","language":"ru","tier":0.5},
+{"id":"Q774","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Гватемала","url":"https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D0%BB%D0%B0","language":"ru","tier":0.5},
+{"id":"Q419","kind":"event","point":1821.5698630136985,"pointLabel":"1821-07-28","tags":["states"],"parent":"Q12585","title":"Перу","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%83","language":"ru","tier":0.5},
+{"id":"Q1014","kind":"event","point":1822.0164383561644,"pointLabel":"1822-01-07","tags":["states"],"parent":"Q4412","title":"Либерия","url":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D0%B8%D1%8F","language":"ru","tier":0.5},
+{"id":"Q77","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"Уругвай","url":"https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%B3%D0%B2%D0%B0%D0%B9","language":"ru","tier":0.5},
+{"id":"Q800","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Коста-Рика","url":"https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0","language":"ru","tier":0.5},
+{"id":"Q32","kind":"event","point":1815.0,"pointLabel":"1815","tags":["states"],"parent":"Q458","title":"Люксембург","url":"https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3","language":"ru","tier":0.5},
+{"id":"Q733","kind":"event","point":1811.0,"pointLabel":"1811","tags":["states"],"parent":"Q12585","title":"Парагвай","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9","language":"ru","tier":0.5}
+]

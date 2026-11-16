@@ -1,0 +1,6 @@
+[
+{"id":"Q57197","kind":"person","start":1470.0,"startLabel":"1470","end":1520.2322404371585,"endLabel":"1520-03-16 (Julian)","tags":["scientists","religion","occupation-q27919609"],"title":"马丁·瓦尔德泽米勒","url":"https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E7%93%A6%E5%B0%94%E5%BE%B7%E6%B3%BD%E7%B1%B3%E5%8B%92","language":"zh","tier":0.5},
+{"id":"Q76579","kind":"person","start":1494.2493150684932,"startLabel":"1494-03-24 (Julian)","end":1555.9150684931508,"endLabel":"1555-11-21 (Julian)","tags":["scientists","engineers","physicians","occupation-q4964182","occupation-q593644"],"title":"格奧爾格·阿格里科拉","url":"https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A7%E7%88%BE%E6%A0%BC%C2%B7%E9%98%BF%E6%A0%BC%E9%87%8C%E7%A7%91%E6%8B%89","language":"zh","tier":0.5},
+{"id":"Q201543","kind":"person","start":1499.0,"startLabel":"≈1499","end":1557.9753424657533,"endLabel":"1557-12-13 (Julian)","tags":["scientists","engineers"],"title":"尼科洛·塔尔塔利亚","url":"https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%C2%B7%E5%A1%94%E5%B0%94%E5%A1%94%E5%88%A9%E4%BA%9A","language":"zh","tier":0.5},
+{"id":"Q217915","kind":"person","start":1470.0,"startLabel":"1470","end":1554.0,"endLabel":"1554","tags":["scientists","military"],"title":"皮瑞·雷斯","url":"https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%91%9E%C2%B7%E9%9B%B7%E6%96%AF","language":"zh","tier":0.5}
+]

@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"إيجينوس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%AC%D9%8A%D9%86%D9%88%D8%B3","language":"ar","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"أنكيتوس","url":"https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%83%D9%8A%D8%AA%D9%88%D8%B3","language":"ar","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"إفاريستوس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D9%81%D8%A7%D8%B1%D9%8A%D8%B3%D8%AA%D9%88%D8%B3","language":"ar","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"مريم المجدلية","url":"https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A9","language":"ar","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"تيلسفوروس","url":"https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%84%D8%B3%D9%81%D9%88%D8%B1%D9%88%D8%B3","language":"ar","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"كليمنت الأول","url":"https://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%8A%D9%85%D9%86%D8%AA_%D8%A7%D9%84%D8%A3%D9%88%D9%84","language":"ar","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"ألكسندر الأول","url":"https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D8%B3%D9%86%D8%AF%D8%B1_%D8%A7%D9%84%D8%A3%D9%88%D9%84_(%D8%A8%D8%A7%D8%A8%D8%A7)","language":"ar","tier":0.1}
+]

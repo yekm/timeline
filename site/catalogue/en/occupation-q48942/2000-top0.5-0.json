@@ -1,0 +1,5 @@
+[
+{"id":"Q62938826","kind":"person","start":2019.3424657534247,"startLabel":"2019-05-06","tags":["occupation-q48942"],"title":"Prince Archie of Sussex","url":"https://en.wikipedia.org/wiki/Prince_Archie_of_Sussex","language":"en","titles":{"es":"Archie de Sussex"},"tier":0.5},
+{"id":"Q165249","kind":"person","start":2004.0546448087432,"startLabel":"2004-01-21","tags":["occupation-q48942"],"parent":"Q2418613","title":"Princess Ingrid Alexandra of Norway","url":"https://en.wikipedia.org/wiki/Princess_Ingrid_Alexandra_of_Norway","language":"en","tier":0.5},
+{"id":"Q855749","kind":"person","start":2003.9315068493152,"startLabel":"2003-12-07","tags":["occupation-q48942"],"parent":"Q1988238","title":"Catharina-Amalia, Princess of Orange","url":"https://en.wikipedia.org/wiki/Catharina-Amalia,_Princess_of_Orange","language":"en","tier":0.5}
+]

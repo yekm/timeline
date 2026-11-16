@@ -1,0 +1,10 @@
+[
+{"id":"Q313327","kind":"person","start":182.5041095890411,"startLabel":"0182-07-05 (Julian)","end":252.38524590163934,"endLabel":"0252-05-21 (Julian)","tags":["politicians","rulers"],"title":"Sun Quan","url":"https://fr.wikipedia.org/wiki/Sun_Quan","language":"fr","tier":0.5},
+{"id":"Q1803","kind":"person","start":190.0,"startLabel":"190–199","end":238.27671232876713,"endLabel":"0238-04-12 (Julian)","tags":["politicians","military"],"title":"Gordien II","url":"https://fr.wikipedia.org/wiki/Gordien_II","language":"fr","tier":0.5},
+{"id":"Q1805","kind":"person","start":178.0,"startLabel":"178","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Balbin","url":"https://fr.wikipedia.org/wiki/Balbin","language":"fr","tier":0.5},
+{"id":"Q237960","kind":"person","start":150.0,"startLabel":"150","end":197.13150684931506,"endLabel":"0197-02-19 (Julian)","tags":["politicians"],"title":"Clodius Albinus","url":"https://fr.wikipedia.org/wiki/Clodius_Albinus","language":"fr","tier":0.5},
+{"id":"Q1777","kind":"person","start":173.0,"startLabel":"173","end":238.35342465753425,"endLabel":"0238-05-10 (Julian)","tags":["politicians","military"],"title":"Maximin Ier le Thrace","url":"https://fr.wikipedia.org/wiki/Maximin_Ier_le_Thrace","language":"fr","tier":0.5},
+{"id":"Q1797","kind":"person","start":170.0,"startLabel":"101–200","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Maxime Pupien","url":"https://fr.wikipedia.org/wiki/Maxime_Pupien","language":"fr","tier":0.5},
+{"id":"Q191455","kind":"person","start":150.0,"startLabel":"101–200","end":272.0,"endLabel":"272","tags":["politicians"],"title":"Chapour Ier","url":"https://fr.wikipedia.org/wiki/Chapour_Ier","language":"fr","tier":0.5},
+{"id":"Q371319","kind":"person","start":180.0,"startLabel":"180","end":242.0,"endLabel":"242","tags":["politicians"],"title":"Ardachîr Ier","url":"https://fr.wikipedia.org/wiki/Ardachir_Ier","language":"fr","tier":0.5}
+]

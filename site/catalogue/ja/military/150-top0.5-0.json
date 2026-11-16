@@ -1,0 +1,5 @@
+[
+{"id":"Q222797","kind":"person","start":160.0,"startLabel":"160","end":220.0,"endLabel":"0220-01 (Julian)","tags":["military"],"parent":"Q2039524","title":"関羽","url":"https://ja.wikipedia.org/wiki/%E9%96%A2%E7%BE%BD","language":"ja","tier":0.5},
+{"id":"Q245315","kind":"person","start":161.0,"startLabel":"161","end":223.43835616438355,"endLabel":"0223-06-10 (Julian)","tags":["military"],"title":"劉備","url":"https://ja.wikipedia.org/wiki/%E5%8A%89%E5%82%99","language":"ja","tier":0.5},
+{"id":"Q1782","kind":"person","start":159.0,"startLabel":"159","end":238.0,"endLabel":"238","tags":["military"],"title":"ゴルディアヌス1世","url":"https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8C%E3%82%B91%E4%B8%96","language":"ja","tier":0.5}
+]

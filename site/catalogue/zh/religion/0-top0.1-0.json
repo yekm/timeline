@@ -1,0 +1,7 @@
+[
+{"id":"Q47144","kind":"person","start":10.0,"startLabel":"10","end":79.0,"endLabel":"79","tags":["religion"],"title":"理诺","url":"https://zh.wikipedia.org/wiki/%E7%90%86%E8%AF%BA","language":"zh","tier":0.1},
+{"id":"Q81634","kind":"person","start":42.0,"startLabel":"≈42","end":126.0,"endLabel":"120–129","tags":["religion"],"title":"西斯笃一世","url":"https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%AF%E7%AC%83%E4%B8%80%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q31966","kind":"person","start":12.0,"startLabel":"≈12","end":68.30874316939891,"endLabel":"0068-04-25 (Julian)","tags":["religion"],"parent":"Q472773","title":"約翰‧馬可","url":"https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%8F%AF_(%E7%A6%8F%E9%9F%B3%E6%9B%B8%E4%BD%9C%E8%80%85)","language":"zh","tier":0.1},
+{"id":"Q33923","kind":"person","start":0.0,"startLabel":"1 BCE","end":65.0,"endLabel":"≈65","tags":["religion","agriculture"],"parent":"Q4155679","title":"彼得","url":"https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97_(%E4%BD%BF%E5%BE%92)","language":"zh","tier":0.1},
+{"id":"Q80450","kind":"person","start":25.0,"startLabel":"≈25","end":90.0,"endLabel":"90–99","tags":["religion"],"title":"教宗克雷","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%85%8B%E9%9B%B7","language":"zh","tier":0.1}
+]

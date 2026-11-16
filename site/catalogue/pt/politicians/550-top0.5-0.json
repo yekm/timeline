@@ -1,0 +1,10 @@
+[
+{"id":"Q293599","kind":"person","start":568.0,"startLabel":"≈568","end":653.1315068493151,"endLabel":"0653-02-15 (Julian)","tags":["politicians","businesspeople","finance-trade"],"parent":"Q188711","title":"Abbas","url":"https://pt.wikipedia.org/wiki/Abas_(tio_de_Maom%C3%A9)","language":"pt","tier":0.5},
+{"id":"Q298057","kind":"person","start":554.0,"startLabel":"554","end":628.3032786885246,"endLabel":"0628-04-18 (Julian)","tags":["politicians"],"title":"Suiko","url":"https://pt.wikipedia.org/wiki/Suiko","language":"pt","tier":0.5},
+{"id":"Q272173","kind":"person","start":552.0,"startLabel":"552","end":612.155737704918,"endLabel":"0612-02-24 (Julian)","tags":["politicians","rulers"],"title":"Etelberto de Kent","url":"https://pt.wikipedia.org/wiki/Etelberto_de_Kent","language":"pt","tier":0.5},
+{"id":"Q212732","kind":"person","start":570.0,"startLabel":"570–579","end":628.1666666666666,"endLabel":"0628-02-28 (Julian)","tags":["politicians","rulers"],"title":"Cosroes II","url":"https://pt.wikipedia.org/wiki/Cosroes_II","language":"pt","tier":0.5},
+{"id":"Q9700","kind":"person","start":566.2657534246575,"startLabel":"0566-04-08","end":635.4794520547945,"endLabel":"0635-06-25","tags":["politicians"],"title":"Imperador Gaozu de Tang","url":"https://pt.wikipedia.org/wiki/Gaozu_de_Tang","language":"pt","tier":0.5},
+{"id":"Q209118","kind":"person","start":584.0,"startLabel":"584","end":629.8027397260274,"endLabel":"0629-10-18 (Julian)","tags":["politicians","rulers"],"title":"Clotário II","url":"https://pt.wikipedia.org/wiki/Clot%C3%A1rio_II","language":"pt","tier":0.5},
+{"id":"Q243118","kind":"person","end":584.7431693989071,"endLabel":"0584-09-27 (Julian)","tags":["politicians","rulers"],"title":"Chilperico I","url":"https://pt.wikipedia.org/wiki/Quilperico_I","language":"pt","tier":0.5},
+{"id":"Q747731","kind":"person","start":583.0,"startLabel":"583","end":639.0,"endLabel":"639","tags":["politicians","military"],"parent":"Q188711","title":"Abu Ubaidah ibn al Jarrah","url":"https://pt.wikipedia.org/wiki/Abu_Ubaid%C3%A1_ibne_Aljarr%C3%A1","language":"pt","tier":0.5}
+]

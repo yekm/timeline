@@ -1,0 +1,15 @@
+[
+{"id":"Q31","kind":"event","point":1830.7561643835616,"pointLabel":"1830-10-04","tags":["states"],"parent":"Q1065","title":"比利時","url":"https://zh.wikipedia.org/wiki/%E6%AF%94%E5%88%A9%E6%97%B6","language":"zh","tier":0.5},
+{"id":"Q717","kind":"event","point":1811.5068493150684,"pointLabel":"1811-07-05","tags":["states"],"parent":"Q12585","title":"委內瑞拉","url":"https://zh.wikipedia.org/wiki/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89","language":"zh","tier":0.5},
+{"id":"Q736","kind":"event","point":1840.1256830601094,"pointLabel":"1840-02-16","tags":["states"],"parent":"Q12585","title":"厄瓜多尔","url":"https://zh.wikipedia.org/wiki/%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94","language":"zh","tier":0.5},
+{"id":"Q750","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"玻利維亞","url":"https://zh.wikipedia.org/wiki/%E7%8E%BB%E5%88%A9%E7%B6%AD%E4%BA%9E","language":"zh","tier":0.5},
+{"id":"Q783","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"洪都拉斯","url":"https://zh.wikipedia.org/wiki/%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q347","kind":"event","point":1806.5260273972603,"pointLabel":"1806-07-12","tags":["states"],"parent":"Q151624","title":"列支敦斯登","url":"https://zh.wikipedia.org/wiki/%E5%88%97%E6%94%AF%E6%95%A6%E6%96%AF%E7%99%BB","language":"zh","tier":0.5},
+{"id":"Q774","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"危地马拉","url":"https://zh.wikipedia.org/wiki/%E5%8D%B1%E5%9C%B0%E9%A9%AC%E6%8B%89","language":"zh","tier":0.5},
+{"id":"Q419","kind":"event","point":1821.5698630136985,"pointLabel":"1821-07-28","tags":["states"],"parent":"Q12585","title":"秘鲁","url":"https://zh.wikipedia.org/wiki/%E7%A7%98%E9%B2%81","language":"zh","tier":0.5},
+{"id":"Q1014","kind":"event","point":1822.0164383561644,"pointLabel":"1822-01-07","tags":["states"],"parent":"Q4412","title":"利比里亞","url":"https://zh.wikipedia.org/wiki/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A","language":"zh","tier":0.5},
+{"id":"Q77","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"烏拉圭","url":"https://zh.wikipedia.org/wiki/%E4%B9%8C%E6%8B%89%E5%9C%AD","language":"zh","tier":0.5},
+{"id":"Q800","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"哥斯达黎加","url":"https://zh.wikipedia.org/wiki/%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0","language":"zh","tier":0.5},
+{"id":"Q32","kind":"event","point":1815.0,"pointLabel":"1815","tags":["states"],"parent":"Q458","title":"卢森堡","url":"https://zh.wikipedia.org/wiki/%E5%8D%A2%E6%A3%AE%E5%A0%A1","language":"zh","tier":0.5},
+{"id":"Q733","kind":"event","point":1811.0,"pointLabel":"1811","tags":["states"],"parent":"Q12585","title":"巴拉圭","url":"https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%89%E5%9C%AD","language":"zh","tier":0.5}
+]

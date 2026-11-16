@@ -1,0 +1,5 @@
+[
+{"id":"Q43459","kind":"person","start":940.0,"startLabel":"940","end":1020.0,"endLabel":"≈1020","tags":["writers","poetry"],"title":"菲爾多西","url":"https://zh.wikipedia.org/wiki/%E8%8F%B2%E7%88%BE%E5%A4%9A%E8%A5%BF","language":"zh","tier":0.1},
+{"id":"Q172383","kind":"person","start":938.0,"startLabel":"≈938","end":1003.3753424657534,"endLabel":"1003-05-12 (Julian)","tags":["writers","scientists","politicians","religion","occupation-q155647","occupation-q4964182"],"title":"思維二世","url":"https://zh.wikipedia.org/wiki/%E6%80%9D%E7%B6%AD%E4%BA%8C%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q172933","kind":"person","start":937.0,"startLabel":"≈937","end":964.379781420765,"endLabel":"0964-05-14 (Julian)","tags":["writers","politicians","religion"],"title":"教宗若望十二世","url":"https://zh.wikipedia.org/wiki/%E8%8B%A5%E6%9C%9B%E5%8D%81%E4%BA%8C%E4%B8%96","language":"zh","tier":0.1}
+]

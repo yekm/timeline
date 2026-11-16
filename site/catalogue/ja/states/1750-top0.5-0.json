@@ -1,0 +1,5 @@
+[
+{"id":"Q869","kind":"event","point":1768.9890710382513,"pointLabel":"1768-12-28","tags":["states"],"parent":"Q11708","title":"タイ王国","url":"https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD","language":"ja","tier":0.5},
+{"id":"Q55","kind":"event","point":1795.0493150684931,"pointLabel":"1795-01-19","tags":["states"],"parent":"Q29999","title":"オランダ","url":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80","language":"ja","tier":0.5},
+{"id":"Q837","kind":"event","point":1768.7322404371585,"pointLabel":"1768-09-25","tags":["states"],"parent":"Q771405","title":"ネパール","url":"https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB","language":"ja","tier":0.5}
+]

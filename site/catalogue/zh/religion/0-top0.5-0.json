@@ -1,0 +1,6 @@
+[
+{"id":"Q44170","kind":"person","start":35.0,"startLabel":"≈35","end":108.0,"endLabel":"108","tags":["religion"],"parent":"Q182603","title":"伊格那丢","url":"https://zh.wikipedia.org/wiki/%E5%AE%89%E6%A2%9D%E5%85%8B%E7%9A%84%E4%BE%9D%E7%B4%8D%E7%88%B5","language":"zh","tier":0.5},
+{"id":"Q161775","kind":"person","start":1.0,"startLabel":"≈1","end":36.0,"endLabel":"≈36","tags":["religion"],"title":"聖斯德望","url":"https://zh.wikipedia.org/wiki/%E5%8F%B8%E6%8F%90%E5%8F%8D","language":"zh","tier":0.5},
+{"id":"Q212647","kind":"person","start":17.0,"startLabel":"17","end":97.0,"endLabel":"97","tags":["religion"],"title":"提摩太","url":"https://zh.wikipedia.org/wiki/%E6%8F%90%E6%91%A9%E5%A4%AA","language":"zh","tier":0.5},
+{"id":"Q185856","kind":"person","start":1.0,"startLabel":"1–100","end":61.0,"endLabel":"61","tags":["religion","music"],"title":"巴拿巴","url":"https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E5%B7%B4","language":"zh","tier":0.5}
+]

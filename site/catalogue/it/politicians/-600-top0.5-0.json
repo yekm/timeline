@@ -1,0 +1,15 @@
+[
+{"id":"Q317765","kind":"person","start":-557.0,"startLabel":"558 BCE","end":-490.0,"endLabel":"491 BCE","tags":["politicians"],"title":"Bimbisāra","url":"https://it.wikipedia.org/wiki/Bimbis%C4%81ra","language":"it","tier":0.5},
+{"id":"Q464777","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-599.0,"endLabel":"501–600 BCE","tags":["politicians","military"],"title":"Tomiri","url":"https://it.wikipedia.org/wiki/Tomiri","language":"it","tier":0.5},
+{"id":"Q193047","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-494.0,"endLabel":"495 BCE","tags":["politicians","rulers"],"title":"Tarquinio il Superbo","url":"https://it.wikipedia.org/wiki/Tarquinio_il_Superbo","language":"it","tier":0.5},
+{"id":"Q295225","kind":"person","end":-579.0,"endLabel":"580 BCE","tags":["politicians"],"title":"Ciro I di Persia","url":"https://it.wikipedia.org/wiki/Ciro_I_di_Persia","language":"it","tier":0.5},
+{"id":"Q184462","kind":"person","start":-595.0,"startLabel":"≈596 BCE","end":-545.0,"endLabel":"≈546 BCE","tags":["politicians"],"title":"Creso","url":"https://it.wikipedia.org/wiki/Creso","language":"it","tier":0.5},
+{"id":"Q299428","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-558.0,"endLabel":"559 BCE","tags":["politicians"],"title":"Cambise I di Persia","url":"https://it.wikipedia.org/wiki/Cambise_I_di_Persia","language":"it","tier":0.5},
+{"id":"Q210350","kind":"person","start":-553.0,"startLabel":"≈554 BCE","end":-488.0,"endLabel":"489 BCE","tags":["politicians","military"],"title":"Milziade","url":"https://it.wikipedia.org/wiki/Milziade","language":"it","tier":0.5},
+{"id":"Q271536","kind":"person","start":-552.0,"startLabel":"553 BCE","end":-476.0,"endLabel":"477 BCE","tags":["politicians"],"title":"Itoku","url":"https://it.wikipedia.org/wiki/Itoku","language":"it","tier":0.5},
+{"id":"Q182483","kind":"person","start":-558.0,"startLabel":"559 BCE","end":-521.0,"endLabel":"522 BCE","tags":["politicians"],"title":"Cambise II di Persia","url":"https://it.wikipedia.org/wiki/Cambise_II_di_Persia","language":"it","tier":0.5},
+{"id":"Q242172","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-526.0,"endLabel":"527 BCE","tags":["politicians"],"title":"Pisistrato","url":"https://it.wikipedia.org/wiki/Pisistrato","language":"it","tier":0.5},
+{"id":"Q313345","kind":"person","start":-576.0,"startLabel":"577 BCE","end":-510.0,"endLabel":"511 BCE","tags":["politicians"],"parent":"Q838196","title":"Annei","url":"https://it.wikipedia.org/wiki/Annei","language":"it","tier":0.5},
+{"id":"Q192998","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-534.0,"endLabel":"535 BCE","tags":["politicians"],"title":"Servio Tullio","url":"https://it.wikipedia.org/wiki/Servio_Tullio","language":"it","tier":0.5},
+{"id":"Q207634","kind":"person","start":-564.0,"startLabel":"565 BCE","end":-491.0,"endLabel":"492 BCE","tags":["politicians"],"title":"Clistene","url":"https://it.wikipedia.org/wiki/Clistene","language":"it","tier":0.5}
+]

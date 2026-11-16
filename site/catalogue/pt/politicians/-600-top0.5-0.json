@@ -1,0 +1,15 @@
+[
+{"id":"Q317765","kind":"person","start":-557.0,"startLabel":"558 BCE","end":-490.0,"endLabel":"491 BCE","tags":["politicians"],"title":"Bimbisara","url":"https://pt.wikipedia.org/wiki/Bimbisara","language":"pt","tier":0.5},
+{"id":"Q464777","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-599.0,"endLabel":"501–600 BCE","tags":["politicians","military"],"title":"Tomyris","url":"https://pt.wikipedia.org/wiki/T%C3%B4miris","language":"pt","tier":0.5},
+{"id":"Q193047","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-494.0,"endLabel":"495 BCE","tags":["politicians","rulers"],"title":"Tarquínio, o Soberbo","url":"https://pt.wikipedia.org/wiki/Tarqu%C3%ADnio,_o_Soberbo","language":"pt","tier":0.5},
+{"id":"Q295225","kind":"person","end":-579.0,"endLabel":"580 BCE","tags":["politicians"],"title":"Ciro I da Pérsia","url":"https://pt.wikipedia.org/wiki/Ciro_I","language":"pt","tier":0.5},
+{"id":"Q184462","kind":"person","start":-595.0,"startLabel":"≈596 BCE","end":-545.0,"endLabel":"≈546 BCE","tags":["politicians"],"title":"Creso","url":"https://pt.wikipedia.org/wiki/Creso","language":"pt","tier":0.5},
+{"id":"Q299428","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-558.0,"endLabel":"559 BCE","tags":["politicians"],"title":"Cambises I da Pérsia","url":"https://pt.wikipedia.org/wiki/Cambises_I","language":"pt","tier":0.5},
+{"id":"Q210350","kind":"person","start":-553.0,"startLabel":"≈554 BCE","end":-488.0,"endLabel":"489 BCE","tags":["politicians","military"],"title":"Milcíades","url":"https://pt.wikipedia.org/wiki/Milc%C3%ADades","language":"pt","tier":0.5},
+{"id":"Q271536","kind":"person","start":-552.0,"startLabel":"553 BCE","end":-476.0,"endLabel":"477 BCE","tags":["politicians"],"title":"Imperador Itoku","url":"https://pt.wikipedia.org/wiki/Itoku","language":"pt","tier":0.5},
+{"id":"Q182483","kind":"person","start":-558.0,"startLabel":"559 BCE","end":-521.0,"endLabel":"522 BCE","tags":["politicians"],"title":"Cambises II da Pérsia","url":"https://pt.wikipedia.org/wiki/Cambises_II","language":"pt","tier":0.5},
+{"id":"Q242172","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-526.0,"endLabel":"527 BCE","tags":["politicians"],"title":"Pisístrato","url":"https://pt.wikipedia.org/wiki/Pis%C3%ADstrato","language":"pt","tier":0.5},
+{"id":"Q313345","kind":"person","start":-576.0,"startLabel":"577 BCE","end":-510.0,"endLabel":"511 BCE","tags":["politicians"],"parent":"Q838196","title":"Imperador An'nei","url":"https://pt.wikipedia.org/wiki/Annei","language":"pt","tier":0.5},
+{"id":"Q192998","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-534.0,"endLabel":"535 BCE","tags":["politicians"],"title":"Sérvio Túlio","url":"https://pt.wikipedia.org/wiki/S%C3%A9rvio_T%C3%BAlio","language":"pt","tier":0.5},
+{"id":"Q207634","kind":"person","start":-564.0,"startLabel":"565 BCE","end":-491.0,"endLabel":"492 BCE","tags":["politicians"],"title":"Clístenes","url":"https://pt.wikipedia.org/wiki/Cl%C3%ADstenes","language":"pt","tier":0.5}
+]

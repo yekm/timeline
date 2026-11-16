@@ -1,0 +1,12 @@
+[
+{"id":"Q309869","kind":"person","start":-89.0,"startLabel":"90–99 BCE","end":-43.0,"endLabel":"44 BCE","tags":["politicians","rulers"],"title":"Burebista","url":"https://en.wikipedia.org/wiki/Burebista","language":"en","titles":{"zh":"布雷比斯塔"},"tier":0.5},
+{"id":"Q40017","kind":"person","start":-58.0,"startLabel":"59 BCE","end":-43.0,"endLabel":"44 BCE","tags":["politicians"],"title":"Ptolemy XIV of Egypt","url":"https://en.wikipedia.org/wiki/Ptolemy_XIV_Philopator","language":"en","tier":0.5},
+{"id":"Q105452","kind":"person","start":-89.0,"startLabel":"≈90 BCE","end":-12.0,"endLabel":"13 BCE","tags":["politicians","military"],"title":"Lepidus","url":"https://en.wikipedia.org/wiki/Lepidus","language":"en","tier":0.5},
+{"id":"Q297763","kind":"person","end":-87.0,"endLabel":"88 BCE","tags":["politicians"],"title":"Mithridates II of Parthia","url":"https://en.wikipedia.org/wiki/Mithridates_II_of_Parthia","language":"en","tier":0.5},
+{"id":"Q469701","kind":"person","start":-57.92602739726028,"startLabel":"0059-01-30 BCE (Julian)","end":29.73972602739726,"endLabel":"0029-09-28","tags":["politicians"],"title":"Livia","url":"https://en.wikipedia.org/wiki/Livia","language":"en","tier":0.5},
+{"id":"Q40022","kind":"person","start":-76.0,"startLabel":"77 BCE","end":-54.0,"endLabel":"55 BCE","tags":["politicians"],"title":"Berenice IV of Egypt","url":"https://en.wikipedia.org/wiki/Berenice_IV","language":"en","tier":0.5},
+{"id":"Q178953","kind":"person","start":-79.0,"startLabel":"≈80 BCE","end":-45.0,"endLabel":"46 BCE","tags":["politicians","military"],"title":"Vercingetorix","url":"https://en.wikipedia.org/wiki/Vercingetorix","language":"en","tier":0.5},
+{"id":"Q314850","kind":"person","start":-68.0,"startLabel":"69 BCE","end":70.52602739726028,"endLabel":"0070-07-14 (Julian)","tags":["politicians"],"title":"Suinin","url":"https://en.wikipedia.org/wiki/Emperor_Suinin","language":"en","tier":0.5},
+{"id":"Q39938","kind":"person","start":-61.0,"startLabel":"62 BCE","end":-46.0,"endLabel":"47 BCE","tags":["politicians"],"title":"Ptolemy XIII Theos Philopator","url":"https://en.wikipedia.org/wiki/Ptolemy_XIII_Theos_Philopator","language":"en","tier":0.5},
+{"id":"Q207370","kind":"person","start":-81.0,"startLabel":"≈82 BCE","end":-41.0,"endLabel":"42 BCE","tags":["politicians","military"],"title":"Gaius Cassius Longinus","url":"https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus","language":"en","tier":0.5}
+]

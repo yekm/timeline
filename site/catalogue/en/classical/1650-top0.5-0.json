@@ -1,0 +1,6 @@
+[
+{"id":"Q1145","kind":"person","start":1683.731506849315,"startLabel":"1683-09-25","end":1764.6967213114754,"endLabel":"1764-09-12","tags":["classical","composers","music","occupation-q14915627","occupation-q16031530","occupation-q18931911","occupation-q2490358"],"title":"Jean-Philippe Rameau","url":"https://en.wikipedia.org/wiki/Jean-Philippe_Rameau","language":"en","tier":0.5},
+{"id":"Q183087","kind":"person","start":1660.3333333333333,"startLabel":"1660-05-02","end":1725.805479452055,"endLabel":"1725-10-22","tags":["classical","composers","music"],"title":"Alessandro Scarlatti","url":"https://en.wikipedia.org/wiki/Alessandro_Scarlatti","language":"en","tier":0.5},
+{"id":"Q75854","kind":"person","start":1681.2246575342465,"startLabel":"1681-03-14 (Julian)","end":1767.4794520547946,"endLabel":"1767-06-25","tags":["classical","composers","performers","music"],"title":"Georg Philipp Telemann","url":"https://en.wikipedia.org/wiki/Georg_Philipp_Telemann","language":"en","tier":0.5},
+{"id":"Q167837","kind":"person","start":1685.8164383561643,"startLabel":"1685-10-26","end":1757.5561643835617,"endLabel":"1757-07-23","tags":["classical","composers","music"],"title":"Domenico Scarlatti","url":"https://en.wikipedia.org/wiki/Domenico_Scarlatti","language":"en","tier":0.5}
+]

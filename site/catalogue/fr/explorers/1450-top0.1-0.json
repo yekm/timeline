@@ -1,0 +1,8 @@
+[
+{"id":"Q44741","kind":"person","start":1478.2027397260274,"startLabel":"1478-03-16","end":1541.509589041096,"endLabel":"1541-06-26 (Julian)","tags":["explorers","military"],"parent":"Q1956446","title":"Francisco Pizarro","url":"https://fr.wikipedia.org/wiki/Francisco_Pizarro","language":"fr","tier":0.1},
+{"id":"Q1496","kind":"person","start":1480.0,"startLabel":"≈1480","end":1521.345205479452,"endLabel":"1521-04-27 (Julian)","tags":["explorers"],"title":"Fernand de Magellan","url":"https://fr.wikipedia.org/wiki/Fernand_de_Magellan","language":"fr","tier":0.1},
+{"id":"Q7328","kind":"person","start":1469.0,"startLabel":"1469","end":1525.0054794520547,"endLabel":"1524-12-24 (Julian)","tags":["explorers","military"],"title":"Vasco de Gama","url":"https://fr.wikipedia.org/wiki/Vasco_de_Gama","language":"fr","tier":0.1},
+{"id":"Q174432","kind":"person","start":1467.0,"startLabel":"≈1467","end":1520.0,"endLabel":"≈1520","tags":["explorers"],"title":"Pedro Álvares Cabral","url":"https://fr.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral","language":"fr","tier":0.1},
+{"id":"Q7326","kind":"person","start":1485.0,"startLabel":"1485","end":1547.945205479452,"endLabel":"1547-12-02 (Julian)","tags":["explorers","politicians","military"],"title":"Hernán Cortés","url":"https://fr.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s","language":"fr","tier":0.1},
+{"id":"Q130377","kind":"person","start":1450.0,"startLabel":"≈1450–1459","end":1500.4054794520548,"endLabel":"1500-05-29","tags":["explorers"],"title":"Bartolomeu Dias","url":"https://fr.wikipedia.org/wiki/Bartolomeu_Dias","language":"fr","tier":0.1}
+]

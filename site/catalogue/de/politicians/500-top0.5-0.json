@@ -1,0 +1,15 @@
+[
+{"id":"Q159707","kind":"person","start":510.0,"startLabel":"≈510","end":552.0,"endLabel":"552","tags":["politicians","rulers"],"title":"Totila","url":"https://de.wikipedia.org/wiki/Totila","language":"de","tier":0.5},
+{"id":"Q183813","kind":"person","start":520.0,"startLabel":"≈520","end":578.7616438356164,"endLabel":"0578-10-04 (Julian)","tags":["politicians"],"title":"Justin II.","url":"https://de.wikipedia.org/wiki/Justin_II.","language":"de","tier":0.5},
+{"id":"Q174943","kind":"person","start":505.0,"startLabel":"≈505","end":565.1671232876712,"endLabel":"≈0565-03 (Julian)","tags":["politicians","military"],"title":"Belisar","url":"https://de.wikipedia.org/wiki/Belisar","language":"de","tier":0.5},
+{"id":"Q193056","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","military"],"title":"Basiliskos","url":"https://de.wikipedia.org/wiki/Basiliskos","language":"de","tier":0.5},
+{"id":"Q207381","kind":"person","start":501.0,"startLabel":"501","end":579.0,"endLabel":"579","tags":["politicians","military"],"title":"Chosrau I.","url":"https://de.wikipedia.org/wiki/Chosrau_I.","language":"de","tier":0.5},
+{"id":"Q274597","kind":"person","start":500.0,"startLabel":"≈500","end":548.0,"endLabel":"548","tags":["politicians","rulers"],"title":"Theudebert I.","url":"https://de.wikipedia.org/wiki/Theudebert_I.","language":"de","tier":0.5},
+{"id":"Q193678","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians"],"title":"Olybrius","url":"https://de.wikipedia.org/wiki/Olybrius","language":"de","tier":0.5},
+{"id":"Q295086","kind":"person","start":532.0,"startLabel":"≈532","end":593.241095890411,"endLabel":"0593-03-28 (Julian)","tags":["politicians","rulers"],"title":"Guntram I.","url":"https://de.wikipedia.org/wiki/Guntram_I.","language":"de","tier":0.5},
+{"id":"Q310233","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","rulers"],"title":"Peroz I.","url":"https://de.wikipedia.org/wiki/Peroz_I.","language":"de","tier":0.5},
+{"id":"Q181764","kind":"person","start":539.0,"startLabel":"539","end":602.9123287671233,"endLabel":"0602-11-27 (Julian)","tags":["politicians"],"title":"Maurikios","url":"https://de.wikipedia.org/wiki/Maurikios","language":"de","tier":0.5},
+{"id":"Q31491","kind":"person","start":520.0,"startLabel":"≈520","end":582.6219178082192,"endLabel":"0582-08-14 (Julian)","tags":["politicians"],"title":"Tiberios I.","url":"https://de.wikipedia.org/wiki/Tiberios_I.","language":"de","tier":0.5},
+{"id":"Q31556","kind":"person","start":547.0,"startLabel":"547","end":610.0,"endLabel":"610","tags":["politicians","military"],"title":"Phokas","url":"https://de.wikipedia.org/wiki/Phokas","language":"de","tier":0.5},
+{"id":"Q243453","kind":"person","start":520.0,"startLabel":"≈520","end":567.0,"endLabel":"567","tags":["politicians","rulers"],"title":"Charibert I.","url":"https://de.wikipedia.org/wiki/Charibert_I.","language":"de","tier":0.5}
+]

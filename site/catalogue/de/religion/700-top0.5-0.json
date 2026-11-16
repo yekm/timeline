@@ -1,0 +1,7 @@
+[
+{"id":"Q170046","kind":"person","start":702.3095890410959,"startLabel":"0702-04-20 (Julian)","end":765.9671232876713,"endLabel":"0765-12-16 (Julian)","tags":["religion","occupation-q1999841"],"title":"Dschaʿfar as-Sādiq","url":"https://de.wikipedia.org/wiki/Dscha%CA%BFfar_as-S%C4%81diq","language":"de","tier":0.5},
+{"id":"Q231582","kind":"person","start":717.0,"startLabel":"717","end":762.0,"endLabel":"762","tags":["religion"],"title":"Padmasambhava","url":"https://de.wikipedia.org/wiki/Padmasambhava","language":"de","tier":0.5},
+{"id":"Q312299","kind":"person","start":711.0,"startLabel":"≈711","end":795.4301369863014,"endLabel":"0795-06-07","tags":["religion","occupation-q1172458","occupation-q1999841"],"title":"Mālik ibn Anas","url":"https://de.wikipedia.org/wiki/M%C4%81lik_ibn_Anas","language":"de","tier":0.5},
+{"id":"Q383322","kind":"person","start":700.0,"startLabel":"601–700","end":752.2431693989071,"endLabel":"0752-03-26 (Julian)","tags":["religion"],"title":"Stephan","url":"https://de.wikipedia.org/wiki/Stephan_(II.)","language":"de","tier":0.5},
+{"id":"Q199498","kind":"person","start":700.0,"startLabel":"601–700","tags":["religion"],"title":"Eugen I.","url":"https://de.wikipedia.org/wiki/Eugen_I.","language":"de","tier":0.5}
+]

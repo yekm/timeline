@@ -1,0 +1,15 @@
+[
+{"id":"Q317765","kind":"person","start":-557.0,"startLabel":"558 BCE","end":-490.0,"endLabel":"491 BCE","tags":["politicians"],"title":"Bimbisara","url":"https://de.wikipedia.org/wiki/Bimbisara","language":"de","tier":0.5},
+{"id":"Q464777","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-599.0,"endLabel":"501–600 BCE","tags":["politicians","military"],"title":"Tomyris","url":"https://de.wikipedia.org/wiki/Tomyris","language":"de","tier":0.5},
+{"id":"Q193047","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-494.0,"endLabel":"495 BCE","tags":["politicians","rulers"],"title":"Lucius Tarquinius Superbus","url":"https://de.wikipedia.org/wiki/Lucius_Tarquinius_Superbus","language":"de","tier":0.5},
+{"id":"Q295225","kind":"person","end":-579.0,"endLabel":"580 BCE","tags":["politicians"],"title":"Kyros I.","url":"https://de.wikipedia.org/wiki/Kyros_I.","language":"de","tier":0.5},
+{"id":"Q184462","kind":"person","start":-595.0,"startLabel":"≈596 BCE","end":-545.0,"endLabel":"≈546 BCE","tags":["politicians"],"title":"Krösus","url":"https://de.wikipedia.org/wiki/Kr%C3%B6sus","language":"de","tier":0.5},
+{"id":"Q299428","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-558.0,"endLabel":"559 BCE","tags":["politicians"],"title":"Kambyses I.","url":"https://de.wikipedia.org/wiki/Kambyses_I.","language":"de","tier":0.5},
+{"id":"Q210350","kind":"person","start":-553.0,"startLabel":"≈554 BCE","end":-488.0,"endLabel":"489 BCE","tags":["politicians","military"],"title":"Miltiades der Jüngere","url":"https://de.wikipedia.org/wiki/Miltiades_der_J%C3%BCngere","language":"de","tier":0.5},
+{"id":"Q271536","kind":"person","start":-552.0,"startLabel":"553 BCE","end":-476.0,"endLabel":"477 BCE","tags":["politicians"],"title":"Itoku","url":"https://de.wikipedia.org/wiki/Itoku","language":"de","tier":0.5},
+{"id":"Q182483","kind":"person","start":-558.0,"startLabel":"559 BCE","end":-521.0,"endLabel":"522 BCE","tags":["politicians"],"title":"Kambyses II.","url":"https://de.wikipedia.org/wiki/Kambyses_II.","language":"de","tier":0.5},
+{"id":"Q242172","kind":"person","start":-599.0,"startLabel":"≈600 BCE","end":-526.0,"endLabel":"527 BCE","tags":["politicians"],"title":"Peisistratos","url":"https://de.wikipedia.org/wiki/Peisistratos","language":"de","tier":0.5},
+{"id":"Q313345","kind":"person","start":-576.0,"startLabel":"577 BCE","end":-510.0,"endLabel":"511 BCE","tags":["politicians"],"parent":"Q838196","title":"Annei","url":"https://de.wikipedia.org/wiki/Annei","language":"de","tier":0.5},
+{"id":"Q192998","kind":"person","start":-599.0,"startLabel":"501–600 BCE","end":-534.0,"endLabel":"535 BCE","tags":["politicians"],"title":"Servius Tullius","url":"https://de.wikipedia.org/wiki/Servius_Tullius","language":"de","tier":0.5},
+{"id":"Q207634","kind":"person","start":-564.0,"startLabel":"565 BCE","end":-491.0,"endLabel":"492 BCE","tags":["politicians"],"title":"Kleisthenes von Athen","url":"https://de.wikipedia.org/wiki/Kleisthenes_von_Athen","language":"de","tier":0.5}
+]

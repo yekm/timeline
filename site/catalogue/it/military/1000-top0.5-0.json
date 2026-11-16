@@ -1,0 +1,6 @@
+[
+{"id":"Q200193","kind":"person","start":1029.0520547945205,"startLabel":"1029-01-20","end":1072.9535519125684,"endLabel":"1072-12-15","tags":["military"],"title":"Alp Arslan","url":"https://it.wikipedia.org/wiki/Alp_Arslan","language":"it","tier":0.5},
+{"id":"Q203792","kind":"person","start":1016.0,"startLabel":"1016","end":1085.5561643835617,"endLabel":"1085-07-17 (Julian)","tags":["military"],"title":"Roberto il Guiscardo","url":"https://it.wikipedia.org/wiki/Roberto_il_Guiscardo","language":"it","tier":0.5},
+{"id":"Q41380","kind":"person","start":1004.4890710382514,"startLabel":"≈1004-06-22 (Julian)","end":1035.517808219178,"endLabel":"1035-07-03 (Julian)","tags":["military"],"title":"Roberto I di Normandia","url":"https://it.wikipedia.org/wiki/Roberto_I_di_Normandia","language":"it","tier":0.5},
+{"id":"Q41643","kind":"person","start":1007.0,"startLabel":"1007","end":1060.0,"endLabel":"1060","tags":["military"],"title":"Isacco I di Bisanzio","url":"https://it.wikipedia.org/wiki/Isacco_I_Comneno","language":"it","tier":0.5}
+]

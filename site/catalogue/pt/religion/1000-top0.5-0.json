@@ -1,0 +1,10 @@
+[
+{"id":"Q58563","kind":"person","start":1018.0,"startLabel":"1018","end":1057.5863013698631,"endLabel":"1057-07-28 (Julian)","tags":["religion"],"title":"Papa Vítor II","url":"https://pt.wikipedia.org/wiki/Papa_V%C3%ADtor_II","language":"pt","tier":0.5},
+{"id":"Q46090","kind":"person","start":1000.0,"startLabel":"≈1000","end":1063.7643835616439,"endLabel":"1063-10 (Julian)","tags":["religion"],"title":"Papa Silvestre III","url":"https://pt.wikipedia.org/wiki/Papa_Silvestre_III","language":"pt","tier":0.5},
+{"id":"Q222500","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"Papa Estêvão VIII","url":"https://pt.wikipedia.org/wiki/Papa_Est%C3%AAv%C3%A3o_VIII","language":"pt","tier":0.5},
+{"id":"Q227981","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.0,"endLabel":"1048","tags":["religion"],"title":"Papa Gregório VI","url":"https://pt.wikipedia.org/wiki/Papa_Greg%C3%B3rio_VI","language":"pt","tier":0.5},
+{"id":"Q60063","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.620218579235,"endLabel":"1048-08-09 (Julian)","tags":["religion"],"title":"Papa Dâmaso II","url":"https://pt.wikipedia.org/wiki/Papa_D%C3%A2maso_II","language":"pt","tier":0.5},
+{"id":"Q227963","kind":"person","end":1003.9616438356164,"endLabel":"1003-12-12 (Julian)","tags":["religion"],"title":"Papa João XVII","url":"https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_XVII","language":"pt","tier":0.5},
+{"id":"Q227972","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"Papa João XIV","url":"https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_XIV","language":"pt","tier":0.5},
+{"id":"Q58568","kind":"person","start":1000.0,"startLabel":"≈1000","end":1058.2547945205479,"endLabel":"1058-03-29 (Julian)","tags":["religion"],"title":"Papa Estêvão IX","url":"https://pt.wikipedia.org/wiki/Papa_Est%C3%AAv%C3%A3o_IX","language":"pt","tier":0.5}
+]

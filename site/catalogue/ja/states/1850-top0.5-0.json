@@ -1,0 +1,5 @@
+[
+{"id":"Q241","kind":"event","point":1898.9397260273972,"pointLabel":"1898-12-10","tags":["states"],"parent":"Q12585","title":"キューバ","url":"https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90","language":"ja","tier":0.5},
+{"id":"Q218","kind":"event","point":1859.0958904109589,"pointLabel":"1859-01-24 (Julian)","tags":["states"],"parent":"Q27468","title":"ルーマニア","url":"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2","language":"ja","tier":0.5},
+{"id":"Q846","kind":"event","point":1870.0,"pointLabel":"1870","tags":["states"],"parent":"Q109647832","title":"カタール","url":"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB","language":"ja","tier":0.5}
+]

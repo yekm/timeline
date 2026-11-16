@@ -1,0 +1,4 @@
+[
+{"id":"Q889","kind":"event","point":1747.4630136986302,"pointLabel":"1747-06-19","tags":["states"],"title":"アフガニスタン","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3","language":"ja","tier":0.5},
+{"id":"Q851","kind":"event","point":1727.0,"pointLabel":"1727","tags":["states"],"parent":"Q109647832","title":"サウジアラビア","url":"https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2","language":"ja","tier":0.5}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q301","kind":"person","start":1541.7479452054795,"startLabel":"1541-10-01","end":1614.2630136986302,"endLabel":"1614-04-07","tags":["painters","sculptors","architecture","trades"],"title":"El Greco","url":"https://es.wikipedia.org/wiki/El_Greco","language":"es","tier":0.1},
+{"id":"Q9319","kind":"person","start":1519.0,"startLabel":"1519","end":1594.4109589041095,"endLabel":"1594-05-31","tags":["painters","trades"],"title":"Tintoretto","url":"https://es.wikipedia.org/wiki/Tintoretto","language":"es","tier":0.1},
+{"id":"Q128027","kind":"person","start":1511.6027397260275,"startLabel":"1511-07-30 (Julian)","end":1574.5123287671233,"endLabel":"1574-06-27 (Julian)","tags":["painters","architecture","writers","scientists","trades","occupation-q17391638","occupation-q21550346"],"title":"Giorgio Vasari","url":"https://es.wikipedia.org/wiki/Giorgio_Vasari","language":"es","tier":0.1},
+{"id":"Q43270","kind":"person","start":1525.0,"startLabel":"≈1525","end":1569.7150684931507,"endLabel":"1569-09-09 (Julian)","tags":["painters","occupation-q11569986","occupation-q15296811"],"title":"Pieter Brueghel el Viejo","url":"https://es.wikipedia.org/wiki/Pieter_Brueghel_el_Viejo","language":"es","tier":0.1}
+]

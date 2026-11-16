@@ -1,0 +1,7 @@
+[
+{"id":"Q1413","kind":"person","start":37.94794520547945,"startLabel":"0037-12-15 (Julian)","end":68.43169398907104,"endLabel":"0068-06-09 (Julian)","tags":["writers","poetry","politicians","military"],"title":"尼禄","url":"https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A6%84","language":"zh","tier":0.1},
+{"id":"Q41523","kind":"person","start":40.0,"startLabel":"≈40–49","end":120.0,"endLabel":"≈120","tags":["writers","scientists","politicians","religion","occupation-q4964182"],"title":"普魯塔克","url":"https://zh.wikipedia.org/wiki/%E6%99%AE%E9%AD%AF%E5%A1%94%E5%85%8B","language":"zh","tier":0.1},
+{"id":"Q134461","kind":"person","start":37.0,"startLabel":"37","end":100.0,"endLabel":"100","tags":["writers","scientists"],"title":"弗拉維奧·約瑟夫斯","url":"https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%C2%B7%E7%B4%84%E7%91%9F%E5%A4%AB%E6%96%AF","language":"zh","tier":0.1},
+{"id":"Q9200","kind":"person","start":5.0,"startLabel":"≈5","end":67.0,"endLabel":"≈67","tags":["writers","religion","trades","occupation-q133485","occupation-q219477","occupation-q22813352","occupation-q4504549"],"title":"保罗","url":"https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97_(%E4%BD%BF%E5%BE%92)","language":"zh","tier":0.1},
+{"id":"Q82778","kind":"person","start":20.0,"startLabel":"20–29","end":79.0,"endLabel":"79","tags":["writers","poetry","scientists","politicians","military","occupation-q4964182"],"title":"老普林尼","url":"https://zh.wikipedia.org/wiki/%E8%80%81%E6%99%AE%E6%9E%97%E5%B0%BC","language":"zh","tier":0.1}
+]

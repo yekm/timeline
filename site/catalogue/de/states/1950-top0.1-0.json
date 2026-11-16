@@ -1,0 +1,6 @@
+[
+{"id":"Q212","kind":"event","point":1991.6438356164383,"pointLabel":"1991-08-24","tags":["states"],"parent":"Q27468","title":"Ukraine","url":"https://de.wikipedia.org/wiki/Ukraine","language":"de","tier":0.1},
+{"id":"Q881","kind":"event","point":1976.5,"pointLabel":"1976-07-02","tags":["states"],"parent":"Q11708","title":"Vietnam","url":"https://de.wikipedia.org/wiki/Vietnam","language":"de","tier":0.1},
+{"id":"Q227","kind":"event","point":1991.0,"pointLabel":"1991","tags":["states"],"parent":"Q18869","title":"Aserbaidschan","url":"https://de.wikipedia.org/wiki/Aserbaidschan","language":"de","tier":0.1},
+{"id":"Q794","kind":"event","point":1979.2465753424658,"pointLabel":"1979-04-01","tags":["states"],"parent":"Q27293","title":"Iran","url":"https://de.wikipedia.org/wiki/Iran","language":"de","tier":0.1}
+]

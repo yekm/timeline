@@ -1,0 +1,14 @@
+[
+{"id":"Q252087","kind":"person","start":722.0,"startLabel":"722","end":754.0,"endLabel":"754","tags":["politicians","rulers"],"title":"As-Saffah","url":"https://es.wikipedia.org/wiki/As-Saffah","language":"es","tier":0.5},
+{"id":"Q41635","kind":"person","start":718.0,"startLabel":"718","end":775.7123287671233,"endLabel":"0775-09-14 (Julian)","tags":["politicians"],"title":"Constantino V","url":"https://es.wikipedia.org/wiki/Constantino_V","language":"es","tier":0.5},
+{"id":"Q41620","kind":"person","start":700.0,"startLabel":"601–700","end":719.4246575342465,"endLabel":"0719-06-01 (Julian)","tags":["politicians"],"title":"Anastasio II","url":"https://es.wikipedia.org/wiki/Anastasio_II_(emperador)","language":"es","tier":0.5},
+{"id":"Q41836","kind":"person","start":700.0,"startLabel":"601–700","end":722.0,"endLabel":"722","tags":["politicians"],"title":"Teodosio III","url":"https://es.wikipedia.org/wiki/Teodosio_III","language":"es","tier":0.5},
+{"id":"Q44560","kind":"person","start":700.0,"startLabel":"601–700","end":714.0630136986301,"endLabel":"0714-01-20 (Julian)","tags":["politicians"],"title":"Filípico","url":"https://es.wikipedia.org/wiki/Fil%C3%ADpico","language":"es","tier":0.5},
+{"id":"Q108331","kind":"person","start":712.0,"startLabel":"712","end":737.0,"endLabel":"737","tags":["politicians","rulers"],"title":"Teodorico IV","url":"https://es.wikipedia.org/wiki/Teodorico_IV","language":"es","tier":0.5},
+{"id":"Q41637","kind":"person","start":700.0,"startLabel":"601–700","end":706.1342465753424,"endLabel":"0706-02-15 (Julian)","tags":["politicians"],"title":"Tiberio III","url":"https://es.wikipedia.org/wiki/Tiberio_III","language":"es","tier":0.5},
+{"id":"Q335210","kind":"person","start":718.0,"startLabel":"718","end":755.0849315068493,"endLabel":"0755-02","tags":["politicians","military","occupation-q967769"],"title":"Abu Muslim","url":"https://es.wikipedia.org/wiki/Abu_Muslim","language":"es","tier":0.5},
+{"id":"Q31066","kind":"person","start":714.0,"startLabel":"714","end":775.7753424657534,"endLabel":"0775-10-07 (Julian)","tags":["politicians","rulers"],"title":"Al-Mansur","url":"https://es.wikipedia.org/wiki/Al-Mansur","language":"es","tier":0.5},
+{"id":"Q29000","kind":"person","start":731.0,"startLabel":"731","end":788.7568306010929,"endLabel":"0788-09-30 (Julian)","tags":["politicians","military"],"title":"Abderramán I","url":"https://es.wikipedia.org/wiki/Abderram%C3%A1n_I","language":"es","tier":0.5},
+{"id":"Q293482","kind":"person","start":744.5983606557377,"startLabel":"0744-08-03 (Julian)","end":785.5698630136986,"endLabel":"0785-07-24 (Julian)","tags":["politicians"],"title":"Al-Mahdi","url":"https://es.wikipedia.org/wiki/Al-Mahdi","language":"es","tier":0.5},
+{"id":"Q295157","kind":"person","start":714.0,"startLabel":"714","end":754.0,"endLabel":"754","tags":["politicians","rulers"],"title":"Childerico III","url":"https://es.wikipedia.org/wiki/Childerico_III","language":"es","tier":0.5}
+]

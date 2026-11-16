@@ -1,0 +1,9 @@
+[
+{"id":"Q103260","kind":"person","start":520.0,"startLabel":"≈520","end":574.5342465753424,"endLabel":"0574-07-13 (Julian)","tags":["writers","religion"],"title":"Juan III","url":"https://es.wikipedia.org/wiki/Juan_III_(papa)","language":"es","tier":0.1},
+{"id":"Q151908","kind":"person","start":520.0,"startLabel":"≈520","end":590.1123287671232,"endLabel":"0590-02-09 (Julian)","tags":["writers","religion"],"title":"Pelagio II","url":"https://es.wikipedia.org/wiki/Pelagio_II","language":"es","tier":0.1},
+{"id":"Q103300","kind":"person","end":532.7978142076503,"endLabel":"0532-10-17 (Julian)","tags":["writers","religion"],"title":"Bonifacio II","url":"https://es.wikipedia.org/wiki/Bonifacio_II","language":"es","tier":0.1},
+{"id":"Q160900","kind":"person","end":536.311475409836,"endLabel":"0536-04-22 (Julian)","tags":["writers","religion"],"title":"Agapito I","url":"https://es.wikipedia.org/wiki/Agapito_I","language":"es","tier":0.1},
+{"id":"Q42827","kind":"person","start":540.0,"startLabel":"≈540","end":604.2021857923497,"endLabel":"0604-03-12 (Julian)","tags":["writers","diplomacy","religion"],"title":"Gregorio Magno","url":"https://es.wikipedia.org/wiki/Gregorio_Magno","language":"es","tier":0.1},
+{"id":"Q151902","kind":"person","start":525.0,"startLabel":"≈525","end":579.586301369863,"endLabel":"0579-08-01 (Julian)","tags":["writers","politicians","rulers","religion"],"title":"Benedicto I","url":"https://es.wikipedia.org/wiki/Benedicto_I","language":"es","tier":0.1},
+{"id":"Q162080","kind":"person","end":530.7287671232876,"endLabel":"0530-09-22 (Julian)","tags":["writers","religion"],"title":"Félix IV","url":"https://es.wikipedia.org/wiki/F%C3%A9lix_IV","language":"es","tier":0.1}
+]

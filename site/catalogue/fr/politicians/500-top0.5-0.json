@@ -1,0 +1,15 @@
+[
+{"id":"Q159707","kind":"person","start":510.0,"startLabel":"≈510","end":552.0,"endLabel":"552","tags":["politicians","rulers"],"title":"Totila","url":"https://fr.wikipedia.org/wiki/Totila","language":"fr","tier":0.5},
+{"id":"Q183813","kind":"person","start":520.0,"startLabel":"≈520","end":578.7616438356164,"endLabel":"0578-10-04 (Julian)","tags":["politicians"],"title":"Justin II","url":"https://fr.wikipedia.org/wiki/Justin_II","language":"fr","tier":0.5},
+{"id":"Q174943","kind":"person","start":505.0,"startLabel":"≈505","end":565.1671232876712,"endLabel":"≈0565-03 (Julian)","tags":["politicians","military"],"title":"Bélisaire","url":"https://fr.wikipedia.org/wiki/B%C3%A9lisaire","language":"fr","tier":0.5},
+{"id":"Q193056","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","military"],"title":"Basiliscus","url":"https://fr.wikipedia.org/wiki/Basiliscus","language":"fr","tier":0.5},
+{"id":"Q207381","kind":"person","start":501.0,"startLabel":"501","end":579.0,"endLabel":"579","tags":["politicians","military"],"title":"Khosro Ier","url":"https://fr.wikipedia.org/wiki/Khosro_Ier","language":"fr","tier":0.5},
+{"id":"Q274597","kind":"person","start":500.0,"startLabel":"≈500","end":548.0,"endLabel":"548","tags":["politicians","rulers"],"title":"Théodebert Ier","url":"https://fr.wikipedia.org/wiki/Thibert_Ier","language":"fr","tier":0.5},
+{"id":"Q193678","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians"],"title":"Flavius Anicius Olybrius","url":"https://fr.wikipedia.org/wiki/Olybrius_(empereur)","language":"fr","tier":0.5},
+{"id":"Q295086","kind":"person","start":532.0,"startLabel":"≈532","end":593.241095890411,"endLabel":"0593-03-28 (Julian)","tags":["politicians","rulers"],"title":"Gontran","url":"https://fr.wikipedia.org/wiki/Gontran_(roi)","language":"fr","tier":0.5},
+{"id":"Q310233","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","rulers"],"title":"Péroz Ier","url":"https://fr.wikipedia.org/wiki/P%C3%A9roz_Ier","language":"fr","tier":0.5},
+{"id":"Q181764","kind":"person","start":539.0,"startLabel":"539","end":602.9123287671233,"endLabel":"0602-11-27 (Julian)","tags":["politicians"],"title":"Maurice","url":"https://fr.wikipedia.org/wiki/Maurice_(empereur)","language":"fr","tier":0.5},
+{"id":"Q31491","kind":"person","start":520.0,"startLabel":"≈520","end":582.6219178082192,"endLabel":"0582-08-14 (Julian)","tags":["politicians"],"title":"Tibère II Constantin","url":"https://fr.wikipedia.org/wiki/Tib%C3%A8re_II_Constantin","language":"fr","tier":0.5},
+{"id":"Q31556","kind":"person","start":547.0,"startLabel":"547","end":610.0,"endLabel":"610","tags":["politicians","military"],"title":"Phocas","url":"https://fr.wikipedia.org/wiki/Phocas","language":"fr","tier":0.5},
+{"id":"Q243453","kind":"person","start":520.0,"startLabel":"≈520","end":567.0,"endLabel":"567","tags":["politicians","rulers"],"title":"Caribert Ier","url":"https://fr.wikipedia.org/wiki/Caribert_Ier","language":"fr","tier":0.5}
+]

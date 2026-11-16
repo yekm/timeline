@@ -1,0 +1,6 @@
+[
+{"id":"Q102865","kind":"person","start":-379.0,"startLabel":"380 BCE","end":-329.0,"endLabel":"330 BCE","tags":["politicians","rulers"],"title":"Darius III","url":"https://en.wikipedia.org/wiki/Darius_III","language":"en","tier":0.1},
+{"id":"Q130650","kind":"person","start":-384.0,"startLabel":"380–389 BCE","end":-335.0,"endLabel":"336 BCE","tags":["politicians","rulers"],"title":"Philip II of Macedon","url":"https://en.wikipedia.org/wiki/Philip_II_of_Macedon","language":"en","tier":0.1},
+{"id":"Q184176","kind":"person","start":-357.0,"startLabel":"358 BCE","end":-280.0,"endLabel":"281 BCE","tags":["politicians"],"title":"Seleucus I Nicator","url":"https://en.wikipedia.org/wiki/Seleucus_I_Nicator","language":"en","tier":0.1},
+{"id":"Q8409","kind":"person","start":-354.4657534246575,"startLabel":"0356-07-20 BCE (Julian)","end":-321.5753424657534,"endLabel":"0323-06-10 BCE (Julian)","tags":["politicians","rulers","military"],"title":"Alexander the Great","url":"https://en.wikipedia.org/wiki/Alexander_the_Great","language":"en","tier":0.1}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"Q241","kind":"event","point":1898.9397260273972,"pointLabel":"1898-12-10","tags":["states"],"parent":"Q12585","title":"كوبا","url":"https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%A8%D8%A7","language":"ar","tier":0.5},
+{"id":"Q218","kind":"event","point":1859.0958904109589,"pointLabel":"1859-01-24 (Julian)","tags":["states"],"parent":"Q27468","title":"رومانيا","url":"https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A7","language":"ar","tier":0.5},
+{"id":"Q846","kind":"event","point":1870.0,"pointLabel":"1870","tags":["states"],"parent":"Q109647832","title":"قطر","url":"https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%B1","language":"ar","tier":0.5}
+]

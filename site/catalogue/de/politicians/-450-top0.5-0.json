@@ -1,0 +1,9 @@
+[
+{"id":"Q271850","kind":"person","start":-443.0,"startLabel":"444 BCE","end":-359.0,"endLabel":"360 BCE","tags":["politicians","diplomacy","military"],"title":"Agesilaos II.","url":"https://de.wikipedia.org/wiki/Agesilaos_II.","language":"de","tier":0.5},
+{"id":"Q187982","kind":"person","start":-449.0,"startLabel":"≈450 BCE","end":-403.0,"endLabel":"404 BCE","tags":["politicians","military"],"title":"Alkibiades","url":"https://de.wikipedia.org/wiki/Alkibiades","language":"de","tier":0.5},
+{"id":"Q188472","kind":"person","start":-435.0,"startLabel":"436 BCE","end":-357.0,"endLabel":"358 BCE","tags":["politicians","rulers"],"title":"Artaxerxes II.","url":"https://de.wikipedia.org/wiki/Artaxerxes_II.","language":"de","tier":0.5},
+{"id":"Q296857","kind":"person","start":-409.0,"startLabel":"≈410 BCE","end":-352.0,"endLabel":"353 BCE","tags":["politicians"],"title":"Maussolos","url":"https://de.wikipedia.org/wiki/Maussolos","language":"de","tier":0.5},
+{"id":"Q312821","kind":"person","start":-426.0,"startLabel":"427 BCE","end":-290.0,"endLabel":"291 BCE","tags":["politicians"],"parent":"Q838196","title":"Kōan","url":"https://de.wikipedia.org/wiki/K%C5%8Dan_(Tenn%C5%8D)","language":"de","tier":0.5},
+{"id":"Q190436","kind":"person","start":-417.0,"startLabel":"418 BCE","end":-361.0,"endLabel":"362 BCE","tags":["politicians","military"],"title":"Epaminondas","url":"https://de.wikipedia.org/wiki/Epaminondas","language":"de","tier":0.5},
+{"id":"Q192867","kind":"person","start":-424.0,"startLabel":"425 BCE","end":-336.4328767123288,"endLabel":"0338-08-01 BCE (Julian)","tags":["politicians"],"title":"Artaxerxes III.","url":"https://de.wikipedia.org/wiki/Artaxerxes_III.","language":"de","tier":0.5}
+]

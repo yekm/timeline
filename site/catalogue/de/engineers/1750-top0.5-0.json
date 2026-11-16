@@ -1,0 +1,6 @@
+[
+{"id":"Q217157","kind":"person","start":1771.2794520547945,"startLabel":"1771-04-13","end":1833.304109589041,"endLabel":"1833-04-22","tags":["engineers","inventors","explorers"],"title":"Richard Trevithick","url":"https://de.wikipedia.org/wiki/Richard_Trevithick","language":"de","tier":0.5},
+{"id":"Q140692","kind":"person","start":1753.9205479452055,"startLabel":"1753-12-03","end":1827.482191780822,"endLabel":"1827-06-26","tags":["engineers","inventors"],"title":"Samuel Crompton","url":"https://de.wikipedia.org/wiki/Samuel_Crompton","language":"de","tier":0.5},
+{"id":"Q310833","kind":"person","start":1752.5136612021859,"startLabel":"1752-07-07","end":1834.5972602739726,"endLabel":"1834-08-07","tags":["engineers","inventors","businesspeople","finance-trade","trades","occupation-q10694573"],"title":"Joseph-Marie Jacquard","url":"https://de.wikipedia.org/wiki/Joseph-Marie_Jacquard","language":"de","tier":0.5},
+{"id":"Q280930","kind":"person","start":1765.9342465753425,"startLabel":"1765-12-08","end":1825.0191780821917,"endLabel":"1825-01-08","tags":["engineers","inventors","politicians","businesspeople"],"title":"Eli Whitney","url":"https://de.wikipedia.org/wiki/Eli_Whitney","language":"de","tier":0.5}
+]

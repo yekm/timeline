@@ -1,0 +1,6 @@
+[
+{"id":"Q51672","kind":"person","start":-73.0,"startLabel":"≈74 BCE","end":-3.0,"endLabel":"≈4 BCE","tags":["politicians","rulers"],"title":"ヘロデ大王","url":"https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AD%E3%83%87%E5%A4%A7%E7%8E%8B","language":"ja","tier":0.1},
+{"id":"Q635","kind":"person","start":-67.97267759562841,"startLabel":"0069-01-13 BCE (Julian)","end":-28.394520547945206,"endLabel":"0030-08-12 BCE (Julian)","tags":["politicians","rulers"],"parent":"Q28684594","title":"クレオパトラ7世","url":"https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%AA%E3%83%91%E3%83%88%E3%83%A97%E4%B8%96","language":"ja","tier":0.1},
+{"id":"Q1405","kind":"person","start":-61.27945205479452,"startLabel":"0063-09-23 BCE (Julian)","end":14.624657534246575,"endLabel":"0014-08-19 (Julian)","tags":["politicians","military"],"title":"アウグストゥス","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A5%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q51673","kind":"person","start":-82.0,"startLabel":"83 BCE","end":-29.0,"endLabel":"30 BCE","tags":["politicians","military"],"parent":"Q60310502","title":"マルクス・アントニウス","url":"https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%A6%E3%82%B9","language":"ja","tier":0.1}
+]

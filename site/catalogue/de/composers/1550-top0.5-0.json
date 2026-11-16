@@ -1,0 +1,7 @@
+[
+{"id":"Q34624","kind":"person","start":1557.0,"startLabel":"1557","end":1612.6120218579235,"endLabel":"1612-08-12","tags":["composers","music"],"title":"Giovanni Gabrieli","url":"https://de.wikipedia.org/wiki/Giovanni_Gabrieli","language":"de","tier":0.5},
+{"id":"Q192958","kind":"person","start":1566.2082191780821,"startLabel":"1566-03-08 (Julian)","end":1613.6849315068494,"endLabel":"1613-09-08","tags":["composers","music"],"title":"Carlo Gesualdo","url":"https://de.wikipedia.org/wiki/Carlo_Gesualdo","language":"de","tier":0.5},
+{"id":"Q153643","kind":"person","start":1585.7945205479452,"startLabel":"1585-10-08 (Julian)","end":1672.8743169398906,"endLabel":"1672-11-06 (Julian)","tags":["composers","music"],"title":"Heinrich Schütz","url":"https://de.wikipedia.org/wiki/Heinrich_Sch%C3%BCtz","language":"de","tier":0.5},
+{"id":"Q209212","kind":"person","start":1583.6986301369864,"startLabel":"1583-09-13","end":1643.1616438356164,"endLabel":"1643-03-01","tags":["composers","music"],"title":"Girolamo Frescobaldi","url":"https://de.wikipedia.org/wiki/Girolamo_Frescobaldi","language":"de","tier":0.5},
+{"id":"Q140412","kind":"person","start":1572.0,"startLabel":"1572","end":1631.2438356164384,"endLabel":"1631-03-31","tags":["composers","writers","poetry","translation","politicians","law","religion","music","occupation-q185351"],"title":"John Donne","url":"https://de.wikipedia.org/wiki/John_Donne","language":"de","tier":0.5}
+]

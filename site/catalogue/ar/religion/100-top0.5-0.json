@@ -1,0 +1,5 @@
+[
+{"id":"Q185117","kind":"person","start":100.0,"startLabel":"≈100","end":165.0,"endLabel":"≈165","tags":["religion","occupation-q4964182"],"parent":"Q182603","title":"القديس جاستن","url":"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B3_%D8%AC%D8%A7%D8%B3%D8%AA%D9%86","language":"ar","tier":0.5},
+{"id":"Q26925","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"parent":"Q620744","title":"يعقوب البار","url":"https://ar.wikipedia.org/wiki/%D9%8A%D8%B9%D9%82%D9%88%D8%A8_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1","language":"ar","tier":0.5},
+{"id":"Q182123","kind":"person","start":130.0,"startLabel":"≈130","end":202.0,"endLabel":"≈202","tags":["religion","occupation-q4964182"],"title":"إيرينيئوس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D9%8A%D9%86%D9%8A%D8%A6%D9%88%D8%B3","language":"ar","tier":0.5}
+]

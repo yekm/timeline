@@ -1,0 +1,5 @@
+[
+{"id":"Q37594","kind":"person","start":1028.0,"startLabel":"≈1028","end":1087.704109589041,"endLabel":"1087-09-09 (Julian)","tags":["politicians","rulers","military"],"title":"William the Conqueror","url":"https://en.wikipedia.org/wiki/William_the_Conqueror","language":"en","tier":0.1},
+{"id":"Q159597","kind":"person","start":1022.0,"startLabel":"1022","end":1066.8,"endLabel":"1066-10-14 (Julian)","tags":["politicians"],"title":"Harold Godwinson","url":"https://en.wikipedia.org/wiki/Harold_Godwinson","language":"en","tier":0.1},
+{"id":"Q43958","kind":"person","start":1048.0,"startLabel":"≈1048","end":1099.0,"endLabel":"1099","tags":["politicians","military","occupation-q102083","occupation-q178197"],"title":"El Cid","url":"https://en.wikipedia.org/wiki/El_Cid","language":"en","tier":0.1}
+]

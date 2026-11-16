@@ -1,0 +1,10 @@
+[
+{"id":"Q190240","kind":"person","start":200.0,"startLabel":"≈200","end":258.7013698630137,"endLabel":"0258-09-14 (Julian)","tags":["writers","religion","occupation-q4964182"],"title":"Cipriano de Cartago","url":"https://es.wikipedia.org/wiki/Cipriano_de_Cartago","language":"es","tier":0.5},
+{"id":"Q203445","kind":"person","start":233.0,"startLabel":"≈233","end":301.0,"endLabel":"≈301","tags":["writers","scientists","occupation-q16031530","occupation-q4964182"],"title":"Porfirio","url":"https://es.wikipedia.org/wiki/Porfirio","language":"es","tier":0.5},
+{"id":"Q203922","kind":"person","start":216.28415300546447,"startLabel":"≈0216-04-14 (Julian)","end":274.16438356164383,"endLabel":"0274-03-02 (Julian)","tags":["writers","poetry","religion","occupation-q15995642","occupation-q42857","occupation-q4964182"],"title":"Mani","url":"https://es.wikipedia.org/wiki/Mani","language":"es","tier":0.5},
+{"id":"Q236594","kind":"person","start":200.0,"startLabel":"≈101–200","end":300.0,"endLabel":"≈201–300","tags":["writers","physicians","occupation-q4964182"],"title":"Sexto Empírico","url":"https://es.wikipedia.org/wiki/Sexto_Emp%C3%ADrico","language":"es","tier":0.5},
+{"id":"Q104475","kind":"person","start":218.0,"startLabel":"≈218","end":268.0,"endLabel":"268","tags":["writers","poetry","politicians","military"],"title":"Galieno","url":"https://es.wikipedia.org/wiki/Galieno","language":"es","tier":0.5},
+{"id":"Q222890","kind":"person","start":220.0,"startLabel":"220","end":258.0,"endLabel":"258","tags":["writers","religion"],"title":"Novaciano","url":"https://es.wikipedia.org/wiki/Novaciano","language":"es","tier":0.5},
+{"id":"Q209102","kind":"person","start":240.0,"startLabel":"≈240","end":320.0,"endLabel":"≈320","tags":["writers","educators","occupation-q361809"],"title":"Lactancio","url":"https://es.wikipedia.org/wiki/Lactancio","language":"es","tier":0.5},
+{"id":"Q310916","kind":"person","start":245.0,"startLabel":"≈245","end":325.0,"endLabel":"≈325","tags":["writers","occupation-q4964182"],"title":"Jámblico","url":"https://es.wikipedia.org/wiki/J%C3%A1mblico","language":"es","tier":0.5}
+]

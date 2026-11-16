@@ -1,0 +1,6 @@
+[
+{"id":"Q103268","kind":"person","start":700.0,"startLabel":"601–700","end":741.917808219178,"endLabel":"0741-11-28 (Julian)","tags":["writers","religion"],"title":"グレゴリウス3世","url":"https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%A6%E3%82%B93%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)","language":"ja","tier":0.1},
+{"id":"Q7071","kind":"person","start":701.3890410958904,"startLabel":"0701-05-19 (Julian)","end":762.9232876712329,"endLabel":"0762-11-30 (Julian)","tags":["writers","poetry","occupation-q3303330"],"parent":"Q3235363","title":"李白","url":"https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%99%BD","language":"ja","tier":0.1},
+{"id":"Q33772","kind":"person","start":712.0,"startLabel":"712","end":770.0,"endLabel":"770","tags":["writers","poetry","occupation-q3303330"],"title":"杜甫","url":"https://ja.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB","language":"ja","tier":0.1},
+{"id":"Q103404","kind":"person","start":700.0,"startLabel":"700","end":767.4986301369863,"endLabel":"0767-06-28 (Julian)","tags":["writers","religion"],"title":"パウルス1世","url":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AB%E3%82%B91%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)","language":"ja","tier":0.1}
+]

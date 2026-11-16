@@ -1,0 +1,5 @@
+[
+{"id":"Q43915","kind":"person","start":912.9071038251366,"startLabel":"0912-11-23 (Julian)","end":973.358904109589,"endLabel":"0973-05-07 (Julian)","tags":["politicians"],"title":"Otón I del Sacro Imperio Romano Germánico","url":"https://es.wikipedia.org/wiki/Ot%C3%B3n_I_del_Sacro_Imperio_Romano_Germ%C3%A1nico","language":"es","tier":0.1},
+{"id":"Q159575","kind":"person","start":940.0,"startLabel":"940","end":996.8251366120219,"endLabel":"0996-10-24 (Julian)","tags":["politicians"],"title":"Hugo Capeto","url":"https://es.wikipedia.org/wiki/Hugo_Capeto","language":"es","tier":0.1},
+{"id":"Q172404","kind":"person","end":905.0,"endLabel":"905","tags":["politicians","religion"],"title":"León V","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_V_(papa)","language":"es","tier":0.1}
+]

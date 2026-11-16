@@ -1,0 +1,5 @@
+[
+{"id":"Q170512","kind":"person","start":125.0,"startLabel":"≈125","end":170.0,"endLabel":"≈170","tags":["writers","poetry","physicians","occupation-q361809","occupation-q4964182"],"title":"Apuleio","url":"https://pt.wikipedia.org/wiki/Apuleio","language":"pt","tier":0.1},
+{"id":"Q1430","kind":"person","start":121.31232876712329,"startLabel":"0121-04-26 (Julian)","end":180.20491803278688,"endLabel":"0180-03-17 (Julian)","tags":["writers","politicians","rulers","occupation-q4964182"],"parent":"Q193254","title":"Marco Aurélio","url":"https://pt.wikipedia.org/wiki/Marco_Aur%C3%A9lio","language":"pt","tier":0.1},
+{"id":"Q34943","kind":"person","start":100.0,"startLabel":"≈100","end":170.0,"endLabel":"≈170","tags":["writers","poetry","scientists","occupation-q14915627","occupation-q155647","occupation-q16031530","occupation-q4964182"],"title":"Ptolemeu","url":"https://pt.wikipedia.org/wiki/Ptolemeu","language":"pt","tier":0.1}
+]

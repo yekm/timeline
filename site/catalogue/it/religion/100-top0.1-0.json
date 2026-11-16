@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"papa Igino","url":"https://it.wikipedia.org/wiki/Papa_Igino","language":"it","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"papa Aniceto","url":"https://it.wikipedia.org/wiki/Papa_Aniceto","language":"it","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"papa Evaristo","url":"https://it.wikipedia.org/wiki/Papa_Evaristo","language":"it","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"Maria Maddalena","url":"https://it.wikipedia.org/wiki/Maria_Maddalena","language":"it","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"papa Telesforo","url":"https://it.wikipedia.org/wiki/Papa_Telesforo","language":"it","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"papa Clemente I","url":"https://it.wikipedia.org/wiki/Papa_Clemente_I","language":"it","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"papa Alessandro I","url":"https://it.wikipedia.org/wiki/Papa_Alessandro_I","language":"it","tier":0.1}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q44091","kind":"person","start":1170.6191780821919,"startLabel":"1170-08-08 (Julian)","end":1221.613698630137,"endLabel":"1221-08-06 (Julian)","tags":["religion","occupation-q2450226"],"title":"ドミニコ","url":"https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%B3","language":"ja","tier":0.5},
+{"id":"Q121130","kind":"person","start":1177.6,"startLabel":"1177-08 (Julian)","end":1208.4890710382513,"endLabel":"1208-06-21 (Julian)","tags":["religion"],"title":"フィリップ","url":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97_(%E7%A5%9E%E8%81%96%E3%83%AD%E3%83%BC%E3%83%9E%E7%9A%87%E5%B8%9D)","language":"ja","tier":0.5},
+{"id":"Q167477","kind":"person","start":1195.6383561643836,"startLabel":"1195-08-15 (Julian)","end":1231.4657534246576,"endLabel":"1231-06-13 (Julian)","tags":["religion"],"title":"パドヴァのアントニオ","url":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%89%E3%83%B4%E3%82%A1%E3%81%AE%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA","language":"ja","tier":0.5},
+{"id":"Q235238","kind":"person","start":1155.1780821917807,"startLabel":"1155-02-28 (Julian)","end":1183.4602739726026,"endLabel":"1183-06-11 (Julian)","tags":["religion"],"title":"若ヘンリー王","url":"https://ja.wikipedia.org/wiki/%E8%8B%A5%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E7%8E%8B","language":"ja","tier":0.5}
+]

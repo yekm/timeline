@@ -1,0 +1,5 @@
+[
+{"id":"Q172377","kind":"person","start":415.0,"startLabel":"≈415","end":468.1639344262295,"endLabel":"0468-02-29 (Julian)","tags":["writers","politicians","religion"],"title":"教宗希拉略","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%B8%8C%E6%8B%89%E7%95%A5","language":"zh","tier":0.5},
+{"id":"Q314694","kind":"person","end":400.0,"endLabel":"≈400","tags":["writers","scientists","politicians"],"title":"特罗皮乌斯","url":"https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%89%B9%E7%BD%97%E7%9A%AE%E4%B9%8C%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q271809","kind":"person","start":412.10655737704917,"startLabel":"0412-02-08 (Julian)","end":485.2931506849315,"endLabel":"0485-04-17 (Julian)","tags":["writers","scientists","occupation-q4964182"],"title":"普罗克洛","url":"https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BD%97%E5%85%8B%E6%B4%9B","language":"zh","tier":0.5}
+]

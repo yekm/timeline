@@ -1,0 +1,7 @@
+[
+{"id":"Q60772","kind":"person","start":1958.7671232876712,"startLabel":"1958-10-08","tags":["physicians","politicians","athletes","occupation-q115088092"],"parent":"Q15094515","title":"Ursula von der Leyen","url":"https://it.wikipedia.org/wiki/Ursula_von_der_Leyen","language":"it","tier":0.1},
+{"id":"Q44329","kind":"person","start":1965.6931506849314,"startLabel":"1965-09-11","tags":["physicians","politicians","military"],"title":"Bashar al-Assad","url":"https://it.wikipedia.org/wiki/Bashar_al-Assad","language":"it","tier":0.1},
+{"id":"Q186316","kind":"person","start":1951.4630136986302,"startLabel":"1951-06-19","end":2022.5780821917808,"endLabel":"2022-07-31","tags":["physicians","military","religion"],"title":"Ayman al-Zawahiri","url":"https://it.wikipedia.org/wiki/Ayman_al-Zawahiri","language":"it","tier":0.1},
+{"id":"Q57530","kind":"person","start":1957.490410958904,"startLabel":"1957-06-29","tags":["physicians","politicians"],"title":"Gurbanguly Berdimuhamedow","url":"https://it.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow","language":"it","tier":0.1},
+{"id":"Q1187542","kind":"person","start":1955.1616438356164,"startLabel":"1955-03-01","tags":["physicians","religion","activism","occupation-q115088092"],"title":"Denis Mukwege","url":"https://it.wikipedia.org/wiki/Denis_Mukwege","language":"it","tier":0.1}
+]

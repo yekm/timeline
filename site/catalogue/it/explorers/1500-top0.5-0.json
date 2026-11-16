@@ -1,0 +1,9 @@
+[
+{"id":"Q207901","kind":"person","start":1511.0,"startLabel":"1511","end":1546.0,"endLabel":"1546","tags":["explorers","military"],"title":"Francisco de Orellana","url":"https://it.wikipedia.org/wiki/Francisco_de_Orellana","language":"it","tier":0.5},
+{"id":"Q297047","kind":"person","start":1532.0,"startLabel":"1532","end":1585.6219178082192,"endLabel":"1585-08-06 (Julian)","tags":["explorers","military"],"title":"Ermak Timofeevič","url":"https://it.wikipedia.org/wiki/Ermak_Timofeevi%C4%8D","language":"it","tier":0.5},
+{"id":"Q60040","kind":"person","start":1500.0,"startLabel":"1401–1500","end":1542.3835616438357,"endLabel":"1542-05-21","tags":["explorers","military"],"title":"Hernando de Soto","url":"https://it.wikipedia.org/wiki/Hernando_de_Soto","language":"it","tier":0.5},
+{"id":"Q271974","kind":"person","start":1510.0,"startLabel":"1510","end":1554.7232876712328,"endLabel":"1554-09-22","tags":["explorers","military"],"title":"Francisco Vázquez de Coronado","url":"https://it.wikipedia.org/wiki/Francisco_V%C3%A1zquez_de_Coronado","language":"it","tier":0.5},
+{"id":"Q318500","kind":"person","start":1502.0,"startLabel":"1502","end":1572.6612021857923,"endLabel":"1572-08-20 (Julian)","tags":["explorers","politicians","military"],"title":"Miguel López de Legazpi","url":"https://it.wikipedia.org/wiki/Miguel_L%C3%B3pez_de_Legazpi","language":"it","tier":0.5},
+{"id":"Q50184","kind":"person","start":1545.3205479452056,"startLabel":"1545-04-28","end":1598.9561643835616,"endLabel":"1598-12-16","tags":["explorers","military"],"title":"Yi Sun Sin","url":"https://it.wikipedia.org/wiki/Yi_Sun-sin","language":"it","tier":0.5},
+{"id":"Q80288","kind":"person","start":1535.0,"startLabel":"1535","end":1594.8712328767124,"endLabel":"1594-11-15","tags":["explorers"],"title":"Martin Frobisher","url":"https://it.wikipedia.org/wiki/Martin_Frobisher","language":"it","tier":0.5}
+]

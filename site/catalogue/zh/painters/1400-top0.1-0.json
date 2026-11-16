@@ -1,0 +1,4 @@
+[
+{"id":"Q5811","kind":"person","start":1401.9945205479453,"startLabel":"1401-12-21 (Julian)","end":1428.0,"endLabel":"1428","tags":["painters"],"title":"马萨乔","url":"https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%90%A8%E4%B9%94","language":"zh","tier":0.1},
+{"id":"Q5669","kind":"person","start":1445.0,"startLabel":"≈1445","end":1510.4,"endLabel":"1510-05-17 (Julian)","tags":["painters","trades","occupation-q15296811"],"title":"桑德罗·波提切利","url":"https://zh.wikipedia.org/wiki/%E6%A1%91%E5%BE%B7%E7%BD%97%C2%B7%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9","language":"zh","tier":0.1}
+]

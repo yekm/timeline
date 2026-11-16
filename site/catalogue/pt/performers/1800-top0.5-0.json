@@ -1,0 +1,6 @@
+[
+{"id":"Q209077","kind":"person","start":1808.2295081967213,"startLabel":"1808-03-25","end":1842.3890410958904,"endLabel":"1842-05-23","tags":["performers","writers","poetry","politicians","music"],"title":"José de Espronceda","url":"https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Espronceda","language":"pt","tier":0.5},
+{"id":"Q152245","kind":"person","start":1819.6493150684933,"startLabel":"1819-08-26","end":1861.9506849315069,"endLabel":"1861-12-14","tags":["performers","painters","music"],"parent":"Q63195788","title":"Alberto de Saxe-Coburgo-Gota","url":"https://pt.wikipedia.org/wiki/Alberto_de_Saxe-Coburgo-Gota","language":"pt","tier":0.5},
+{"id":"Q231345","kind":"person","start":1820.7622950819673,"startLabel":"1820-10-06","end":1887.835616438356,"endLabel":"1887-11-02","tags":["performers","stage","music"],"title":"Jenny Lind","url":"https://pt.wikipedia.org/wiki/Jenny_Lind","language":"pt","tier":0.5},
+{"id":"Q192885","kind":"person","start":1811.441095890411,"startLabel":"1811-05-30 (Julian)","end":1848.431693989071,"endLabel":"1848-05-26 (Julian)","tags":["performers","writers","journalism","music","occupation-q15962340","occupation-q4964182"],"title":"Vissarion Belinskii","url":"https://pt.wikipedia.org/wiki/Vissarion_Belinski","language":"pt","tier":0.5}
+]

@@ -1,0 +1,10 @@
+[
+{"id":"Q313327","kind":"person","start":182.5041095890411,"startLabel":"0182-07-05 (Julian)","end":252.38524590163934,"endLabel":"0252-05-21 (Julian)","tags":["politicians","rulers"],"title":"Sun Quan","url":"https://es.wikipedia.org/wiki/Sun_Quan_(emperador_Da_de_Wu)","language":"es","tier":0.5},
+{"id":"Q1803","kind":"person","start":190.0,"startLabel":"190–199","end":238.27671232876713,"endLabel":"0238-04-12 (Julian)","tags":["politicians","military"],"title":"Gordiano II","url":"https://es.wikipedia.org/wiki/Gordiano_II","language":"es","tier":0.5},
+{"id":"Q1805","kind":"person","start":178.0,"startLabel":"178","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Balbino","url":"https://es.wikipedia.org/wiki/Balbino","language":"es","tier":0.5},
+{"id":"Q237960","kind":"person","start":150.0,"startLabel":"150","end":197.13150684931506,"endLabel":"0197-02-19 (Julian)","tags":["politicians"],"title":"Clodio Albino","url":"https://es.wikipedia.org/wiki/Clodio_Albino","language":"es","tier":0.5},
+{"id":"Q1777","kind":"person","start":173.0,"startLabel":"173","end":238.35342465753425,"endLabel":"0238-05-10 (Julian)","tags":["politicians","military"],"title":"Maximino el Tracio","url":"https://es.wikipedia.org/wiki/Maximino_el_Tracio","language":"es","tier":0.5},
+{"id":"Q1797","kind":"person","start":170.0,"startLabel":"101–200","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Pupieno","url":"https://es.wikipedia.org/wiki/Pupieno","language":"es","tier":0.5},
+{"id":"Q191455","kind":"person","start":150.0,"startLabel":"101–200","end":272.0,"endLabel":"272","tags":["politicians"],"title":"Sapor I","url":"https://es.wikipedia.org/wiki/Sapor_I","language":"es","tier":0.5},
+{"id":"Q371319","kind":"person","start":180.0,"startLabel":"180","end":242.0,"endLabel":"242","tags":["politicians"],"title":"Ardacher I","url":"https://es.wikipedia.org/wiki/Ardacher_I","language":"es","tier":0.5}
+]

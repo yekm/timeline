@@ -1,0 +1,8 @@
+[
+{"id":"Q128307","kind":"person","start":706.0,"startLabel":"706","end":744.0,"endLabel":"744","tags":["writers","poetry","politicians"],"title":"瓦利德二世","url":"https://zh.wikipedia.org/wiki/%E9%9F%A6%E7%AB%8B%E5%BE%B7%E4%BA%8C%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q154332","kind":"person","start":724.0,"startLabel":"≈724","end":804.3907103825137,"endLabel":"0804-05-19 (Julian)","tags":["writers","poetry","religion","occupation-q4964182"],"title":"阿尔琴","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E7%90%B4","language":"zh","tier":0.5},
+{"id":"Q160424","kind":"person","start":720.0,"startLabel":"≈720","end":799.0,"endLabel":"≈799","tags":["writers","poetry","scientists","occupation-q2109894"],"title":"保羅·迭肯","url":"https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%E6%89%A7%E4%BA%8B","language":"zh","tier":0.5},
+{"id":"Q103314","kind":"person","start":700.0,"startLabel":"601–700","end":715.2794520547945,"endLabel":"0715-04-09 (Julian)","tags":["writers","religion"],"title":"教宗君士坦丁","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%90%9B%E5%A3%AB%E5%9D%A6%E4%B8%81","language":"zh","tier":0.5},
+{"id":"Q256506","kind":"person","start":710.0,"startLabel":"710–719","end":801.0,"endLabel":"801","tags":["writers","poetry","occupation-q12328016","occupation-q4964182"],"title":"拉比雅·巴斯禮","url":"https://zh.wikipedia.org/wiki/%E6%8B%89%E6%AF%94%E9%9B%85%C2%B7%E5%B7%B4%E6%96%AF%E7%A6%AE","language":"zh","tier":0.5},
+{"id":"Q334847","kind":"person","start":704.0,"startLabel":"704","end":767.0,"endLabel":"767","tags":["writers","scientists"],"title":"伊本·易斯哈格","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9C%AC%C2%B7%E6%98%93%E6%96%AF%E5%93%88%E6%A0%BC","language":"zh","tier":0.5}
+]

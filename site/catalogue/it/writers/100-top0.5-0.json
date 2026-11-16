@@ -1,0 +1,6 @@
+[
+{"id":"Q5959","kind":"person","start":100.0,"startLabel":"1–100","tags":["writers","scientists","politicians"],"title":"Quinto Curzio Rufo","url":"https://it.wikipedia.org/wiki/Quinto_Curzio_Rufo","language":"it","tier":0.5},
+{"id":"Q177847","kind":"person","start":120.0,"startLabel":"≈120","end":180.0,"endLabel":"≈180","tags":["writers","poetry","stage","occupation-q4964182"],"title":"Luciano di Samosata","url":"https://it.wikipedia.org/wiki/Luciano_di_Samosata","language":"it","tier":0.5},
+{"id":"Q272087","kind":"person","start":120.0,"startLabel":"≈120","end":173.0,"endLabel":"≈173","tags":["writers","religion","occupation-q4964182"],"title":"Taziano il Siro","url":"https://it.wikipedia.org/wiki/Taziano_il_Siro","language":"it","tier":0.5},
+{"id":"Q192931","kind":"person","start":110.0,"startLabel":"≈110","end":180.0,"endLabel":"≈180","tags":["writers","scientists"],"title":"Pausania il Periegeta","url":"https://it.wikipedia.org/wiki/Pausania_il_Periegeta","language":"it","tier":0.5}
+]

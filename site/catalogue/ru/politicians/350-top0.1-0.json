@@ -1,0 +1,5 @@
+[
+{"id":"Q36724","kind":"person","start":395.0,"startLabel":"≈395","end":453.0,"endLabel":"453","tags":["politicians"],"title":"Аттила","url":"https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B8%D0%BB%D0%B0","language":"ru","tier":0.1},
+{"id":"Q159369","kind":"person","start":377.0027397260274,"startLabel":"0377-01-01 (Julian)","end":408.3333333333333,"endLabel":"0408-05-01 (Julian)","tags":["politicians"],"title":"Флавий Аркадий","url":"https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B2%D0%B8%D0%B9_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9","language":"ru","tier":0.1},
+{"id":"Q159798","kind":"person","start":384.6912568306011,"startLabel":"0384-09-09 (Julian)","end":423.62191780821917,"endLabel":"0423-08-15 (Julian)","tags":["politicians"],"title":"Гонорий","url":"https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%BE%D1%80%D0%B8%D0%B9","language":"ru","tier":0.1}
+]

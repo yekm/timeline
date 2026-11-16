@@ -1,0 +1,6 @@
+[
+{"id":"Q2604","kind":"person","start":1876.1666666666667,"startLabel":"1876-03-02","end":1958.7698630136986,"endLabel":"1958-10-09","tags":["religion"],"title":"Papa Pio XII","url":"https://it.wikipedia.org/wiki/Papa_Pio_XII","language":"it","tier":0.1},
+{"id":"Q23873","kind":"person","start":1881.8986301369864,"startLabel":"1881-11-25","end":1963.4191780821918,"endLabel":"1963-06-03","tags":["religion"],"title":"Papa Giovanni XXIII","url":"https://it.wikipedia.org/wiki/Papa_Giovanni_XXIII","language":"it","tier":0.1},
+{"id":"Q42323","kind":"person","start":1857.4109589041095,"startLabel":"1857-05-31","end":1939.109589041096,"endLabel":"1939-02-10","tags":["religion","athletes","occupation-q182436"],"title":"Papa Pio XI","url":"https://it.wikipedia.org/wiki/Papa_Pio_XI","language":"it","tier":0.1},
+{"id":"Q4448","kind":"person","start":1854.8876712328768,"startLabel":"1854-11-21","end":1922.0575342465754,"endLabel":"1922-01-22","tags":["religion"],"title":"Papa Benedetto XV","url":"https://it.wikipedia.org/wiki/Papa_Benedetto_XV","language":"it","tier":0.1}
+]

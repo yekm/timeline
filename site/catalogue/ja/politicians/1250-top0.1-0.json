@@ -1,0 +1,6 @@
+[
+{"id":"Q133168","kind":"person","start":1281.1178082191782,"startLabel":"1281-02-06 (Julian)","end":1362.1835616438357,"endLabel":"1362-03 (Julian)","tags":["politicians"],"title":"オルハン","url":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%8F%E3%83%B3","language":"ja","tier":0.1},
+{"id":"Q5236","kind":"person","start":1284.3333333333333,"startLabel":"1284-04-25 (Julian)","end":1327.7424657534248,"endLabel":"1327-09-21 (Julian)","tags":["politicians","rulers"],"title":"エドワード2世","url":"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%892%E4%B8%96_(%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E7%8E%8B)","language":"ja","tier":0.1},
+{"id":"Q83100","kind":"person","start":1259.0,"startLabel":"1259","end":1324.6584699453551,"endLabel":"1324-08-21 (Julian)","tags":["politicians"],"title":"オスマン1世","url":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B31%E4%B8%96","language":"ja","tier":0.1},
+{"id":"Q130969","kind":"person","start":1268.4344262295083,"startLabel":"1268-06 (Julian)","end":1314.9315068493152,"endLabel":"1314-11-29 (Julian)","tags":["politicians"],"title":"フィリップ4世","url":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%974%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)","language":"ja","tier":0.1}
+]

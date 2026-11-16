@@ -1,0 +1,5 @@
+[
+{"id":"Q230677","kind":"person","start":1743.6301369863013,"startLabel":"1743-08-19","end":1793.9342465753425,"endLabel":"1793-12-08","tags":["architecture","trades","occupation-q10732476","occupation-q376924","occupation-q625369","occupation-q685433"],"title":"Madame du Barry","url":"https://es.wikipedia.org/wiki/Madame_du_Barry","language":"es","tier":0.5},
+{"id":"Q299687","kind":"person","start":1700.0,"startLabel":"1700","end":1771.3534246575343,"endLabel":"1771-04-29 (Julian)","tags":["architecture"],"title":"Francesco Bartolomeo Rastrelli","url":"https://es.wikipedia.org/wiki/Francesco_Bartolomeo_Rastrelli","language":"es","tier":0.5},
+{"id":"Q312635","kind":"person","start":1728.5027322404371,"startLabel":"1728-07-03","end":1792.1693989071039,"endLabel":"1792-03-03","tags":["architecture","scientists","politicians"],"title":"Robert Adam","url":"https://es.wikipedia.org/wiki/Robert_Adam","language":"es","tier":0.5}
+]

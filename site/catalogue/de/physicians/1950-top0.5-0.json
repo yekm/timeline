@@ -1,0 +1,13 @@
+[
+{"id":"Q182673","kind":"person","start":1955.2191780821918,"startLabel":"1955-03-22","tags":["physicians","politicians","occupation-q115088092","occupation-q1377734"],"title":"Valdis Zatlers","url":"https://de.wikipedia.org/wiki/Valdis_Zatlers","language":"de","tier":0.5},
+{"id":"Q1728820","kind":"person","start":1979.0465753424658,"startLabel":"1979-01-18","tags":["physicians","politicians","occupation-q115088092"],"title":"Leo Varadkar","url":"https://de.wikipedia.org/wiki/Leo_Varadkar","language":"de","tier":0.5},
+{"id":"Q57313851","kind":"person","start":1969.3534246575343,"startLabel":"1969-05-10","tags":["physicians","politicians"],"title":"Lotay Tshering","url":"https://de.wikipedia.org/wiki/Lotay_Tshering","language":"de","tier":0.5},
+{"id":"Q671930","kind":"person","start":1964.6502732240438,"startLabel":"1964-08-26","tags":["physicians","politicians"],"title":"Mehriban Aliyeva","url":"https://de.wikipedia.org/wiki/Mehriban_%C6%8Fliyeva","language":"de","tier":0.5},
+{"id":"Q57496","kind":"person","start":1962.558904109589,"startLabel":"1962-07-24","tags":["physicians","politicians"],"title":"Federico Franco","url":"https://de.wikipedia.org/wiki/Federico_Franco","language":"de","tier":0.5},
+{"id":"Q246216","kind":"person","start":1956.9207650273224,"startLabel":"1956-12-03","tags":["physicians","politicians"],"title":"Ewa Kopacz","url":"https://de.wikipedia.org/wiki/Ewa_Kopacz","language":"de","tier":0.5},
+{"id":"Q317556","kind":"person","start":1960.6775956284152,"startLabel":"1960-09-05","tags":["physicians","politicians","diplomacy","occupation-q115088092"],"title":"Abdullah Abdullah","url":"https://de.wikipedia.org/wiki/Abdullah_Abdullah","language":"de","tier":0.5},
+{"id":"Q311289","kind":"person","start":1958.4493150684932,"startLabel":"1958-06-14","tags":["physicians","athletes"],"title":"Eric Heiden","url":"https://de.wikipedia.org/wiki/Eric_Heiden","language":"de","tier":0.5},
+{"id":"Q463557","kind":"person","start":1963.0164383561644,"startLabel":"1963-01-07","tags":["physicians","politicians"],"title":"Rand Paul","url":"https://de.wikipedia.org/wiki/Rand_Paul","language":"de","tier":0.5},
+{"id":"Q102331","kind":"person","start":1954.1342465753426,"startLabel":"1954-02-19","end":2011.9232876712329,"endLabel":"2011-12-04","tags":["physicians","athletes"],"title":"Sócrates","url":"https://de.wikipedia.org/wiki/S%C3%B3crates_(Fu%C3%9Fballspieler)","language":"de","tier":0.5},
+{"id":"Q84497471","kind":"person","start":1986.7780821917809,"startLabel":"1986-10-12","end":2020.1010928961748,"endLabel":"2020-02-07","tags":["physicians"],"title":"Li Wenliang","url":"https://de.wikipedia.org/wiki/Li_Wenliang","language":"de","tier":0.5}
+]

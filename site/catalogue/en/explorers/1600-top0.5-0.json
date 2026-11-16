@@ -1,0 +1,5 @@
+[
+{"id":"Q294769","kind":"person","start":1619.3013698630136,"startLabel":"1619-04-21","end":1677.0465753424658,"endLabel":"1677-01-18","tags":["explorers","politicians"],"title":"Jan van Riebeeck","url":"https://en.wikipedia.org/wiki/Jan_van_Riebeeck","language":"en","tier":0.5},
+{"id":"Q26558","kind":"person","start":1645.0,"startLabel":"1645","end":1701.3890410958904,"endLabel":"1701-05-23","tags":["explorers","military","activism"],"title":"William Kidd","url":"https://en.wikipedia.org/wiki/William_Kidd","language":"en","tier":0.5},
+{"id":"Q215502","kind":"person","start":1631.0630136986301,"startLabel":"1631-01-24","end":1688.6475409836066,"endLabel":"1688-08-25","tags":["explorers","politicians","businesspeople","finance-trade","activism"],"title":"Henry Morgan","url":"https://en.wikipedia.org/wiki/Henry_Morgan","language":"en","tier":0.5}
+]

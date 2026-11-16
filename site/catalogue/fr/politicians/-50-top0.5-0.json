@@ -1,0 +1,9 @@
+[
+{"id":"Q214765","kind":"person","start":-45.0,"startLabel":"≈46 BCE","end":9.0,"endLabel":"9","tags":["politicians","military"],"title":"Varus","url":"https://fr.wikipedia.org/wiki/Varus","language":"fr","tier":0.5},
+{"id":"Q156778","kind":"person","start":-36.964383561643835,"startLabel":"0038-01-14 BCE","end":-7.297814207650273,"endLabel":"0009-09-14 BCE","tags":["politicians","military"],"title":"Nero Claudius Drusus","url":"https://fr.wikipedia.org/wiki/Nero_Claudius_Drusus","language":"fr","tier":0.5},
+{"id":"Q229413","kind":"person","start":-13.0,"startLabel":"14 BCE","end":33.78904109589041,"endLabel":"0033-10-18 (Julian)","tags":["politicians"],"title":"Agrippine l'Aînée","url":"https://fr.wikipedia.org/wiki/Agrippine_l%27A%C3%AEn%C3%A9e","language":"fr","tier":0.5},
+{"id":"Q39589","kind":"person","start":-45.53150684931507,"startLabel":"0047-06-23 BCE (Julian)","end":-29.0,"endLabel":"30 BCE","tags":["politicians"],"title":"Ptolémée XV","url":"https://fr.wikipedia.org/wiki/Ptol%C3%A9m%C3%A9e_XV","language":"fr","tier":0.5},
+{"id":"Q298162","kind":"person","start":-19.0,"startLabel":"20 BCE","end":4.133879781420765,"endLabel":"0004-02-21 (Julian)","tags":["politicians","military"],"title":"Caius Julius Caesar Vipsanianus","url":"https://fr.wikipedia.org/wiki/Caius_Julius_Caesar_Vipsanianus","language":"fr","tier":0.5},
+{"id":"Q192950","kind":"person","start":-19.0,"startLabel":"20 BCE","end":39.0,"endLabel":"39","tags":["politicians","rulers"],"title":"Hérode Antipas","url":"https://fr.wikipedia.org/wiki/H%C3%A9rode_Antipas","language":"fr","tier":0.5},
+{"id":"Q7250","kind":"person","start":-44.0,"startLabel":"≈45 BCE","end":23.756164383561643,"endLabel":"0023-10-06 (Julian)","tags":["politicians"],"title":"Wang Mang","url":"https://fr.wikipedia.org/wiki/Wang_Mang","language":"fr","tier":0.5}
+]

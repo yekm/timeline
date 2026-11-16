@@ -1,0 +1,9 @@
+[
+{"id":"Q271850","kind":"person","start":-443.0,"startLabel":"444 BCE","end":-359.0,"endLabel":"360 BCE","tags":["politicians","diplomacy","military"],"title":"Agesilao II","url":"https://it.wikipedia.org/wiki/Agesilao_II","language":"it","tier":0.5},
+{"id":"Q187982","kind":"person","start":-449.0,"startLabel":"≈450 BCE","end":-403.0,"endLabel":"404 BCE","tags":["politicians","military"],"title":"Alcibiade","url":"https://it.wikipedia.org/wiki/Alcibiade","language":"it","tier":0.5},
+{"id":"Q188472","kind":"person","start":-435.0,"startLabel":"436 BCE","end":-357.0,"endLabel":"358 BCE","tags":["politicians","rulers"],"title":"Artaserse II di Persia","url":"https://it.wikipedia.org/wiki/Artaserse_II_di_Persia","language":"it","tier":0.5},
+{"id":"Q296857","kind":"person","start":-409.0,"startLabel":"≈410 BCE","end":-352.0,"endLabel":"353 BCE","tags":["politicians"],"title":"Mausolo","url":"https://it.wikipedia.org/wiki/Mausolo","language":"it","tier":0.5},
+{"id":"Q312821","kind":"person","start":-426.0,"startLabel":"427 BCE","end":-290.0,"endLabel":"291 BCE","tags":["politicians"],"parent":"Q838196","title":"Kōan","url":"https://it.wikipedia.org/wiki/K%C5%8Dan_(imperatore_del_Giappone)","language":"it","tier":0.5},
+{"id":"Q190436","kind":"person","start":-417.0,"startLabel":"418 BCE","end":-361.0,"endLabel":"362 BCE","tags":["politicians","military"],"title":"Epaminonda","url":"https://it.wikipedia.org/wiki/Epaminonda","language":"it","tier":0.5},
+{"id":"Q192867","kind":"person","start":-424.0,"startLabel":"425 BCE","end":-336.4328767123288,"endLabel":"0338-08-01 BCE (Julian)","tags":["politicians"],"title":"Artaserse III di Persia","url":"https://it.wikipedia.org/wiki/Artaserse_III_di_Persia","language":"it","tier":0.5}
+]

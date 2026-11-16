@@ -1,0 +1,5 @@
+[
+{"id":"Q106026","kind":"person","start":250.0,"startLabel":"250–259","end":336.0,"endLabel":"336","tags":["religion","occupation-q432386","occupation-q779458"],"title":"Арий","url":"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B8%D0%B9","language":"ru","tier":0.5},
+{"id":"Q309953","kind":"person","start":252.0,"startLabel":"252","end":329.0,"endLabel":"329","tags":["religion"],"title":"Григорий Просветитель","url":"https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C","language":"ru","tier":0.5},
+{"id":"Q102131","kind":"person","start":255.013698630137,"startLabel":"0255-01-06 (Julian)","end":309.04383561643834,"endLabel":"0309-01-16 (Julian)","tags":["religion"],"title":"Марцелл I","url":"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%86%D0%B5%D0%BB%D0%BB_I","language":"ru","tier":0.5}
+]

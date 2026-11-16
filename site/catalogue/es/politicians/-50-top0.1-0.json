@@ -1,0 +1,6 @@
+[
+{"id":"Q17131","kind":"person","start":-10.09041095890411,"startLabel":"0012-12 BCE (Julian)","tags":["politicians","occupation-q599151"],"title":"Poncio Pilato","url":"https://es.wikipedia.org/wiki/Poncio_Pilato","language":"es","tier":0.1},
+{"id":"Q68880","kind":"person","start":-16.0,"startLabel":"≈17 BCE","end":21.0,"endLabel":"≈21","tags":["politicians","military"],"title":"Arminio","url":"https://es.wikipedia.org/wiki/Arminio","language":"es","tier":0.1},
+{"id":"Q1407","kind":"person","start":-40.131506849315066,"startLabel":"0042-11-16 BCE (Julian)","end":37.1972602739726,"endLabel":"0037-03-16 (Julian)","tags":["politicians","military"],"title":"Tiberio","url":"https://es.wikipedia.org/wiki/Tiberio","language":"es","tier":0.1},
+{"id":"Q1414","kind":"person","start":-1.0273972602739727,"startLabel":"0003-12-24 BCE (Julian)","end":69.03287671232877,"endLabel":"0069-01-15 (Julian)","tags":["politicians","military"],"title":"Galba","url":"https://es.wikipedia.org/wiki/Galba","language":"es","tier":0.1}
+]

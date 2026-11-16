@@ -1,0 +1,6 @@
+[
+{"id":"Q189081","kind":"person","start":1905.978082191781,"startLabel":"1905-12-24","end":1976.25956284153,"endLabel":"1976-04-05","tags":["film","engineers","inventors","explorers","businesspeople"],"title":"Howard Hughes","url":"https://en.wikipedia.org/wiki/Howard_Hughes","language":"en","tier":0.5},
+{"id":"Q217037","kind":"person","start":1943.7205479452055,"startLabel":"1943-09-21","tags":["film","businesspeople","occupation-q578109"],"title":"Jerry Bruckheimer","url":"https://en.wikipedia.org/wiki/Jerry_Bruckheimer","language":"en","tier":0.5},
+{"id":"Q1270169","kind":"person","start":1945.0027397260274,"startLabel":"1945-01-02","end":2017.9095890410958,"endLabel":"2017-11-29","tags":["film","engineers","politicians","military","businesspeople"],"title":"Slobodan Praljak","url":"https://en.wikipedia.org/wiki/Slobodan_Praljak","language":"en","tier":0.5},
+{"id":"Q59821","kind":"person","start":1914.690410958904,"startLabel":"1914-09-10","end":2005.7013698630137,"endLabel":"2005-09-14","tags":["film","businesspeople","activism","occupation-q3455803"],"title":"Robert Wise","url":"https://en.wikipedia.org/wiki/Robert_Wise","language":"en","tier":0.5}
+]

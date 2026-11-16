@@ -1,0 +1,12 @@
+[
+{"id":"Q122376","kind":"person","end":222.0,"endLabel":"≈222","tags":["religion"],"title":"Calixte Ier","url":"https://fr.wikipedia.org/wiki/Calixte_Ier","language":"fr","tier":0.1},
+{"id":"Q131162","kind":"person","start":200.0,"startLabel":"≈200","end":268.9836065573771,"endLabel":"0268-12-26 (Julian)","tags":["religion"],"title":"Denys","url":"https://fr.wikipedia.org/wiki/Denys_(pape)","language":"fr","tier":0.1},
+{"id":"Q132100","kind":"person","end":236.0054644808743,"endLabel":"0236-01-03 (Julian)","tags":["religion"],"title":"Antère","url":"https://fr.wikipedia.org/wiki/Ant%C3%A8re","language":"fr","tier":0.1},
+{"id":"Q127385","kind":"person","start":215.0,"startLabel":"≈215","end":258.5945205479452,"endLabel":"0258-08-06 (Julian)","tags":["religion"],"title":"Sixte II","url":"https://fr.wikipedia.org/wiki/Sixte_II","language":"fr","tier":0.1},
+{"id":"Q101306","kind":"person","end":217.96712328767123,"endLabel":"0217-12-20 (Julian)","tags":["religion"],"title":"Zéphyrin","url":"https://fr.wikipedia.org/wiki/Z%C3%A9phyrin","language":"fr","tier":0.1},
+{"id":"Q132793","kind":"person","start":200.0,"startLabel":"200","end":254.17260273972602,"endLabel":"0254-03-05 (Julian)","tags":["religion"],"title":"Lucius Ier","url":"https://fr.wikipedia.org/wiki/Lucius_Ier","language":"fr","tier":0.1},
+{"id":"Q131159","kind":"person","start":200.0,"startLabel":"200","end":250.05205479452056,"endLabel":"0250-01-20 (Julian)","tags":["religion"],"title":"Fabien","url":"https://fr.wikipedia.org/wiki/Fabien_(pape)","language":"fr","tier":0.1},
+{"id":"Q101280","kind":"person","start":200.0,"startLabel":"101–200","tags":["religion"],"parent":"Q28109118","title":"Sôter","url":"https://fr.wikipedia.org/wiki/S%C3%B4ter_(pape)","language":"fr","tier":0.1},
+{"id":"Q125631","kind":"person","end":230.37808219178083,"endLabel":"0230-05-19 (Julian)","tags":["religion"],"title":"Urbain Ier","url":"https://fr.wikipedia.org/wiki/Urbain_Ier","language":"fr","tier":0.1},
+{"id":"Q132113","kind":"person","end":235.74794520547945,"endLabel":"0235-10 (Julian)","tags":["religion"],"title":"Pontien","url":"https://fr.wikipedia.org/wiki/Pontien","language":"fr","tier":0.1}
+]

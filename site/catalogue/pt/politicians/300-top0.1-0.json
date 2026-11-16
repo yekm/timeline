@@ -1,0 +1,6 @@
+[
+{"id":"Q46696","kind":"person","start":347.0301369863014,"startLabel":"0347-01-11 (Julian)","end":395.04657534246576,"endLabel":"0395-01-17 (Julian)","tags":["politicians"],"title":"Teodósio I","url":"https://pt.wikipedia.org/wiki/Teod%C3%B3sio","language":"pt","tier":0.1},
+{"id":"Q33941","kind":"person","start":331.8794520547945,"startLabel":"0331-11-17 (Julian)","end":363.4849315068493,"endLabel":"0363-06-26 (Julian)","tags":["politicians","occupation-q4964182"],"title":"Juliano, o Apóstata","url":"https://pt.wikipedia.org/wiki/Juliano_(imperador)","language":"pt","tier":0.1},
+{"id":"Q46720","kind":"person","start":321.5041095890411,"startLabel":"0321-07-03 (Julian)","end":375.8794520547945,"endLabel":"0375-11-17 (Julian)","tags":["politicians"],"title":"Valentiniano I","url":"https://pt.wikipedia.org/wiki/Valentiniano_I","language":"pt","tier":0.1},
+{"id":"Q46418","kind":"person","start":317.5972602739726,"startLabel":"0317-08-07","end":361.8383561643836,"endLabel":"0361-11-03","tags":["politicians"],"title":"Constâncio II","url":"https://pt.wikipedia.org/wiki/Const%C3%A2ncio_II","language":"pt","tier":0.1}
+]

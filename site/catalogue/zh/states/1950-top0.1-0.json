@@ -1,0 +1,6 @@
+[
+{"id":"Q212","kind":"event","point":1991.6438356164383,"pointLabel":"1991-08-24","tags":["states"],"parent":"Q27468","title":"烏克蘭","url":"https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%85%8B%E5%85%B0","language":"zh","tier":0.1},
+{"id":"Q881","kind":"event","point":1976.5,"pointLabel":"1976-07-02","tags":["states"],"parent":"Q11708","title":"越南","url":"https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97","language":"zh","tier":0.1},
+{"id":"Q227","kind":"event","point":1991.0,"pointLabel":"1991","tags":["states"],"parent":"Q18869","title":"阿塞拜疆","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86","language":"zh","tier":0.1},
+{"id":"Q794","kind":"event","point":1979.2465753424658,"pointLabel":"1979-04-01","tags":["states"],"parent":"Q27293","title":"伊朗","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9C%97","language":"zh","tier":0.1}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q17131","kind":"person","start":-10.09041095890411,"startLabel":"0012-12 BCE (Julian)","tags":["politicians","occupation-q599151"],"title":"Понтий Пилат","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%82%D0%B8%D0%B9_%D0%9F%D0%B8%D0%BB%D0%B0%D1%82","language":"ru","tier":0.1},
+{"id":"Q68880","kind":"person","start":-16.0,"startLabel":"≈17 BCE","end":21.0,"endLabel":"≈21","tags":["politicians","military"],"title":"Арминий","url":"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9","language":"ru","tier":0.1},
+{"id":"Q1407","kind":"person","start":-40.131506849315066,"startLabel":"0042-11-16 BCE (Julian)","end":37.1972602739726,"endLabel":"0037-03-16 (Julian)","tags":["politicians","military"],"title":"Тиберий","url":"https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%80%D0%B8%D0%B9","language":"ru","tier":0.1},
+{"id":"Q1414","kind":"person","start":-1.0273972602739727,"startLabel":"0003-12-24 BCE (Julian)","end":69.03287671232877,"endLabel":"0069-01-15 (Julian)","tags":["politicians","military"],"title":"Гальба","url":"https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D0%B1%D0%B0","language":"ru","tier":0.1}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q44170","kind":"person","start":35.0,"startLabel":"≈35","end":108.0,"endLabel":"108","tags":["religion"],"parent":"Q182603","title":"Ignatius of Antioch","url":"https://en.wikipedia.org/wiki/Ignatius_of_Antioch","language":"en","tier":0.5},
+{"id":"Q161775","kind":"person","start":1.0,"startLabel":"≈1","end":36.0,"endLabel":"≈36","tags":["religion"],"title":"Stephen","url":"https://en.wikipedia.org/wiki/Saint_Stephen","language":"en","tier":0.5},
+{"id":"Q212647","kind":"person","start":17.0,"startLabel":"17","end":97.0,"endLabel":"97","tags":["religion"],"title":"Timothy","url":"https://en.wikipedia.org/wiki/Saint_Timothy","language":"en","tier":0.5},
+{"id":"Q185856","kind":"person","start":1.0,"startLabel":"1–100","end":61.0,"endLabel":"61","tags":["religion","music"],"title":"Barnabas","url":"https://en.wikipedia.org/wiki/Barnabas","language":"en","tier":0.5}
+]

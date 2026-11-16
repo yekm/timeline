@@ -1,0 +1,15 @@
+[
+{"id":"Q31","kind":"event","point":1830.7561643835616,"pointLabel":"1830-10-04","tags":["states"],"parent":"Q1065","title":"ベルギー","url":"https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC","language":"ja","tier":0.5},
+{"id":"Q717","kind":"event","point":1811.5068493150684,"pointLabel":"1811-07-05","tags":["states"],"parent":"Q12585","title":"ベネズエラ","url":"https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9","language":"ja","tier":0.5},
+{"id":"Q736","kind":"event","point":1840.1256830601094,"pointLabel":"1840-02-16","tags":["states"],"parent":"Q12585","title":"エクアドル","url":"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB","language":"ja","tier":0.5},
+{"id":"Q750","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"ボリビア","url":"https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%83%93%E3%82%A2","language":"ja","tier":0.5},
+{"id":"Q783","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"ホンジュラス","url":"https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B9","language":"ja","tier":0.5},
+{"id":"Q347","kind":"event","point":1806.5260273972603,"pointLabel":"1806-07-12","tags":["states"],"parent":"Q151624","title":"リヒテンシュタイン","url":"https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3","language":"ja","tier":0.5},
+{"id":"Q774","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"グアテマラ","url":"https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9","language":"ja","tier":0.5},
+{"id":"Q419","kind":"event","point":1821.5698630136985,"pointLabel":"1821-07-28","tags":["states"],"parent":"Q12585","title":"ペルー","url":"https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%83%BC","language":"ja","tier":0.5},
+{"id":"Q1014","kind":"event","point":1822.0164383561644,"pointLabel":"1822-01-07","tags":["states"],"parent":"Q4412","title":"リベリア","url":"https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%99%E3%83%AA%E3%82%A2","language":"ja","tier":0.5},
+{"id":"Q77","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"ウルグアイ","url":"https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4","language":"ja","tier":0.5},
+{"id":"Q800","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"コスタリカ","url":"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB","language":"ja","tier":0.5},
+{"id":"Q32","kind":"event","point":1815.0,"pointLabel":"1815","tags":["states"],"parent":"Q458","title":"ルクセンブルク","url":"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF","language":"ja","tier":0.5},
+{"id":"Q733","kind":"event","point":1811.0,"pointLabel":"1811","tags":["states"],"parent":"Q12585","title":"パラグアイ","url":"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4","language":"ja","tier":0.5}
+]

@@ -1,0 +1,10 @@
+[
+{"id":"Q10133","kind":"person","start":70.0,"startLabel":"≈70","end":126.0,"endLabel":"≈126","tags":["writers","poetry","scientists","services","occupation-q5697103"],"title":"Suetonio","url":"https://es.wikipedia.org/wiki/Suetonio","language":"es","tier":0.5},
+{"id":"Q190368","kind":"person","start":95.0,"startLabel":"≈95","end":165.0,"endLabel":"≈165","tags":["writers","scientists","politicians","law"],"title":"Apiano","url":"https://es.wikipedia.org/wiki/Apiano","language":"es","tier":0.5},
+{"id":"Q193800","kind":"person","start":55.0,"startLabel":"55","end":200.0,"endLabel":"101–200","tags":["writers","poetry","scientists"],"title":"Juvenal","url":"https://es.wikipedia.org/wiki/Juvenal","language":"es","tier":0.5},
+{"id":"Q192371","kind":"person","start":69.0,"startLabel":"69","end":155.14246575342466,"endLabel":"0155-02-23 (Julian)","tags":["writers","religion"],"parent":"Q182603","title":"Policarpo de Esmirna","url":"https://es.wikipedia.org/wiki/Policarpo_de_Esmirna","language":"es","tier":0.5},
+{"id":"Q197206","kind":"person","start":78.0,"startLabel":"78","end":139.0,"endLabel":"139","tags":["writers","poetry","scientists","engineers","inventors","politicians","occupation-q4964182"],"title":"Zhang Heng","url":"https://es.wikipedia.org/wiki/Zhang_Heng","language":"es","tier":0.5},
+{"id":"Q31845","kind":"person","start":89.0,"startLabel":"≈89","end":175.0,"endLabel":"≈175","tags":["writers","scientists","politicians","military","occupation-q4964182"],"title":"Flavio Arriano","url":"https://es.wikipedia.org/wiki/Flavio_Arriano","language":"es","tier":0.5},
+{"id":"Q183144","kind":"person","start":50.0,"startLabel":"≈50","end":138.0,"endLabel":"138","tags":["writers","occupation-q4964182"],"title":"Epicteto","url":"https://es.wikipedia.org/wiki/Epicteto","language":"es","tier":0.5},
+{"id":"Q312552","kind":"person","start":80.0,"startLabel":"80","end":150.0,"endLabel":"150","tags":["writers","poetry"],"title":"Asvaghosa","url":"https://es.wikipedia.org/wiki/Asvaghosa","language":"es","tier":0.5}
+]

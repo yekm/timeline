@@ -1,0 +1,6 @@
+[
+{"id":"Q123014","kind":"person","start":1866.945205479452,"startLabel":"1866-12-12","end":1919.8712328767124,"endLabel":"1919-11-15","tags":["educators","occupation-q593644"],"title":"ألفرد فيرنر","url":"https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%81%D8%B1%D8%AF_%D9%81%D9%8A%D8%B1%D9%86%D8%B1","language":"ar","tier":0.1},
+{"id":"Q129006","kind":"person","start":1883.0054794520547,"startLabel":"1883-01-03","end":1967.7671232876712,"endLabel":"1967-10-08","tags":["educators","politicians","diplomacy"],"title":"كليمنت أتلي","url":"https://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%8A%D9%85%D9%86%D8%AA_%D8%A3%D8%AA%D9%84%D9%8A","language":"ar","tier":0.1},
+{"id":"Q42992","kind":"person","start":1898.3342465753424,"startLabel":"1898-04-21 (Julian)","end":1978.9342465753425,"endLabel":"1978-12-08","tags":["educators","politicians"],"parent":"Q2903216","title":"جولدا مائير","url":"https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%84%D8%AF%D8%A7_%D9%85%D8%A7%D8%A6%D9%8A%D8%B1","language":"ar","tier":0.1},
+{"id":"Q104582","kind":"person","start":1871.3424657534247,"startLabel":"1871-05-06","end":1935.9479452054795,"endLabel":"1935-12-13","tags":["educators","occupation-q593644"],"title":"فيكتور غرينيار","url":"https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%83%D8%AA%D9%88%D8%B1_%D8%BA%D8%B1%D9%8A%D9%86%D9%8A%D8%A7%D8%B1","language":"ar","tier":0.1}
+]

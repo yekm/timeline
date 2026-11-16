@@ -1,0 +1,5 @@
+[
+{"id":"Q4214","kind":"person","start":1240.0,"startLabel":"≈1240","end":1288.0,"endLabel":"≈1288","tags":["composers","performers","writers","poetry","music"],"title":"亚当·德·拉阿勒","url":"https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E5%BE%B7%C2%B7%E6%8B%89%E9%98%BF%E5%8B%92","language":"zh","tier":0.5},
+{"id":"Q312311","kind":"person","start":1240.0,"startLabel":"1240","end":1285.8794520547945,"endLabel":"1285-11-11 (Julian)","tags":["composers","performers","writers","poetry","music","occupation-q102083"],"title":"佩德羅三世","url":"https://zh.wikipedia.org/wiki/%E4%BD%A9%E5%BE%B7%E7%BE%85%E4%B8%89%E4%B8%96_(%E9%98%BF%E6%8B%89%E8%B2%A2)","language":"zh","tier":0.5},
+{"id":"Q47595","kind":"person","start":1221.9123287671232,"startLabel":"1221-11-23 (Julian)","end":1284.275956284153,"endLabel":"1284-04-04 (Julian)","tags":["composers","writers","poetry","scientists","politicians","music","occupation-q185351"],"title":"阿方索十世","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E6%96%B9%E7%B4%A2%E5%8D%81%E4%B8%96_(%E5%8D%A1%E6%96%AF%E8%92%82%E5%88%A9%E4%BA%9E)","language":"zh","tier":0.5}
+]

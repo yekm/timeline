@@ -1,0 +1,9 @@
+[
+{"id":"Q214765","kind":"person","start":-45.0,"startLabel":"≈46 BCE","end":9.0,"endLabel":"9","tags":["politicians","military"],"title":"Publio Quintilio Varo","url":"https://es.wikipedia.org/wiki/Publio_Quintilio_Varo","language":"es","tier":0.5},
+{"id":"Q156778","kind":"person","start":-36.964383561643835,"startLabel":"0038-01-14 BCE","end":-7.297814207650273,"endLabel":"0009-09-14 BCE","tags":["politicians","military"],"title":"Druso el Mayor","url":"https://es.wikipedia.org/wiki/Druso_el_Mayor","language":"es","tier":0.5},
+{"id":"Q229413","kind":"person","start":-13.0,"startLabel":"14 BCE","end":33.78904109589041,"endLabel":"0033-10-18 (Julian)","tags":["politicians"],"title":"Agripina la Mayor","url":"https://es.wikipedia.org/wiki/Agripina_la_Mayor","language":"es","tier":0.5},
+{"id":"Q39589","kind":"person","start":-45.53150684931507,"startLabel":"0047-06-23 BCE (Julian)","end":-29.0,"endLabel":"30 BCE","tags":["politicians"],"title":"Cesarión","url":"https://es.wikipedia.org/wiki/Cesari%C3%B3n","language":"es","tier":0.5},
+{"id":"Q298162","kind":"person","start":-19.0,"startLabel":"20 BCE","end":4.133879781420765,"endLabel":"0004-02-21 (Julian)","tags":["politicians","military"],"title":"Cayo César","url":"https://es.wikipedia.org/wiki/Cayo_C%C3%A9sar","language":"es","tier":0.5},
+{"id":"Q192950","kind":"person","start":-19.0,"startLabel":"20 BCE","end":39.0,"endLabel":"39","tags":["politicians","rulers"],"title":"Herodes Antipas","url":"https://es.wikipedia.org/wiki/Herodes_Antipas","language":"es","tier":0.5},
+{"id":"Q7250","kind":"person","start":-44.0,"startLabel":"≈45 BCE","end":23.756164383561643,"endLabel":"0023-10-06 (Julian)","tags":["politicians"],"title":"Wang Mang","url":"https://es.wikipedia.org/wiki/Wang_Mang","language":"es","tier":0.5}
+]

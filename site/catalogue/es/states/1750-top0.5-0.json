@@ -1,0 +1,5 @@
+[
+{"id":"Q869","kind":"event","point":1768.9890710382513,"pointLabel":"1768-12-28","tags":["states"],"parent":"Q11708","title":"Tailandia","url":"https://es.wikipedia.org/wiki/Tailandia","language":"es","tier":0.5},
+{"id":"Q55","kind":"event","point":1795.0493150684931,"pointLabel":"1795-01-19","tags":["states"],"parent":"Q29999","title":"Países Bajos","url":"https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos","language":"es","tier":0.5},
+{"id":"Q837","kind":"event","point":1768.7322404371585,"pointLabel":"1768-09-25","tags":["states"],"parent":"Q771405","title":"Nepal","url":"https://es.wikipedia.org/wiki/Nepal","language":"es","tier":0.5}
+]

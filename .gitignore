@@ -21,6 +21,8 @@ wikidatawiki-*-multistream-index.txt
 *.db
 *.db-*
 /build/
+/site/data/
 /site/.data-*/
+/site/.catalogue-*/
 __pycache__/
 *.pyc

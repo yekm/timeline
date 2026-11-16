@@ -1,0 +1,14 @@
+[
+{"id":"Q46846","kind":"person","start":371.0,"startLabel":"371","end":392.37158469945354,"endLabel":"0392-05-15 (Julian)","tags":["politicians"],"title":"Valentinian II.","url":"https://de.wikipedia.org/wiki/Valentinian_II.","language":"de","tier":0.5},
+{"id":"Q110892","kind":"person","start":393.0,"startLabel":"393","end":451.46849315068494,"endLabel":"0451-06-20 (Julian)","tags":["politicians"],"title":"Theoderich I.","url":"https://de.wikipedia.org/wiki/Theoderich_I.","language":"de","tier":0.5},
+{"id":"Q185476","kind":"person","start":390.0,"startLabel":"390–399","end":454.72054794520545,"endLabel":"0454-09-21","tags":["politicians","military"],"title":"Flavius Aëtius","url":"https://de.wikipedia.org/wiki/Flavius_A%C3%ABtius","language":"de","tier":0.5},
+{"id":"Q235392","kind":"person","start":393.0,"startLabel":"≈393","end":448.0,"endLabel":"448","tags":["politicians","rulers"],"title":"Chlodio","url":"https://de.wikipedia.org/wiki/Chlodio","language":"de","tier":0.5},
+{"id":"Q203636","kind":"person","start":359.0,"startLabel":"359","end":408.6393442622951,"endLabel":"0408-08-22","tags":["politicians","military"],"title":"Stilicho","url":"https://de.wikipedia.org/wiki/Stilicho","language":"de","tier":0.5},
+{"id":"Q231919","kind":"person","start":399.05205479452053,"startLabel":"0399-01-19 (Julian)","end":453.4986301369863,"endLabel":"0453-07 (Julian)","tags":["politicians"],"title":"Aelia Pulcheria","url":"https://de.wikipedia.org/wiki/Aelia_Pulcheria","language":"de","tier":0.5},
+{"id":"Q237907","kind":"person","start":386.0,"startLabel":"386","end":450.9068493150685,"endLabel":"0450-11-27 (Julian)","tags":["politicians"],"title":"Galla Placidia","url":"https://de.wikipedia.org/wiki/Galla_Placidia","language":"de","tier":0.5},
+{"id":"Q189108","kind":"person","start":359.2958904109589,"startLabel":"0359-04-18 (Julian)","end":383.64931506849314,"endLabel":"0383-08-25 (Julian)","tags":["politicians","military"],"title":"Gratian","url":"https://de.wikipedia.org/wiki/Gratian","language":"de","tier":0.5},
+{"id":"Q191940","kind":"person","start":396.0,"startLabel":"≈396","end":455.0,"endLabel":"455","tags":["politicians"],"title":"Petronius Maximus","url":"https://de.wikipedia.org/wiki/Petronius_Maximus","language":"de","tier":0.5},
+{"id":"Q152127","kind":"person","start":389.0,"startLabel":"389","end":477.0,"endLabel":"477","tags":["politicians"],"title":"Geiserich","url":"https://de.wikipedia.org/wiki/Geiserich","language":"de","tier":0.5},
+{"id":"Q178004","kind":"person","start":392.0,"startLabel":"392","end":457.06849315068496,"endLabel":"0457-01-26","tags":["politicians"],"title":"Markian","url":"https://de.wikipedia.org/wiki/Markian","language":"de","tier":0.5},
+{"id":"Q203198","kind":"person","start":395.0,"startLabel":"395","end":457.0,"endLabel":"457","tags":["politicians","religion"],"title":"Avitus","url":"https://de.wikipedia.org/wiki/Avitus","language":"de","tier":0.5}
+]

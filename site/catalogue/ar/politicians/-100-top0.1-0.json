@@ -1,0 +1,6 @@
+[
+{"id":"Q51672","kind":"person","start":-73.0,"startLabel":"≈74 BCE","end":-3.0,"endLabel":"≈4 BCE","tags":["politicians","rulers"],"title":"هيرودس الأول","url":"https://ar.wikipedia.org/wiki/%D9%87%D9%8A%D8%B1%D9%88%D8%AF%D8%B3_%D8%A7%D9%84%D8%A3%D9%88%D9%84","language":"ar","tier":0.1},
+{"id":"Q635","kind":"person","start":-67.97267759562841,"startLabel":"0069-01-13 BCE (Julian)","end":-28.394520547945206,"endLabel":"0030-08-12 BCE (Julian)","tags":["politicians","rulers"],"parent":"Q28684594","title":"كليوباترا","url":"https://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7","language":"ar","tier":0.1},
+{"id":"Q1405","kind":"person","start":-61.27945205479452,"startLabel":"0063-09-23 BCE (Julian)","end":14.624657534246575,"endLabel":"0014-08-19 (Julian)","tags":["politicians","military"],"title":"أغسطس قيصر","url":"https://ar.wikipedia.org/wiki/%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3_%D9%82%D9%8A%D8%B5%D8%B1","language":"ar","tier":0.1},
+{"id":"Q51673","kind":"person","start":-82.0,"startLabel":"83 BCE","end":-29.0,"endLabel":"30 BCE","tags":["politicians","military"],"parent":"Q60310502","title":"مارك أنطوني","url":"https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%83_%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A","language":"ar","tier":0.1}
+]

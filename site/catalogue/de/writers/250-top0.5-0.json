@@ -1,0 +1,7 @@
+[
+{"id":"Q142999","kind":"person","start":265.0,"startLabel":"≈265","end":340.0,"endLabel":"≈340","tags":["writers","scientists","religion"],"parent":"Q182603","title":"Eusebius von Caesarea","url":"https://de.wikipedia.org/wiki/Eusebius_von_Caesarea","language":"de","tier":0.5},
+{"id":"Q44024","kind":"person","start":296.0,"startLabel":"296","end":373.3342465753425,"endLabel":"0373-05-02 (Julian)","tags":["writers","religion"],"parent":"Q182603","title":"Athanasius der Große","url":"https://de.wikipedia.org/wiki/Athanasius_der_Gro%C3%9Fe","language":"de","tier":0.5},
+{"id":"Q170547","kind":"person","start":251.0,"startLabel":"251","end":357.0,"endLabel":"≈357","tags":["writers","occupation-q1146843","occupation-q2109894"],"title":"Antonius der Große","url":"https://de.wikipedia.org/wiki/Antonius_der_Gro%C3%9Fe","language":"de","tier":0.5},
+{"id":"Q297742","kind":"person","start":292.0,"startLabel":"≈292","end":307.0,"endLabel":"≈307","tags":["writers"],"title":"Margareta von Antiochia","url":"https://de.wikipedia.org/wiki/Margareta_von_Antiochia","language":"de","tier":0.5},
+{"id":"Q298698","kind":"person","start":292.0,"startLabel":"292","end":348.3524590163934,"endLabel":"0348-05-09","tags":["writers","occupation-q733786"],"title":"Pachomios","url":"https://de.wikipedia.org/wiki/Pachomios","language":"de","tier":0.5}
+]

@@ -1,0 +1,8 @@
+[
+{"id":"Q293455","kind":"person","start":1918.6191780821919,"startLabel":"1918-08-15","end":1980.2267759562842,"endLabel":"1980-03-24","tags":["religion"],"title":"Óscar Romero","url":"https://en.wikipedia.org/wiki/%C3%93scar_Romero","language":"en","tier":0.5},
+{"id":"Q511502","kind":"person","start":1933.0082191780823,"startLabel":"1933-01-04","tags":["religion"],"title":"Ilia II of Georgia","url":"https://en.wikipedia.org/wiki/Ilia_II_of_Georgia","language":"en","tier":0.5},
+{"id":"Q44501","kind":"person","start":1940.1612021857923,"startLabel":"1940-02-29","tags":["religion","activism","occupation-q115088092"],"title":"Patriarch Bartholomew of Constantinople","url":"https://en.wikipedia.org/wiki/Bartholomew_I_of_Constantinople","language":"en","tier":0.5},
+{"id":"Q156277","kind":"person","start":1947.7013698630137,"startLabel":"1947-09-14","end":1984.7978142076502,"endLabel":"1984-10-19","tags":["religion","activism","occupation-q432386"],"title":"Jerzy Popiełuszko","url":"https://en.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko","language":"en","tier":0.5},
+{"id":"Q44187","kind":"person","start":1946.8849315068494,"startLabel":"1946-11-20","tags":["religion","occupation-q392651"],"title":"Kirill I of Moscow","url":"https://en.wikipedia.org/wiki/Patriarch_Kirill_of_Moscow","language":"en","tier":0.5},
+{"id":"Q158850","kind":"person","start":1910.109589041096,"startLabel":"1910-02-10","end":1969.0794520547945,"endLabel":"1969-01-30","tags":["religion","activism"],"title":"Dominique Pire","url":"https://en.wikipedia.org/wiki/Dominique_Pire","language":"en","tier":0.5}
+]

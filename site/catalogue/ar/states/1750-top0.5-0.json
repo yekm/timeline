@@ -1,0 +1,5 @@
+[
+{"id":"Q869","kind":"event","point":1768.9890710382513,"pointLabel":"1768-12-28","tags":["states"],"parent":"Q11708","title":"تايلاند","url":"https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF","language":"ar","tier":0.5},
+{"id":"Q55","kind":"event","point":1795.0493150684931,"pointLabel":"1795-01-19","tags":["states"],"parent":"Q29999","title":"هولندا","url":"https://ar.wikipedia.org/wiki/%D9%87%D9%88%D9%84%D9%86%D8%AF%D8%A7","language":"ar","tier":0.5},
+{"id":"Q837","kind":"event","point":1768.7322404371585,"pointLabel":"1768-09-25","tags":["states"],"parent":"Q771405","title":"نيبال","url":"https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D8%A8%D8%A7%D9%84","language":"ar","tier":0.5}
+]

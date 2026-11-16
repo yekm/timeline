@@ -1,0 +1,5 @@
+[
+{"id":"Q103292","kind":"person","start":700.0,"startLabel":"700","end":795.9917808219178,"endLabel":"0795-12-25 (Julian)","tags":["religion","occupation-q482980"],"title":"Адриан I","url":"https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D0%BD_I","language":"ru","tier":0.1},
+{"id":"Q211789","kind":"person","start":714.0,"startLabel":"≈714","end":757.3260273972603,"endLabel":"0757-04-26 (Julian)","tags":["religion","occupation-q482980"],"title":"Стефан II (III)","url":"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_II_(III)","language":"ru","tier":0.1},
+{"id":"Q320531","kind":"person","start":720.0,"startLabel":"720","end":772.0737704918033,"endLabel":"0772-01-24 (Julian)","tags":["religion"],"title":"Стефан III","url":"https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_III_(IV)","language":"ru","tier":0.1}
+]

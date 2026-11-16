@@ -1,0 +1,12 @@
+[
+{"id":"Q177310","kind":"person","start":1937.0794520547945,"startLabel":"1937-01-30","tags":["athletes","coaches"],"title":"Boris Spassky","url":"https://fr.wikipedia.org/wiki/Boris_Spassky","language":"fr","tier":0.1},
+{"id":"Q167828","kind":"person","start":1929.8027397260273,"startLabel":"1929-10-21","end":1990.213698630137,"endLabel":"1990-03-20","tags":["athletes"],"title":"Lev Yachine","url":"https://fr.wikipedia.org/wiki/Lev_Yachine","language":"fr","tier":0.1},
+{"id":"Q43744","kind":"person","start":1945.8383561643836,"startLabel":"1945-11-03","end":2021.6191780821919,"endLabel":"2021-08-15","tags":["athletes"],"title":"Gerd Müller","url":"https://fr.wikipedia.org/wiki/Gerd_M%C3%BCller","language":"fr","tier":0.1},
+{"id":"Q162043","kind":"person","start":1942.0657534246575,"startLabel":"1942-01-25","end":2014.0109589041097,"endLabel":"2014-01-05","tags":["athletes"],"title":"Eusébio","url":"https://fr.wikipedia.org/wiki/Eus%C3%A9bio_(football)","language":"fr","tier":0.1},
+{"id":"Q164546","kind":"person","start":1926.504109589041,"startLabel":"1926-07-04","end":2014.5123287671233,"endLabel":"2014-07-07","tags":["athletes","coaches"],"title":"Alfredo Di Stéfano","url":"https://fr.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano","language":"fr","tier":0.1},
+{"id":"Q52651","kind":"person","start":1913.695890410959,"startLabel":"1913-09-12","end":1980.2459016393443,"endLabel":"1980-03-31","tags":["athletes"],"title":"Jesse Owens","url":"https://fr.wikipedia.org/wiki/Jesse_Owens","language":"fr","tier":0.1},
+{"id":"Q4457","kind":"person","start":1945.6931506849314,"startLabel":"1945-09-11","tags":["athletes","coaches"],"title":"Franz Beckenbauer","url":"https://fr.wikipedia.org/wiki/Franz_Beckenbauer","language":"fr","tier":0.1},
+{"id":"Q17163","kind":"person","start":1947.3123287671233,"startLabel":"1947-04-25","end":2016.2267759562842,"endLabel":"2016-03-24","tags":["athletes","coaches"],"title":"Johan Cruijff","url":"https://fr.wikipedia.org/wiki/Johan_Cruyff","language":"fr","tier":0.1},
+{"id":"Q180642","kind":"person","start":1933.8219178082193,"startLabel":"1933-10-28","end":1983.0520547945205,"endLabel":"1983-01-20","tags":["athletes"],"title":"Garrincha","url":"https://fr.wikipedia.org/wiki/Garrincha","language":"fr","tier":0.1},
+{"id":"Q482931","kind":"person","start":1927.2465753424658,"startLabel":"1927-04-01","end":2006.876712328767,"endLabel":"2006-11-17","tags":["athletes","coaches"],"title":"Ferenc Puskás","url":"https://fr.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s","language":"fr","tier":0.1}
+]

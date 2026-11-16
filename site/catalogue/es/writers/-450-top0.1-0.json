@@ -1,0 +1,5 @@
+[
+{"id":"Q859","kind":"person","start":-425.6684931506849,"startLabel":"0427-05-07 BCE (Julian)","end":-346.0,"endLabel":"347 BCE","tags":["writers","poetry","occupation-q23760244","occupation-q4964182"],"title":"Platón","url":"https://es.wikipedia.org/wiki/Plat%C3%B3n","language":"es","tier":0.1},
+{"id":"Q43353","kind":"person","start":-444.0,"startLabel":"≈445 BCE","end":-384.0,"endLabel":"385 BCE","tags":["writers","poetry"],"title":"Aristófanes","url":"https://es.wikipedia.org/wiki/Arist%C3%B3fanes","language":"es","tier":0.1},
+{"id":"Q129772","kind":"person","start":-429.0,"startLabel":"≈430 BCE","end":-353.0,"endLabel":"≈354 BCE","tags":["writers","scientists","military","occupation-q178197","occupation-q4964182"],"title":"Jenofonte de Atenas","url":"https://es.wikipedia.org/wiki/Jenofonte","language":"es","tier":0.1}
+]

@@ -1,0 +1,7 @@
+[
+{"id":"Q154792","kind":"person","start":1532.0,"startLabel":"1532","end":1594.4493150684932,"endLabel":"1594-06-14","tags":["composers","performers","music"],"title":"Orlando di Lasso","url":"https://pt.wikipedia.org/wiki/Orlando_di_Lasso","language":"pt","tier":0.5},
+{"id":"Q207789","kind":"person","start":1505.0,"startLabel":"≈1505","end":1585.8931506849315,"endLabel":"1585-11-23","tags":["composers","music"],"title":"Thomas Tallis","url":"https://pt.wikipedia.org/wiki/Thomas_Tallis","language":"pt","tier":0.5},
+{"id":"Q208375","kind":"person","start":1543.0,"startLabel":"1543","end":1623.504109589041,"endLabel":"1623-07-04","tags":["composers","music"],"title":"William Byrd","url":"https://pt.wikipedia.org/wiki/William_Byrd","language":"pt","tier":0.5},
+{"id":"Q215128","kind":"person","start":1548.0,"startLabel":"≈1548","end":1611.6520547945206,"endLabel":"1611-08-27","tags":["composers","music"],"title":"Tomás Luis de Victoria","url":"https://pt.wikipedia.org/wiki/Tom%C3%A1s_Luis_de_Victoria","language":"pt","tier":0.5},
+{"id":"Q317126","kind":"person","start":1534.2383561643835,"startLabel":"1534-03-19 (Julian)","end":1597.4356164383562,"endLabel":"1597-06-09","tags":["composers","writers","poetry","translation","scientists","educators","religion","music"],"title":"José de Anchieta","url":"https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Anchieta","language":"pt","tier":0.5}
+]

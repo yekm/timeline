@@ -1,0 +1,6 @@
+[
+{"id":"Q146183","kind":"person","start":1815.6219178082192,"startLabel":"1815-08-16","end":1888.0819672131147,"endLabel":"1888-01-31","tags":["religion"],"title":"John Bosco","url":"https://en.wikipedia.org/wiki/John_Bosco","language":"en","tier":0.5},
+{"id":"Q232785","kind":"person","start":1840.0054644808743,"startLabel":"1840-01-03","end":1889.2849315068493,"endLabel":"1889-04-15","tags":["religion","occupation-q219477"],"title":"Father Damien","url":"https://en.wikipedia.org/wiki/Father_Damien","language":"en","tier":0.5},
+{"id":"Q298434","kind":"person","start":1838.0,"startLabel":"1838","end":1897.1835616438357,"endLabel":"1897-03-09","tags":["religion"],"title":"Jamal al-Din al-Afghani","url":"https://en.wikipedia.org/wiki/Jamal_al-Din_al-Afghani","language":"en","tier":0.5},
+{"id":"Q318461","kind":"person","start":1837.5424657534247,"startLabel":"1837-07-18","end":1873.131506849315,"endLabel":"1873-02-18","tags":["religion","activism"],"title":"Vasil Levski","url":"https://en.wikipedia.org/wiki/Vasil_Levski","language":"en","tier":0.5}
+]

@@ -1,0 +1,7 @@
+[
+{"id":"Q158148","kind":"person","start":1897.4383561643835,"startLabel":"1897-06-10","end":1918.5397260273974,"endLabel":"1918-07-17","tags":["healthcare","politicians","occupation-q140686"],"parent":"Q1206446","title":"Tatjana Nikolaevna Romanova","url":"https://it.wikipedia.org/wiki/Tat%27jana_Nikolaevna_Romanova","language":"it","tier":0.5},
+{"id":"Q193043","kind":"person","start":1899.6438356164383,"startLabel":"1899-08-24","end":1985.978082191781,"endLabel":"1985-12-24","tags":["healthcare","politicians"],"title":"Ferhat Abbas","url":"https://it.wikipedia.org/wiki/Ferhat_Abbas","language":"it","tier":0.5},
+{"id":"Q237564","kind":"person","start":1865.9232876712329,"startLabel":"1865-12-04","end":1915.7780821917809,"endLabel":"1915-10-12","tags":["healthcare","occupation-q1540278"],"title":"Edith Cavell","url":"https://it.wikipedia.org/wiki/Edith_Cavell","language":"it","tier":0.5},
+{"id":"Q113584","kind":"person","start":1895.8712328767124,"startLabel":"1895-11-15","end":1918.5397260273974,"endLabel":"1918-07-17","tags":["healthcare","politicians"],"parent":"Q1206446","title":"Olga Nikolaevna Romanova","url":"https://it.wikipedia.org/wiki/Ol%27ga_Nikolaevna_Romanova_(1895-1918)","language":"it","tier":0.5},
+{"id":"Q116062","kind":"person","start":1885.150684931507,"startLabel":"1885-02-25","end":1969.9260273972602,"endLabel":"1969-12-05","tags":["healthcare","politicians","occupation-q191808","occupation-q66660783"],"title":"Alice di Battenberg","url":"https://it.wikipedia.org/wiki/Alice_di_Battenberg","language":"it","tier":0.5}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q5959","kind":"person","start":100.0,"startLabel":"1–100","tags":["writers","scientists","politicians"],"title":"Quinte-Curce","url":"https://fr.wikipedia.org/wiki/Quinte-Curce","language":"fr","tier":0.5},
+{"id":"Q177847","kind":"person","start":120.0,"startLabel":"≈120","end":180.0,"endLabel":"≈180","tags":["writers","poetry","stage","occupation-q4964182"],"title":"Lucien de Samosate","url":"https://fr.wikipedia.org/wiki/Lucien_de_Samosate","language":"fr","tier":0.5},
+{"id":"Q272087","kind":"person","start":120.0,"startLabel":"≈120","end":173.0,"endLabel":"≈173","tags":["writers","religion","occupation-q4964182"],"title":"Tatien le Syrien","url":"https://fr.wikipedia.org/wiki/Tatien_le_Syrien","language":"fr","tier":0.5},
+{"id":"Q192931","kind":"person","start":110.0,"startLabel":"≈110","end":180.0,"endLabel":"≈180","tags":["writers","scientists"],"title":"Pausanias le Périégète","url":"https://fr.wikipedia.org/wiki/Pausanias_le_P%C3%A9ri%C3%A9g%C3%A8te","language":"fr","tier":0.5}
+]

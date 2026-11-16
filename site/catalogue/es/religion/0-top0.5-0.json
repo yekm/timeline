@@ -1,0 +1,6 @@
+[
+{"id":"Q44170","kind":"person","start":35.0,"startLabel":"≈35","end":108.0,"endLabel":"108","tags":["religion"],"parent":"Q182603","title":"Ignacio de Antioquía","url":"https://es.wikipedia.org/wiki/Ignacio_de_Antioqu%C3%ADa","language":"es","tier":0.5},
+{"id":"Q161775","kind":"person","start":1.0,"startLabel":"≈1","end":36.0,"endLabel":"≈36","tags":["religion"],"title":"Esteban","url":"https://es.wikipedia.org/wiki/Esteban_(m%C3%A1rtir)","language":"es","tier":0.5},
+{"id":"Q212647","kind":"person","start":17.0,"startLabel":"17","end":97.0,"endLabel":"97","tags":["religion"],"title":"Timoteo","url":"https://es.wikipedia.org/wiki/Timoteo_de_%C3%89feso","language":"es","tier":0.5},
+{"id":"Q185856","kind":"person","start":1.0,"startLabel":"1–100","end":61.0,"endLabel":"61","tags":["religion","music"],"title":"Bernabé apóstol","url":"https://es.wikipedia.org/wiki/Bernab%C3%A9_ap%C3%B3stol","language":"es","tier":0.5}
+]

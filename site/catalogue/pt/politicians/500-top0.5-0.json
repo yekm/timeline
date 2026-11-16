@@ -1,0 +1,15 @@
+[
+{"id":"Q159707","kind":"person","start":510.0,"startLabel":"≈510","end":552.0,"endLabel":"552","tags":["politicians","rulers"],"title":"Totila","url":"https://pt.wikipedia.org/wiki/T%C3%B3tila","language":"pt","tier":0.5},
+{"id":"Q183813","kind":"person","start":520.0,"startLabel":"≈520","end":578.7616438356164,"endLabel":"0578-10-04 (Julian)","tags":["politicians"],"title":"Justino II","url":"https://pt.wikipedia.org/wiki/Justino_II","language":"pt","tier":0.5},
+{"id":"Q174943","kind":"person","start":505.0,"startLabel":"≈505","end":565.1671232876712,"endLabel":"≈0565-03 (Julian)","tags":["politicians","military"],"title":"Belisário","url":"https://pt.wikipedia.org/wiki/Belis%C3%A1rio","language":"pt","tier":0.5},
+{"id":"Q193056","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","military"],"title":"Basilisco","url":"https://pt.wikipedia.org/wiki/Basilisco_(imperador)","language":"pt","tier":0.5},
+{"id":"Q207381","kind":"person","start":501.0,"startLabel":"501","end":579.0,"endLabel":"579","tags":["politicians","military"],"title":"Cosroes I da Pérsia","url":"https://pt.wikipedia.org/wiki/Cosroes_I","language":"pt","tier":0.5},
+{"id":"Q274597","kind":"person","start":500.0,"startLabel":"≈500","end":548.0,"endLabel":"548","tags":["politicians","rulers"],"title":"Teodeberto I","url":"https://pt.wikipedia.org/wiki/Teodeberto_I","language":"pt","tier":0.5},
+{"id":"Q193678","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians"],"title":"Olíbrio","url":"https://pt.wikipedia.org/wiki/Ol%C3%ADbrio","language":"pt","tier":0.5},
+{"id":"Q295086","kind":"person","start":532.0,"startLabel":"≈532","end":593.241095890411,"endLabel":"0593-03-28 (Julian)","tags":["politicians","rulers"],"title":"Gontrão de Borgonha","url":"https://pt.wikipedia.org/wiki/Gontr%C3%A3o_de_Borgonha","language":"pt","tier":0.5},
+{"id":"Q310233","kind":"person","start":500.0,"startLabel":"401–500","tags":["politicians","rulers"],"title":"Peroz I da Pérsia","url":"https://pt.wikipedia.org/wiki/Perozes_I","language":"pt","tier":0.5},
+{"id":"Q181764","kind":"person","start":539.0,"startLabel":"539","end":602.9123287671233,"endLabel":"0602-11-27 (Julian)","tags":["politicians"],"title":"Maurício I","url":"https://pt.wikipedia.org/wiki/Maur%C3%ADcio_(imperador)","language":"pt","tier":0.5},
+{"id":"Q31491","kind":"person","start":520.0,"startLabel":"≈520","end":582.6219178082192,"endLabel":"0582-08-14 (Julian)","tags":["politicians"],"title":"Tibério II Constantino","url":"https://pt.wikipedia.org/wiki/Tib%C3%A9rio_II_Constantino","language":"pt","tier":0.5},
+{"id":"Q31556","kind":"person","start":547.0,"startLabel":"547","end":610.0,"endLabel":"610","tags":["politicians","military"],"title":"Focas","url":"https://pt.wikipedia.org/wiki/Focas","language":"pt","tier":0.5},
+{"id":"Q243453","kind":"person","start":520.0,"startLabel":"≈520","end":567.0,"endLabel":"567","tags":["politicians","rulers"],"title":"Cariberto I","url":"https://pt.wikipedia.org/wiki/Cariberto_I","language":"pt","tier":0.5}
+]

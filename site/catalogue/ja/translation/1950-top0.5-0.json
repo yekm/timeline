@@ -1,0 +1,5 @@
+[
+{"id":"Q15299239","kind":"person","start":1956.1939890710382,"startLabel":"1956-03-12","tags":["translation","educators"],"title":"ヨースト・ギッペルト","url":"https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%AE%E3%83%83%E3%83%9A%E3%83%AB%E3%83%88","language":"ja","tier":0.5},
+{"id":"Q92597","kind":"person","start":1954.7369863013698,"startLabel":"1954-09-27","tags":["translation","programmers","engineers","occupation-q82594"],"title":"ラリー・ウォール","url":"https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB","language":"ja","tier":0.5},
+{"id":"Q19216","kind":"person","start":1950.5287671232877,"startLabel":"1950-07-13","tags":["translation","politicians","law","occupation-q185351","occupation-q9352089"],"parent":"Q26345277","title":"馬英九","url":"https://ja.wikipedia.org/wiki/%E9%A6%AC%E8%8B%B1%E4%B9%9D","language":"ja","tier":0.5}
+]

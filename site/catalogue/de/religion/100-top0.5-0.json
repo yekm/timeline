@@ -1,0 +1,5 @@
+[
+{"id":"Q185117","kind":"person","start":100.0,"startLabel":"≈100","end":165.0,"endLabel":"≈165","tags":["religion","occupation-q4964182"],"parent":"Q182603","title":"Justin der Märtyrer","url":"https://de.wikipedia.org/wiki/Justin_der_M%C3%A4rtyrer","language":"de","tier":0.5},
+{"id":"Q26925","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"parent":"Q620744","title":"Jakobus der Gerechte","url":"https://de.wikipedia.org/wiki/Jakobus_(Bruder_Jesu)","language":"de","tier":0.5},
+{"id":"Q182123","kind":"person","start":130.0,"startLabel":"≈130","end":202.0,"endLabel":"≈202","tags":["religion","occupation-q4964182"],"title":"Irenäus von Lyon","url":"https://de.wikipedia.org/wiki/Iren%C3%A4us_von_Lyon","language":"de","tier":0.5}
+]

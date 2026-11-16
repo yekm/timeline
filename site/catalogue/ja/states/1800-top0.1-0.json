@@ -1,0 +1,9 @@
+[
+{"id":"Q298","kind":"event","point":1810.7123287671234,"pointLabel":"1810-09-18","tags":["states"],"parent":"Q12585","title":"チリ","url":"https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA","language":"ja","tier":0.1},
+{"id":"Q739","kind":"event","point":1810.0,"pointLabel":"1810","tags":["states"],"parent":"Q12585","title":"コロンビア","url":"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2","language":"ja","tier":0.1},
+{"id":"Q414","kind":"event","point":1816.51912568306,"pointLabel":"1816-07-09","tags":["states"],"parent":"Q12585","title":"アルゼンチン","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3","language":"ja","tier":0.1},
+{"id":"Q41","kind":"event","point":1821.2602739726028,"pointLabel":"1821-03-25 (Julian)","tags":["states"],"parent":"Q1065","title":"ギリシャ","url":"https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3","language":"ja","tier":0.1},
+{"id":"Q29","kind":"event","point":1812.2131147540983,"pointLabel":"1812-03-19","tags":["states"],"parent":"Q1849394","title":"スペイン","url":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3","language":"ja","tier":0.1},
+{"id":"Q39","kind":"event","point":1848.6967213114754,"pointLabel":"1848-09-12","tags":["states"],"title":"スイス","url":"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q96","kind":"event","point":1810.7068493150684,"pointLabel":"1810-09-16","tags":["states"],"parent":"Q12585","title":"メキシコ","url":"https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3","language":"ja","tier":0.1}
+]

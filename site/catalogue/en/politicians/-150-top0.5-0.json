@@ -1,0 +1,9 @@
+[
+{"id":"Q39996","kind":"person","start":-104.0,"startLabel":"≈105 BCE","end":-79.0,"endLabel":"80 BCE","tags":["politicians"],"title":"Ptolemy XI Alexander II","url":"https://en.wikipedia.org/wiki/Ptolemy_XI_Alexander_II","language":"en","tier":0.5},
+{"id":"Q175121","kind":"person","start":-114.0,"startLabel":"115 BCE","end":-51.57103825136612,"endLabel":"0053-06-08 BCE (Julian)","tags":["politicians","military"],"title":"Marcus Licinius Crassus","url":"https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus","language":"en","tier":0.5},
+{"id":"Q3340","kind":"person","start":-140.86849315068494,"startLabel":"0142-02-18 BCE","end":-79.0,"endLabel":"80 BCE","tags":["politicians"],"title":"Ptolemy IX Lathyros","url":"https://en.wikipedia.org/wiki/Ptolemy_IX_Soter","language":"en","tier":0.5},
+{"id":"Q75826","kind":"person","start":-107.0,"startLabel":"108 BCE","end":-61.0,"endLabel":"62 BCE","tags":["politicians"],"title":"Catiline","url":"https://en.wikipedia.org/wiki/Catiline","language":"en","tier":0.5},
+{"id":"Q242819","kind":"person","start":-116.0,"startLabel":"≈117 BCE","end":-56.0,"endLabel":"≈57 BCE","tags":["politicians","military"],"title":"Lucullus","url":"https://en.wikipedia.org/wiki/Lucullus","language":"en","tier":0.5},
+{"id":"Q483783","kind":"person","start":-137.0,"startLabel":"138 BCE","end":-77.0,"endLabel":"78 BCE","tags":["politicians","military"],"title":"Sulla","url":"https://en.wikipedia.org/wiki/Sulla","language":"en","tier":0.5},
+{"id":"Q39991","kind":"person","start":-116.0,"startLabel":"117 BCE","end":-50.0,"endLabel":"51 BCE","tags":["politicians"],"title":"Ptolemy XII Auletes","url":"https://en.wikipedia.org/wiki/Ptolemy_XII_Auletes","language":"en","tier":0.5}
+]

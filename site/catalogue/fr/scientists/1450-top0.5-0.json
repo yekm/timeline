@@ -1,0 +1,6 @@
+[
+{"id":"Q57197","kind":"person","start":1470.0,"startLabel":"1470","end":1520.2322404371585,"endLabel":"1520-03-16 (Julian)","tags":["scientists","religion","occupation-q27919609"],"title":"Martin Waldseemüller","url":"https://fr.wikipedia.org/wiki/Martin_Waldseem%C3%BCller","language":"fr","tier":0.5},
+{"id":"Q76579","kind":"person","start":1494.2493150684932,"startLabel":"1494-03-24 (Julian)","end":1555.9150684931508,"endLabel":"1555-11-21 (Julian)","tags":["scientists","engineers","physicians","occupation-q4964182","occupation-q593644"],"title":"Georgius Agricola","url":"https://fr.wikipedia.org/wiki/Georgius_Agricola","language":"fr","tier":0.5},
+{"id":"Q201543","kind":"person","start":1499.0,"startLabel":"≈1499","end":1557.9753424657533,"endLabel":"1557-12-13 (Julian)","tags":["scientists","engineers"],"title":"Niccolo Fontana Tartaglia","url":"https://fr.wikipedia.org/wiki/Niccol%C3%B2_Fontana_Tartaglia","language":"fr","tier":0.5},
+{"id":"Q217915","kind":"person","start":1470.0,"startLabel":"1470","end":1554.0,"endLabel":"1554","tags":["scientists","military"],"title":"Piri Reis","url":"https://fr.wikipedia.org/wiki/Piri_Reis","language":"fr","tier":0.5}
+]

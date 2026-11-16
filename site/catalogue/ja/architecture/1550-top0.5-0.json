@@ -1,0 +1,6 @@
+[
+{"id":"Q313701","kind":"person","start":1598.0602739726028,"startLabel":"1598-01-23","end":1666.7260273972602,"endLabel":"1666-09-23","tags":["architecture"],"title":"フランソワ・マンサール","url":"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF%E3%83%BB%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%AB","language":"ja","tier":0.5},
+{"id":"Q122328","kind":"person","start":1556.0,"startLabel":"1556","end":1629.0794520547945,"endLabel":"1629-01-30","tags":["architecture"],"title":"カルロ・マデルノ","url":"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%AD%E3%83%BB%E3%83%9E%E3%83%87%E3%83%AB%E3%83%8E","language":"ja","tier":0.5},
+{"id":"Q152817","kind":"person","start":1591.164383561644,"startLabel":"1591-03-02","end":1661.7698630136986,"endLabel":"1661-10-09","tags":["architecture","scientists","engineers","military"],"title":"ジラール・デザルグ","url":"https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%82%B6%E3%83%AB%E3%82%B0","language":"ja","tier":0.5},
+{"id":"Q295929","kind":"person","start":1573.5342465753424,"startLabel":"1573-07-15","end":1652.4699453551912,"endLabel":"1652-06-21","tags":["architecture","politicians"],"title":"イニゴー・ジョーンズ","url":"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8B%E3%82%B4%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA","language":"ja","tier":0.5}
+]

@@ -1,0 +1,8 @@
+[
+{"id":"Q39602","kind":"person","start":-283.0,"startLabel":"284 BCE","end":-221.0,"endLabel":"222 BCE","tags":["politicians"],"title":"Ptolemy III Euergetes","url":"https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes","language":"en","tier":0.5},
+{"id":"Q3373","kind":"person","start":-264.0,"startLabel":"265 BCE","end":-224.0,"endLabel":"225 BCE","tags":["politicians"],"title":"Seleucus II Callinicus","url":"https://en.wikipedia.org/wiki/Seleucus_II_Callinicus","language":"en","tier":0.5},
+{"id":"Q222930","kind":"person","start":-285.0,"startLabel":"286 BCE","end":-245.0,"endLabel":"246 BCE","tags":["politicians"],"title":"Antiochus II Theos","url":"https://en.wikipedia.org/wiki/Antiochus_II_Theos","language":"en","tier":0.5},
+{"id":"Q7210","kind":"person","start":-255.0,"startLabel":"256 BCE","end":-193.586301369863,"endLabel":"0195-06-01 BCE","tags":["politicians"],"title":"Emperor Gaozu of Han","url":"https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han","language":"en","tier":0.5},
+{"id":"Q185101","kind":"person","start":-274.0,"startLabel":"275 BCE","end":-227.0,"endLabel":"228 BCE","tags":["politicians","military"],"title":"Hamilcar Barca","url":"https://en.wikipedia.org/wiki/Hamilcar_Barca","language":"en","tier":0.5},
+{"id":"Q28959","kind":"person","start":-279.0,"startLabel":"≈280 BCE","end":-232.0,"endLabel":"233 BCE","tags":["politicians","occupation-q4964182"],"title":"Han Fei","url":"https://en.wikipedia.org/wiki/Han_Fei","language":"en","tier":0.5}
+]

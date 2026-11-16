@@ -75,7 +75,10 @@
           <div id="timeline"></div>
           <div class="workspace-footer">
             <div class="workspace-status">
-              <span id="data-status" role="status" aria-live="polite">Loading catalogue…</span>
+              <span>
+                <span id="data-status" role="status" aria-live="polite">Loading catalogue…</span>
+                <a id="catalogue-guide" href="https://github.com/yekm/timeline#build-the-full-catalogue-locally" hidden data-copy="catalogueGuide">Instructions in the README</a>
+              </span>
               <button class="text-button" id="retry-load" type="button" hidden data-copy="retry">Retry</button>
             </div>
             <span class="source-pill" id="dataset-label" hidden></span>

@@ -1,0 +1,7 @@
+[
+{"id":"Q320122","kind":"person","start":604.0,"startLabel":"604","end":650.0,"endLabel":"650","tags":["writers","politicians","occupation-q2493637"],"title":"ソンツェン・ガンポ","url":"https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%B3%E3%83%84%E3%82%A7%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%9D","language":"ja","tier":0.5},
+{"id":"Q42063","kind":"person","start":602.2602739726027,"startLabel":"0602-04-06","end":664.1803278688525,"endLabel":"0664-03-07","tags":["writers","translation","explorers","occupation-q4964182","occupation-q854997"],"title":"玄奘三蔵","url":"https://ja.wikipedia.org/wiki/%E7%8E%84%E5%A5%98","language":"ja","tier":0.5},
+{"id":"Q131548","kind":"person","start":600.0,"startLabel":"≈501–600","end":600.0,"endLabel":"≈501–600","tags":["writers","scientists"],"title":"ヨルダネス","url":"https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%8D%E3%82%B9","language":"ja","tier":0.5},
+{"id":"Q217442","kind":"person","start":646.0,"startLabel":"646","end":683.8684931506849,"endLabel":"0683-11-11 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"ヤズィード1世","url":"https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%BA%E3%82%A3%E3%83%BC%E3%83%891%E4%B8%96","language":"ja","tier":0.5},
+{"id":"Q9738","kind":"person","start":624.1366120218579,"startLabel":"0624-02-17 (Julian)","end":705.9671232876713,"endLabel":"0705-12-16 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"武則天","url":"https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%89%87%E5%A4%A9","language":"ja","tier":0.5}
+]

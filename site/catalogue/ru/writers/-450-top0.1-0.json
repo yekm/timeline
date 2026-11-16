@@ -1,0 +1,5 @@
+[
+{"id":"Q859","kind":"person","start":-425.6684931506849,"startLabel":"0427-05-07 BCE (Julian)","end":-346.0,"endLabel":"347 BCE","tags":["writers","poetry","occupation-q23760244","occupation-q4964182"],"title":"Платон","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD","language":"ru","tier":0.1},
+{"id":"Q43353","kind":"person","start":-444.0,"startLabel":"≈445 BCE","end":-384.0,"endLabel":"385 BCE","tags":["writers","poetry"],"title":"Аристофан","url":"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B0%D0%BD","language":"ru","tier":0.1},
+{"id":"Q129772","kind":"person","start":-429.0,"startLabel":"≈430 BCE","end":-353.0,"endLabel":"≈354 BCE","tags":["writers","scientists","military","occupation-q178197","occupation-q4964182"],"title":"Ксенофонт","url":"https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D1%84%D0%BE%D0%BD%D1%82","language":"ru","tier":0.1}
+]

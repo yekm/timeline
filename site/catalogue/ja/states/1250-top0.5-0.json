@@ -1,0 +1,4 @@
+[
+{"id":"Q235","kind":"event","point":1297.0383561643835,"pointLabel":"1297-01-08 (Julian)","tags":["states"],"title":"モナコ","url":"https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3","language":"ja","tier":0.5},
+{"id":"Q228","kind":"event","point":1278.0,"pointLabel":"1278","tags":["states"],"parent":"Q234963","title":"アンドラ","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9","language":"ja","tier":0.5}
+]

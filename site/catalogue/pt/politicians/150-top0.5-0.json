@@ -1,0 +1,10 @@
+[
+{"id":"Q313327","kind":"person","start":182.5041095890411,"startLabel":"0182-07-05 (Julian)","end":252.38524590163934,"endLabel":"0252-05-21 (Julian)","tags":["politicians","rulers"],"title":"Sun Quan","url":"https://pt.wikipedia.org/wiki/Sun_Quan","language":"pt","tier":0.5},
+{"id":"Q1803","kind":"person","start":190.0,"startLabel":"190–199","end":238.27671232876713,"endLabel":"0238-04-12 (Julian)","tags":["politicians","military"],"title":"Gordiano II","url":"https://pt.wikipedia.org/wiki/Gordiano_II","language":"pt","tier":0.5},
+{"id":"Q1805","kind":"person","start":178.0,"startLabel":"178","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Balbino","url":"https://pt.wikipedia.org/wiki/Balbino","language":"pt","tier":0.5},
+{"id":"Q237960","kind":"person","start":150.0,"startLabel":"150","end":197.13150684931506,"endLabel":"0197-02-19 (Julian)","tags":["politicians"],"title":"Clódio Albino","url":"https://pt.wikipedia.org/wiki/Cl%C3%B3dio_Albino","language":"pt","tier":0.5},
+{"id":"Q1777","kind":"person","start":173.0,"startLabel":"173","end":238.35342465753425,"endLabel":"0238-05-10 (Julian)","tags":["politicians","military"],"title":"Maximino Trácio","url":"https://pt.wikipedia.org/wiki/Maximino_Tr%C3%A1cio","language":"pt","tier":0.5},
+{"id":"Q1797","kind":"person","start":170.0,"startLabel":"101–200","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Pupieno","url":"https://pt.wikipedia.org/wiki/Pupieno","language":"pt","tier":0.5},
+{"id":"Q191455","kind":"person","start":150.0,"startLabel":"101–200","end":272.0,"endLabel":"272","tags":["politicians"],"title":"Shapur I da Pérsia","url":"https://pt.wikipedia.org/wiki/Sapor_I","language":"pt","tier":0.5},
+{"id":"Q371319","kind":"person","start":180.0,"startLabel":"180","end":242.0,"endLabel":"242","tags":["politicians"],"title":"Ardacher I da Pérsia","url":"https://pt.wikipedia.org/wiki/Artaxes_I","language":"pt","tier":0.5}
+]

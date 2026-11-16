@@ -1,0 +1,5 @@
+[
+{"id":"Q43939","kind":"person","start":1033.0,"startLabel":"≈1033","end":1109.3205479452056,"endLabel":"1109-04-21 (Julian)","tags":["writers","religion","occupation-q4964182"],"title":"Anselm of Canterbury","url":"https://en.wikipedia.org/wiki/Anselm_of_Canterbury","language":"en","tier":0.1},
+{"id":"Q35900","kind":"person","start":1048.3934426229507,"startLabel":"1048-05-18 (Julian)","end":1131.9424657534246,"endLabel":"1131-12-04 (Julian)","tags":["writers","poetry","scientists","music","occupation-q155647","occupation-q4964182"],"title":"Omar Khayyám","url":"https://en.wikipedia.org/wiki/Omar_Khayyam","language":"en","tier":0.1},
+{"id":"Q133063","kind":"person","start":1020.0,"startLabel":"1001–1100","end":1085.4109589041095,"endLabel":"1085-05-25 (Julian)","tags":["writers","diplomacy","religion"],"title":"Gregory VII","url":"https://en.wikipedia.org/wiki/Pope_Gregory_VII","language":"en","tier":0.1}
+]

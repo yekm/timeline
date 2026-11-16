@@ -1,0 +1,6 @@
+[
+{"id":"Q103268","kind":"person","start":700.0,"startLabel":"601–700","end":741.917808219178,"endLabel":"0741-11-28 (Julian)","tags":["writers","religion"],"title":"Григорий III","url":"https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_III_(%D0%BF%D0%B0%D0%BF%D0%B0_%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9)","language":"ru","tier":0.1},
+{"id":"Q7071","kind":"person","start":701.3890410958904,"startLabel":"0701-05-19 (Julian)","end":762.9232876712329,"endLabel":"0762-11-30 (Julian)","tags":["writers","poetry","occupation-q3303330"],"parent":"Q3235363","title":"Ли Бо","url":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8_%D0%91%D0%BE","language":"ru","tier":0.1},
+{"id":"Q33772","kind":"person","start":712.0,"startLabel":"712","end":770.0,"endLabel":"770","tags":["writers","poetry","occupation-q3303330"],"title":"Ду Фу","url":"https://ru.wikipedia.org/wiki/%D0%94%D1%83_%D0%A4%D1%83","language":"ru","tier":0.1},
+{"id":"Q103404","kind":"person","start":700.0,"startLabel":"700","end":767.4986301369863,"endLabel":"0767-06-28 (Julian)","tags":["writers","religion"],"title":"Павел I","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_I_(%D0%BF%D0%B0%D0%BF%D0%B0_%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9)","language":"ru","tier":0.1}
+]

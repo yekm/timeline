@@ -1,0 +1,10 @@
+[
+{"id":"Q171241","kind":"person","start":-89.0,"startLabel":"≈90 BCE","end":-29.0,"endLabel":"≈30 BCE","tags":["writers","scientists"],"title":"Diodoro Sículo","url":"https://pt.wikipedia.org/wiki/Diodoro_S%C3%ADculo","language":"pt","tier":0.1},
+{"id":"Q163079","kind":"person","start":-83.0,"startLabel":"≈84 BCE","end":-53.0,"endLabel":"≈54 BCE","tags":["writers","poetry"],"title":"Catulo","url":"https://pt.wikipedia.org/wiki/Catulo","language":"pt","tier":0.1},
+{"id":"Q1048","kind":"person","start":-98.5095890410959,"startLabel":"0100-07 BCE (Julian)","end":-42.8054794520548,"endLabel":"0044-03-15 BCE (Julian)","tags":["writers","poetry","scientists","politicians","military","religion","occupation-q12859263"],"title":"Júlio César","url":"https://pt.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar","language":"pt","tier":0.1},
+{"id":"Q6197","kind":"person","start":-63.07103825136612,"startLabel":"0065-12-08 BCE (Julian)","end":-6.101369863013699,"endLabel":"0008-11-27 BCE (Julian)","tags":["writers","poetry","occupation-q4964182"],"title":"Horácio","url":"https://pt.wikipedia.org/wiki/Hor%C3%A1cio","language":"pt","tier":0.1},
+{"id":"Q1398","kind":"person","start":-68.21917808219177,"startLabel":"0070-10-15 BCE (Julian)","end":-17.284931506849315,"endLabel":"0019-09-21 BCE (Julian)","tags":["writers","poetry"],"title":"Virgílio","url":"https://pt.wikipedia.org/wiki/Virg%C3%ADlio","language":"pt","tier":0.1},
+{"id":"Q45936","kind":"person","start":-62.0,"startLabel":"≈63 BCE","end":23.0,"endLabel":"≈23","tags":["writers","scientists","occupation-q4964182"],"title":"Estrabão","url":"https://pt.wikipedia.org/wiki/Estrab%C3%A3o","language":"pt","tier":0.1},
+{"id":"Q2039","kind":"person","start":-58.0,"startLabel":"59 BCE","end":17.0,"endLabel":"17","tags":["writers","poetry","scientists"],"title":"Tito Lívio","url":"https://pt.wikipedia.org/wiki/Tito_L%C3%ADvio","language":"pt","tier":0.1},
+{"id":"Q47154","kind":"person","start":-93.0,"startLabel":"94 BCE","end":-54.0,"endLabel":"55 BCE","tags":["writers","poetry","occupation-q4964182"],"title":"Lucrécio","url":"https://pt.wikipedia.org/wiki/Lucr%C3%A9cio","language":"pt","tier":0.1}
+]

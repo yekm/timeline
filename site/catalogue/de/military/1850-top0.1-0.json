@@ -1,0 +1,5 @@
+[
+{"id":"Q127417","kind":"person","start":1880.068306010929,"startLabel":"1880-01-26","end":1964.25956284153,"endLabel":"1964-04-05","tags":["military"],"title":"Douglas MacArthur","url":"https://de.wikipedia.org/wiki/Douglas_MacArthur","language":"de","tier":0.1},
+{"id":"Q14060","kind":"person","start":1891.8712328767124,"startLabel":"1891-11-15","end":1944.7841530054645,"endLabel":"1944-10-14","tags":["military","activism"],"title":"Erwin Rommel","url":"https://de.wikipedia.org/wiki/Erwin_Rommel","language":"de","tier":0.1},
+{"id":"Q41718","kind":"person","start":1879.6,"startLabel":"1879-08-08","end":1919.2712328767122,"endLabel":"1919-04-10","tags":["military","activism","agriculture"],"title":"Emiliano Zapata","url":"https://de.wikipedia.org/wiki/Emiliano_Zapata","language":"de","tier":0.1}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"Q41264","kind":"person","start":1632.7486338797814,"startLabel":"1632-10","end":1675.9534246575342,"endLabel":"1675-12-15","tags":["painters","occupation-q10732476"],"title":"Jan Vermeer","url":"https://de.wikipedia.org/wiki/Jan_Vermeer","language":"de","tier":0.1},
+{"id":"Q192062","kind":"person","start":1617.9150684931508,"startLabel":"1617-12","end":1682.2520547945205,"endLabel":"1682-04-03","tags":["painters"],"title":"Bartolomé Esteban Murillo","url":"https://de.wikipedia.org/wiki/Bartolom%C3%A9_Esteban_Murillo","language":"de","tier":0.1},
+{"id":"Q5598","kind":"person","start":1606.5342465753424,"startLabel":"1606-07-15","end":1669.7561643835616,"endLabel":"1669-10-04","tags":["painters","occupation-q10732476","occupation-q10862983","occupation-q11569986","occupation-q15296811","occupation-q3243461"],"title":"Rembrandt","url":"https://de.wikipedia.org/wiki/Rembrandt_van_Rijn","language":"de","tier":0.1}
+]

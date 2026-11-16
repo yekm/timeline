@@ -1,0 +1,6 @@
+[
+{"id":"Q133168","kind":"person","start":1281.1178082191782,"startLabel":"1281-02-06 (Julian)","end":1362.1835616438357,"endLabel":"1362-03 (Julian)","tags":["politicians"],"title":"Orhan","url":"https://en.wikipedia.org/wiki/Orhan","language":"en","tier":0.1},
+{"id":"Q5236","kind":"person","start":1284.3333333333333,"startLabel":"1284-04-25 (Julian)","end":1327.7424657534248,"endLabel":"1327-09-21 (Julian)","tags":["politicians","rulers"],"title":"Edward II of England","url":"https://en.wikipedia.org/wiki/Edward_II_of_England","language":"en","tier":0.1},
+{"id":"Q83100","kind":"person","start":1259.0,"startLabel":"1259","end":1324.6584699453551,"endLabel":"1324-08-21 (Julian)","tags":["politicians"],"title":"Osman I","url":"https://en.wikipedia.org/wiki/Osman_I","language":"en","tier":0.1},
+{"id":"Q130969","kind":"person","start":1268.4344262295083,"startLabel":"1268-06 (Julian)","end":1314.9315068493152,"endLabel":"1314-11-29 (Julian)","tags":["politicians"],"title":"Philip IV of France","url":"https://en.wikipedia.org/wiki/Philip_IV_of_France","language":"en","tier":0.1}
+]

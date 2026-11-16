@@ -1,0 +1,5 @@
+[
+{"id":"Q185117","kind":"person","start":100.0,"startLabel":"≈100","end":165.0,"endLabel":"≈165","tags":["religion","occupation-q4964182"],"parent":"Q182603","title":"游斯丁","url":"https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%96%AF%E4%B8%81","language":"zh","tier":0.5},
+{"id":"Q26925","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"parent":"Q620744","title":"公義者雅各","url":"https://zh.wikipedia.org/wiki/%E5%85%AC%E7%BE%A9%E8%80%85%E9%9B%85%E5%90%84","language":"zh","tier":0.5},
+{"id":"Q182123","kind":"person","start":130.0,"startLabel":"≈130","end":202.0,"endLabel":"≈202","tags":["religion","occupation-q4964182"],"title":"爱任纽","url":"https://zh.wikipedia.org/wiki/%E7%88%B1%E4%BB%BB%E7%BA%BD","language":"zh","tier":0.5}
+]

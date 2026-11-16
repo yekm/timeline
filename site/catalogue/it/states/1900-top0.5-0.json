@@ -1,0 +1,23 @@
+[
+{"id":"Q801","kind":"event","point":1948.3661202185792,"pointLabel":"1948-05-14","tags":["states"],"parent":"Q27293","title":"Israele","url":"https://it.wikipedia.org/wiki/Israele","language":"it","tier":0.5},
+{"id":"Q819","kind":"event","point":1949.0,"pointLabel":"1949","tags":["states"],"parent":"Q11708","title":"Laos","url":"https://it.wikipedia.org/wiki/Laos","language":"it","tier":0.5},
+{"id":"Q252","kind":"event","point":1945.6246575342466,"pointLabel":"1945-08-17","tags":["states"],"parent":"Q11708","title":"Indonesia","url":"https://it.wikipedia.org/wiki/Indonesia","language":"it","tier":0.5},
+{"id":"Q27","kind":"event","point":1937.9917808219177,"pointLabel":"1937-12-29","tags":["states"],"parent":"Q458","title":"Irlanda","url":"https://it.wikipedia.org/wiki/Irlanda","language":"it","tier":0.5},
+{"id":"Q189","kind":"event","point":1944.4590163934427,"pointLabel":"1944-06-17","tags":["states"],"parent":"Q27479","title":"Islanda","url":"https://it.wikipedia.org/wiki/Islanda","language":"it","tier":0.5},
+{"id":"Q222","kind":"event","point":1912.9071038251366,"pointLabel":"1912-11-28","tags":["states"],"parent":"Q263686","title":"Albania","url":"https://it.wikipedia.org/wiki/Albania","language":"it","tier":0.5},
+{"id":"Q843","kind":"event","point":1947.6164383561643,"pointLabel":"1947-08-14","tags":["states"],"title":"Pakistan","url":"https://it.wikipedia.org/wiki/Pakistan","language":"it","tier":0.5},
+{"id":"Q928","kind":"event","point":1901.504109589041,"pointLabel":"1901-07-04","tags":["states"],"parent":"Q11708","title":"Filippine","url":"https://it.wikipedia.org/wiki/Filippine","language":"it","tier":0.5},
+{"id":"Q211","kind":"event","point":1918.8794520547945,"pointLabel":"1918-11-18","tags":["states"],"parent":"Q27479","title":"Lettonia","url":"https://it.wikipedia.org/wiki/Lettonia","language":"it","tier":0.5},
+{"id":"Q796","kind":"event","point":1932.0,"pointLabel":"1932","tags":["states"],"parent":"Q27293","title":"Iraq","url":"https://it.wikipedia.org/wiki/Iraq","language":"it","tier":0.5},
+{"id":"Q822","kind":"event","point":1943.890410958904,"pointLabel":"1943-11-22","tags":["states"],"parent":"Q27293","title":"Libano","url":"https://it.wikipedia.org/wiki/Libano","language":"it","tier":0.5},
+{"id":"Q917","kind":"event","point":1949.6,"pointLabel":"1949-08-08","tags":["states"],"title":"Bhutan","url":"https://it.wikipedia.org/wiki/Bhutan","language":"it","tier":0.5},
+{"id":"Q237","kind":"event","point":1929.1123287671232,"pointLabel":"1929-02-11","tags":["states"],"title":"Città del Vaticano","url":"https://it.wikipedia.org/wiki/Citt%C3%A0_del_Vaticano","language":"it","tier":0.5},
+{"id":"Q804","kind":"event","point":1903.0,"pointLabel":"1903","tags":["states"],"parent":"Q12585","title":"Panama","url":"https://it.wikipedia.org/wiki/Panama","language":"it","tier":0.5},
+{"id":"Q810","kind":"event","point":1946.0,"pointLabel":"1946","tags":["states"],"parent":"Q143487","title":"Giordania","url":"https://it.wikipedia.org/wiki/Giordania","language":"it","tier":0.5},
+{"id":"Q836","kind":"event","point":1948.0081967213114,"pointLabel":"1948-01-04","tags":["states"],"parent":"Q11708","title":"Birmania","url":"https://it.wikipedia.org/wiki/Birmania","language":"it","tier":0.5},
+{"id":"Q1065","kind":"event","point":1945.0,"pointLabel":"1945","tags":["states"],"parent":"Q854218","title":"Organizzazione delle Nazioni Unite","url":"https://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite","language":"it","tier":0.5},
+{"id":"Q858","kind":"event","point":1920.1830601092897,"pointLabel":"1920-03-08","tags":["states"],"parent":"Q27293","title":"Siria","url":"https://it.wikipedia.org/wiki/Siria","language":"it","tier":0.5},
+{"id":"Q865","kind":"event","point":1912.0,"pointLabel":"1912-01-01","tags":["states"],"parent":"Q27231","title":"Taiwan","url":"https://it.wikipedia.org/wiki/Taiwan","language":"it","tier":0.5},
+{"id":"Q423","kind":"event","point":1948.688524590164,"pointLabel":"1948-09-09","tags":["states"],"parent":"Q27231","title":"Corea del Nord","url":"https://it.wikipedia.org/wiki/Corea_del_Nord","language":"it","tier":0.5},
+{"id":"Q884","kind":"event","point":1948.620218579235,"pointLabel":"1948-08-15","tags":["states"],"parent":"Q27231","title":"Corea del Sud","url":"https://it.wikipedia.org/wiki/Corea_del_Sud","language":"it","tier":0.5}
+]

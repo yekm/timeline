@@ -1,0 +1,10 @@
+[
+{"id":"Q47149","kind":"person","start":300.0,"startLabel":"201–300","end":336.0,"endLabel":"0335-12-31 (Julian)","tags":["religion"],"title":"Silvester I.","url":"https://de.wikipedia.org/wiki/Silvester_I.","language":"de","tier":0.1},
+{"id":"Q134687","kind":"person","start":300.0,"startLabel":"201–300","tags":["religion"],"title":"Felix I.","url":"https://de.wikipedia.org/wiki/Felix_I.","language":"de","tier":0.1},
+{"id":"Q160514","kind":"person","end":310.0,"endLabel":"310","tags":["religion"],"title":"Eusebius","url":"https://de.wikipedia.org/wiki/Eusebius_(Bischof_von_Rom)","language":"de","tier":0.1},
+{"id":"Q161443","kind":"person","start":334.0,"startLabel":"334","end":399.9068493150685,"endLabel":"0399-11-27 (Julian)","tags":["religion"],"title":"Siricius","url":"https://de.wikipedia.org/wiki/Siricius","language":"de","tier":0.1},
+{"id":"Q134666","kind":"person","start":300.0,"startLabel":"201–300","tags":["religion"],"title":"Stephan I.","url":"https://de.wikipedia.org/wiki/Stephan_I._(Bischof_von_Rom)","language":"de","tier":0.1},
+{"id":"Q162972","kind":"person","start":300.0,"startLabel":"201–300","tags":["religion"],"title":"Eutychianus","url":"https://de.wikipedia.org/wiki/Eutychianus","language":"de","tier":0.1},
+{"id":"Q132797","kind":"person","start":300.0,"startLabel":"201–300","end":336.7704918032787,"endLabel":"0336-10-08 (Julian)","tags":["religion"],"title":"Marcus","url":"https://de.wikipedia.org/wiki/Marcus_(Bischof_von_Rom)","language":"de","tier":0.1},
+{"id":"Q162090","kind":"person","end":314.0301369863014,"endLabel":"0314-01-11 (Julian)","tags":["religion"],"title":"Miltiades","url":"https://de.wikipedia.org/wiki/Miltiades_(Bischof_von_Rom)","language":"de","tier":0.1}
+]

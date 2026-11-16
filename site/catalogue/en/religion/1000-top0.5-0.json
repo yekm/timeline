@@ -1,0 +1,10 @@
+[
+{"id":"Q58563","kind":"person","start":1018.0,"startLabel":"1018","end":1057.5863013698631,"endLabel":"1057-07-28 (Julian)","tags":["religion"],"title":"Victor II","url":"https://en.wikipedia.org/wiki/Pope_Victor_II","language":"en","tier":0.5},
+{"id":"Q46090","kind":"person","start":1000.0,"startLabel":"≈1000","end":1063.7643835616439,"endLabel":"1063-10 (Julian)","tags":["religion"],"title":"Sylvester III","url":"https://en.wikipedia.org/wiki/Pope_Sylvester_III","language":"en","tier":0.5},
+{"id":"Q222500","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"Stephen VIII","url":"https://en.wikipedia.org/wiki/Pope_Stephen_VIII","language":"en","tier":0.5},
+{"id":"Q227981","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.0,"endLabel":"1048","tags":["religion"],"title":"Gregory VI","url":"https://en.wikipedia.org/wiki/Pope_Gregory_VI","language":"en","tier":0.5},
+{"id":"Q60063","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.620218579235,"endLabel":"1048-08-09 (Julian)","tags":["religion"],"title":"Damasus II","url":"https://en.wikipedia.org/wiki/Pope_Damasus_II","language":"en","tier":0.5},
+{"id":"Q227963","kind":"person","end":1003.9616438356164,"endLabel":"1003-12-12 (Julian)","tags":["religion"],"title":"John XVII","url":"https://en.wikipedia.org/wiki/Pope_John_XVII","language":"en","tier":0.5},
+{"id":"Q227972","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"John XIV","url":"https://en.wikipedia.org/wiki/Pope_John_XIV","language":"en","tier":0.5},
+{"id":"Q58568","kind":"person","start":1000.0,"startLabel":"≈1000","end":1058.2547945205479,"endLabel":"1058-03-29 (Julian)","tags":["religion"],"title":"Stephen IX","url":"https://en.wikipedia.org/wiki/Pope_Stephen_IX","language":"en","tier":0.5}
+]

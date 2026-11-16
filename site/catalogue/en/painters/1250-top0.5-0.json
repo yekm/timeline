@@ -1,0 +1,5 @@
+[
+{"id":"Q221043","kind":"person","start":1284.0,"startLabel":"1284","end":1344.603825136612,"endLabel":"1344-08-01 (Julian)","tags":["painters","visual-media"],"title":"Simone Martini","url":"https://en.wikipedia.org/wiki/Simone_Martini","language":"en","tier":0.5},
+{"id":"Q211562","kind":"person","start":1290.0,"startLabel":"1290","end":1348.4371584699454,"endLabel":"1348-06-09","tags":["painters"],"title":"Ambrogio Lorenzetti","url":"https://en.wikipedia.org/wiki/Ambrogio_Lorenzetti","language":"en","tier":0.5},
+{"id":"Q15792","kind":"person","start":1255.0,"startLabel":"≈1255","end":1319.0,"endLabel":"≈1319","tags":["painters"],"title":"Duccio di Buoninsegna","url":"https://en.wikipedia.org/wiki/Duccio","language":"en","tier":0.5}
+]

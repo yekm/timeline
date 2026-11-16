@@ -1,0 +1,9 @@
+[
+{"id":"Q298","kind":"event","point":1810.7123287671234,"pointLabel":"1810-09-18","tags":["states"],"parent":"Q12585","title":"Chile","url":"https://es.wikipedia.org/wiki/Chile","language":"es","tier":0.1},
+{"id":"Q739","kind":"event","point":1810.0,"pointLabel":"1810","tags":["states"],"parent":"Q12585","title":"Colombia","url":"https://es.wikipedia.org/wiki/Colombia","language":"es","tier":0.1},
+{"id":"Q414","kind":"event","point":1816.51912568306,"pointLabel":"1816-07-09","tags":["states"],"parent":"Q12585","title":"Argentina","url":"https://es.wikipedia.org/wiki/Argentina","language":"es","tier":0.1},
+{"id":"Q41","kind":"event","point":1821.2602739726028,"pointLabel":"1821-03-25 (Julian)","tags":["states"],"parent":"Q1065","title":"Grecia","url":"https://es.wikipedia.org/wiki/Grecia","language":"es","tier":0.1},
+{"id":"Q29","kind":"event","point":1812.2131147540983,"pointLabel":"1812-03-19","tags":["states"],"parent":"Q1849394","title":"España","url":"https://es.wikipedia.org/wiki/Espa%C3%B1a","language":"es","tier":0.1},
+{"id":"Q39","kind":"event","point":1848.6967213114754,"pointLabel":"1848-09-12","tags":["states"],"title":"Suiza","url":"https://es.wikipedia.org/wiki/Suiza","language":"es","tier":0.1},
+{"id":"Q96","kind":"event","point":1810.7068493150684,"pointLabel":"1810-09-16","tags":["states"],"parent":"Q12585","title":"México","url":"https://es.wikipedia.org/wiki/M%C3%A9xico","language":"es","tier":0.1}
+]

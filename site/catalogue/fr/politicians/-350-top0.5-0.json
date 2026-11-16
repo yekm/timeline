@@ -1,0 +1,10 @@
+[
+{"id":"Q59734","kind":"person","start":-335.0,"startLabel":"336 BCE","end":-282.0,"endLabel":"283 BCE","tags":["politicians"],"title":"Démétrios Ier Poliorcète","url":"https://fr.wikipedia.org/wiki/D%C3%A9m%C3%A9trios_Ier_Poliorc%C3%A8te","language":"fr","tier":0.5},
+{"id":"Q313286","kind":"person","start":-349.0,"startLabel":"350 BCE","end":-282.0,"endLabel":"283 BCE","tags":["politicians","occupation-q182436","occupation-q4964182"],"title":"Démétrios de Phalère","url":"https://fr.wikipedia.org/wiki/D%C3%A9m%C3%A9trios_de_Phal%C3%A8re","language":"fr","tier":0.5},
+{"id":"Q39576","kind":"person","start":-307.0,"startLabel":"308 BCE","end":-245.0,"endLabel":"246 BCE","tags":["politicians"],"title":"Ptolémée II","url":"https://fr.wikipedia.org/wiki/Ptol%C3%A9m%C3%A9e_II","language":"fr","tier":0.5},
+{"id":"Q315526","kind":"person","start":-319.0,"startLabel":"320 BCE","end":-272.0,"endLabel":"273 BCE","tags":["politicians"],"title":"Bindusâra","url":"https://fr.wikipedia.org/wiki/Bindus%C3%A2ra","language":"fr","tier":0.5},
+{"id":"Q207847","kind":"person","start":-322.0,"startLabel":"323 BCE","end":-308.0,"endLabel":"309 BCE","tags":["politicians"],"title":"Alexandre IV Aigos","url":"https://fr.wikipedia.org/wiki/Alexandre_IV_(roi_de_Mac%C3%A9doine)","language":"fr","tier":0.5},
+{"id":"Q211488","kind":"person","start":-323.0,"startLabel":"324 BCE","end":-260.0,"endLabel":"261 BCE","tags":["politicians"],"title":"Antiochos Ier","url":"https://fr.wikipedia.org/wiki/Antiochos_Ier","language":"fr","tier":0.5},
+{"id":"Q260783","kind":"person","end":-335.0,"endLabel":"336 BCE","tags":["politicians"],"title":"Arsès","url":"https://fr.wikipedia.org/wiki/Ars%C3%A8s","language":"fr","tier":0.5},
+{"id":"Q372698","kind":"person","start":-325.0,"startLabel":"326 BCE","end":-233.0,"endLabel":"234 BCE","tags":["politicians"],"title":"Pharnabaze Ier d'Ibérie","url":"https://fr.wikipedia.org/wiki/Pharnabaze_Ier_(Ib%C3%A9rie)","language":"fr","tier":0.5}
+]

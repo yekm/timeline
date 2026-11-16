@@ -1,0 +1,6 @@
+[
+{"id":"Q44091","kind":"person","start":1170.6191780821919,"startLabel":"1170-08-08 (Julian)","end":1221.613698630137,"endLabel":"1221-08-06 (Julian)","tags":["religion","occupation-q2450226"],"title":"聖多明尼克","url":"https://zh.wikipedia.org/wiki/%E8%81%96%E9%81%93%E6%98%8E","language":"zh","tier":0.5},
+{"id":"Q121130","kind":"person","start":1177.6,"startLabel":"1177-08 (Julian)","end":1208.4890710382513,"endLabel":"1208-06-21 (Julian)","tags":["religion"],"title":"菲利普","url":"https://zh.wikipedia.org/wiki/%E5%A3%AB%E7%93%A6%E6%9C%AC%E7%9A%84%E8%8F%B2%E5%88%A9%E6%99%AE","language":"zh","tier":0.5},
+{"id":"Q167477","kind":"person","start":1195.6383561643836,"startLabel":"1195-08-15 (Julian)","end":1231.4657534246576,"endLabel":"1231-06-13 (Julian)","tags":["religion"],"title":"里斯本的聖安多尼","url":"https://zh.wikipedia.org/wiki/%E9%87%8C%E6%96%AF%E6%9C%AC%E7%9A%84%E8%81%96%E5%AE%89%E5%A4%9A%E5%B0%BC","language":"zh","tier":0.5},
+{"id":"Q235238","kind":"person","start":1155.1780821917807,"startLabel":"1155-02-28 (Julian)","end":1183.4602739726026,"endLabel":"1183-06-11 (Julian)","tags":["religion"],"title":"幼王亨利","url":"https://zh.wikipedia.org/wiki/%E5%B9%BC%E7%8E%8B%E4%BA%A8%E5%88%A9","language":"zh","tier":0.5}
+]

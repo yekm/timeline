@@ -1,0 +1,4 @@
+[
+{"id":"Q8573","kind":"person","start":1866.86301369863,"startLabel":"1866-11-12","end":1925.1917808219177,"endLabel":"1925-03-12","tags":["physicians","politicians","occupation-q4964182"],"title":"孫中山","url":"https://zh.wikipedia.org/wiki/%E5%AD%AB%E4%B8%AD%E5%B1%B1","language":"zh","tier":0.1},
+{"id":"Q152393","kind":"person","start":1870.1013698630136,"startLabel":"1870-02-07","end":1937.4027397260274,"endLabel":"1937-05-28","tags":["physicians"],"title":"阿尔弗雷德·阿德勒","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E9%98%BF%E5%BE%B7%E5%8B%92","language":"zh","tier":0.1}
+]

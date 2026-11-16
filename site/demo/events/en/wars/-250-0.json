@@ -1,6 +1,0 @@
-[
-{"id":"Q1132393","kind":"event","start":-239.0,"startLabel":"240 BCE","end":-237.0,"endLabel":"238 BCE","tags":["wars","revolutions"],"parent":"Q124988","title":"Mercenary War","url":"https://en.wikipedia.org/wiki/Mercenary_War","language":"en","tier":100},
-{"id":"Q6271","kind":"event","start":-217.0,"startLabel":"218 BCE","end":-200.0,"endLabel":"201 BCE","tags":["wars","key-events"],"parent":"Q124988","title":"Second Punic War","url":"https://en.wikipedia.org/wiki/Second_Punic_War","language":"en","tier":100},
-{"id":"Q6334","kind":"event","start":-148.0,"startLabel":"149 BCE","end":-145.0,"endLabel":"146 BCE","tags":["wars"],"parent":"Q124988","title":"Third Punic War","url":"https://en.wikipedia.org/wiki/Third_Punic_War","language":"en","tier":100},
-{"id":"Q202161","kind":"event","start":-57.0,"startLabel":"58 BCE","end":-50.0,"endLabel":"51 BCE","tags":["wars"],"title":"Gallic War","url":"https://en.wikipedia.org/wiki/Gallic_Wars","language":"en","tier":100}
-]

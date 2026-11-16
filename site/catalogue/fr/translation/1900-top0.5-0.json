@@ -1,0 +1,6 @@
+[
+{"id":"Q295012","kind":"person","start":1932.5792349726776,"startLabel":"1932-07-31","tags":["translation","scientists","educators","occupation-q4964182"],"title":"John Searle","url":"https://fr.wikipedia.org/wiki/John_Searle","language":"fr","tier":0.5},
+{"id":"Q152308","kind":"person","start":1943.9753424657533,"startLabel":"1943-12-23","tags":["translation","politicians","occupation-q5784340"],"parent":"Q289564","title":"Silvia Sommerlath","url":"https://fr.wikipedia.org/wiki/Silvia_Sommerlath","language":"fr","tier":0.5},
+{"id":"Q214969","kind":"person","start":1908.48087431694,"startLabel":"1908-06-25","end":2000.98087431694,"endLabel":"2000-12-25","tags":["translation","scientists","educators","occupation-q15632482","occupation-q16389557","occupation-q18930236","occupation-q18930418","occupation-q4964182"],"title":"Willard Van Orman Quine","url":"https://fr.wikipedia.org/wiki/Willard_Van_Orman_Quine","language":"fr","tier":0.5},
+{"id":"Q272615","kind":"person","start":1911.2301369863014,"startLabel":"1911-03-26","end":1960.103825136612,"endLabel":"1960-02-08","tags":["translation","educators","occupation-q1231865","occupation-q4964182"],"title":"John Langshaw Austin","url":"https://fr.wikipedia.org/wiki/John_Langshaw_Austin","language":"fr","tier":0.5}
+]

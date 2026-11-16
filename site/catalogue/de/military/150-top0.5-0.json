@@ -1,0 +1,5 @@
+[
+{"id":"Q222797","kind":"person","start":160.0,"startLabel":"160","end":220.0,"endLabel":"0220-01 (Julian)","tags":["military"],"parent":"Q2039524","title":"Guan Yu","url":"https://de.wikipedia.org/wiki/Guan_Yu","language":"de","tier":0.5},
+{"id":"Q245315","kind":"person","start":161.0,"startLabel":"161","end":223.43835616438355,"endLabel":"0223-06-10 (Julian)","tags":["military"],"title":"Liu Bei","url":"https://de.wikipedia.org/wiki/Liu_Bei","language":"de","tier":0.5},
+{"id":"Q1782","kind":"person","start":159.0,"startLabel":"159","end":238.0,"endLabel":"238","tags":["military"],"title":"Gordian I.","url":"https://de.wikipedia.org/wiki/Gordian_I.","language":"de","tier":0.5}
+]

@@ -1,0 +1,10 @@
+[
+{"id":"Q293599","kind":"person","start":568.0,"startLabel":"≈568","end":653.1315068493151,"endLabel":"0653-02-15 (Julian)","tags":["politicians","businesspeople","finance-trade"],"parent":"Q188711","title":"Abbás ibn Abd al-Muttálib","url":"https://es.wikipedia.org/wiki/Abb%C3%A1s_ibn_Abd_al-Mutt%C3%A1lib","language":"es","tier":0.5},
+{"id":"Q298057","kind":"person","start":554.0,"startLabel":"554","end":628.3032786885246,"endLabel":"0628-04-18 (Julian)","tags":["politicians"],"title":"Emperatriz Suiko","url":"https://es.wikipedia.org/wiki/Suiko_Tenn%C5%8D","language":"es","tier":0.5},
+{"id":"Q272173","kind":"person","start":552.0,"startLabel":"552","end":612.155737704918,"endLabel":"0612-02-24 (Julian)","tags":["politicians","rulers"],"title":"Ethelberto de Kent","url":"https://es.wikipedia.org/wiki/Ethelberto_de_Kent","language":"es","tier":0.5},
+{"id":"Q212732","kind":"person","start":570.0,"startLabel":"570–579","end":628.1666666666666,"endLabel":"0628-02-28 (Julian)","tags":["politicians","rulers"],"title":"Cosroes II","url":"https://es.wikipedia.org/wiki/Cosroes_II","language":"es","tier":0.5},
+{"id":"Q9700","kind":"person","start":566.2657534246575,"startLabel":"0566-04-08","end":635.4794520547945,"endLabel":"0635-06-25","tags":["politicians"],"title":"Gaozu de Tang","url":"https://es.wikipedia.org/wiki/Gaozu_de_Tang","language":"es","tier":0.5},
+{"id":"Q209118","kind":"person","start":584.0,"startLabel":"584","end":629.8027397260274,"endLabel":"0629-10-18 (Julian)","tags":["politicians","rulers"],"title":"Clotario II","url":"https://es.wikipedia.org/wiki/Clotario_II","language":"es","tier":0.5},
+{"id":"Q243118","kind":"person","end":584.7431693989071,"endLabel":"0584-09-27 (Julian)","tags":["politicians","rulers"],"title":"Chilperico I","url":"https://es.wikipedia.org/wiki/Chilperico_I","language":"es","tier":0.5},
+{"id":"Q747731","kind":"person","start":583.0,"startLabel":"583","end":639.0,"endLabel":"639","tags":["politicians","military"],"parent":"Q188711","title":"Abu Ubaidah ibn al-Jarrah","url":"https://es.wikipedia.org/wiki/Abu_Ub%C3%A1idah_ibn_al-Yarrah","language":"es","tier":0.5}
+]

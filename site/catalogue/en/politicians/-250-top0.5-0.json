@@ -1,0 +1,13 @@
+[
+{"id":"Q39595","kind":"person","start":-243.0,"startLabel":"244 BCE","end":-204.0,"endLabel":"205 BCE","tags":["politicians"],"title":"Ptolemy IV Philopator","url":"https://en.wikipedia.org/wiki/Ptolemy_IV_Philopator","language":"en","tier":0.5},
+{"id":"Q237248","kind":"person","start":-237.0,"startLabel":"238 BCE","end":-178.0,"endLabel":"179 BCE","tags":["politicians"],"title":"Philip V of Macedon","url":"https://en.wikipedia.org/wiki/Philip_V_of_Macedon","language":"en","tier":0.5},
+{"id":"Q2253","kind":"person","start":-234.0,"startLabel":"≈235 BCE","end":-182.0,"endLabel":"183 BCE","tags":["politicians","military"],"title":"Scipio Africanus","url":"https://en.wikipedia.org/wiki/Scipio_Africanus","language":"en","tier":0.5},
+{"id":"Q39957","kind":"person","start":-208.24109589041095,"startLabel":"0210-10-09 BCE (Julian)","end":-179.0,"endLabel":"180 BCE","tags":["politicians"],"title":"Ptolemy V Epiphanes","url":"https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes","language":"en","tier":0.5},
+{"id":"Q40252","kind":"person","start":-203.0,"startLabel":"≈204 BCE","end":-175.0,"endLabel":"176 BCE","tags":["politicians","rulers"],"title":"Cleopatra I Syra","url":"https://en.wikipedia.org/wiki/Cleopatra_I_Syra","language":"en","tier":0.5},
+{"id":"Q3356","kind":"person","start":-214.0,"startLabel":"≈215 BCE","end":-163.0,"endLabel":"164 BCE","tags":["politicians"],"title":"Antiochus IV Epiphanes","url":"https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes","language":"en","tier":0.5},
+{"id":"Q274545","kind":"person","end":-202.0,"endLabel":"203 BCE","tags":["politicians","military"],"title":"Quintus Fabius Maximus Verrucosus","url":"https://en.wikipedia.org/wiki/Quintus_Fabius_Maximus_Verrucosus","language":"en","tier":0.5},
+{"id":"Q7196","kind":"person","start":-229.0,"startLabel":"230 BCE","end":-205.26301369863015,"endLabel":"0207-10 BCE (Julian)","tags":["politicians"],"title":"Qin Er Shi","url":"https://en.wikipedia.org/wiki/Qin_Er_Shi","language":"en","tier":0.5},
+{"id":"Q3365","kind":"person","start":-241.0,"startLabel":"≈242 BCE","end":-186.0,"endLabel":"187 BCE","tags":["politicians"],"title":"Antiochus III the Great","url":"https://en.wikipedia.org/wiki/Antiochus_III_the_Great","language":"en","tier":0.5},
+{"id":"Q314685","kind":"person","start":-237.0,"startLabel":"238 BCE","end":-147.0,"endLabel":"148 BCE","tags":["politicians","rulers"],"title":"Massinissa","url":"https://en.wikipedia.org/wiki/Masinissa","language":"en","tier":0.5},
+{"id":"Q315913","kind":"person","end":-216.0,"endLabel":"217 BCE","tags":["politicians"],"title":"Arsaces I of Parthia","url":"https://en.wikipedia.org/wiki/Arsaces_I_of_Parthia","language":"en","tier":0.5}
+]

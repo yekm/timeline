@@ -1,0 +1,6 @@
+[
+{"id":"Q57073","kind":"person","start":1686.3917808219178,"startLabel":"1686-05-24","end":1736.707650273224,"endLabel":"1736-09-16","tags":["scientists","engineers","inventors","trades","occupation-q593644"],"title":"Daniel Gabriel Fahrenheit","url":"https://es.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit","language":"es","tier":0.1},
+{"id":"Q47434","kind":"person","start":1656.8524590163934,"startLabel":"1656-10-29 (Julian)","end":1742.0657534246575,"endLabel":"1742-01-14 (Julian)","tags":["scientists","educators","occupation-q4964182"],"title":"Edmond Halley","url":"https://es.wikipedia.org/wiki/Edmund_Halley","language":"es","tier":0.1},
+{"id":"Q122392","kind":"person","start":1655.013698630137,"startLabel":"1654-12-27 (Julian)","end":1705.6219178082192,"endLabel":"1705-08-16","tags":["scientists","educators","physicians"],"title":"Jakob Bernoulli","url":"https://es.wikipedia.org/wiki/Jacob_Bernoulli","language":"es","tier":0.1},
+{"id":"Q127641","kind":"person","start":1681.5917808219178,"startLabel":"1681-08-05","end":1741.964383561644,"endLabel":"1741-12-08 (Julian)","tags":["scientists","explorers","military"],"title":"Vitus Bering","url":"https://es.wikipedia.org/wiki/Vitus_Bering","language":"es","tier":0.1}
+]

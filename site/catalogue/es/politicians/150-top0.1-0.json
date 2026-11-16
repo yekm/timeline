@@ -1,0 +1,5 @@
+[
+{"id":"Q1434","kind":"person","start":161.66027397260274,"startLabel":"0161-08-31 (Julian)","end":192.9945355191257,"endLabel":"0192-12-31 (Julian)","tags":["politicians"],"title":"Cómodo","url":"https://es.wikipedia.org/wiki/C%C3%B3modo","language":"es","tier":0.1},
+{"id":"Q1446","kind":"person","start":188.25409836065575,"startLabel":"0188-04-04 (Julian)","end":217.26575342465753,"endLabel":"0217-04-08 (Julian)","tags":["politicians","rulers"],"title":"Caracalla","url":"https://es.wikipedia.org/wiki/Caracalla","language":"es","tier":0.1},
+{"id":"Q1752","kind":"person","start":164.0,"startLabel":"164","end":218.0,"endLabel":"218","tags":["politicians","law"],"title":"Macrino","url":"https://es.wikipedia.org/wiki/Macrino","language":"es","tier":0.1}
+]

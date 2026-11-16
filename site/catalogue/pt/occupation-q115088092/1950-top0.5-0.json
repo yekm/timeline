@@ -1,0 +1,5 @@
+[
+{"id":"Q94334","kind":"person","start":1973.0520547945205,"startLabel":"1973-01-20","tags":["occupation-q115088092","occupation-q11762416","occupation-q5784340"],"parent":"Q63195578","title":"Matilde, Duquesa de Brabante","url":"https://pt.wikipedia.org/wiki/Matilde_da_B%C3%A9lgica","language":"pt","tier":0.5},
+{"id":"Q7449","kind":"person","start":1963.5945205479452,"startLabel":"1963-08-06","end":2023.5369863013698,"endLabel":"2023-07-16","tags":["occupation-q115088092","occupation-q1487","occupation-q2798820","occupation-q28344495","occupation-q82594"],"title":"Kevin Mitnick","url":"https://pt.wikipedia.org/wiki/Kevin_Mitnick","language":"pt","tier":0.5},
+{"id":"Q3503829","kind":"person","start":1972.5218579234972,"startLabel":"1972-07-10","tags":["occupation-q115088092","occupation-q484876","occupation-q82594","occupation-q978044"],"title":"Sundar Pichai","url":"https://pt.wikipedia.org/wiki/Sundar_Pichai","language":"pt","tier":0.5}
+]

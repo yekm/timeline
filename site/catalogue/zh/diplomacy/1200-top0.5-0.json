@@ -1,0 +1,6 @@
+[
+{"id":"Q171238","kind":"person","end":1241.8958904109588,"endLabel":"1241-11-17 (Julian)","tags":["diplomacy","religion"],"title":"塞萊斯廷四世","url":"https://zh.wikipedia.org/wiki/%E7%AD%96%E8%82%8B%E5%AE%9A%E5%9B%9B%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q227719","kind":"person","start":1220.2540983606557,"startLabel":"1220-03-27 (Julian)","end":1285.2739726027398,"endLabel":"1285-04-04 (Julian)","tags":["diplomacy","religion"],"title":"瑪定四世","url":"https://zh.wikipedia.org/wiki/%E7%91%AA%E5%AE%9A%E5%9B%9B%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q103625","kind":"person","start":1227.7643835616439,"startLabel":"1227-09-30 (Julian)","end":1292.275956284153,"endLabel":"1292-04-04 (Julian)","tags":["diplomacy","religion"],"title":"尼各老四世","url":"https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%90%84%E8%80%81%E5%9B%9B%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q173000","kind":"person","start":1205.5424657534247,"startLabel":"1205-07-11 (Julian)","end":1276.6475409836066,"endLabel":"1276-08-18 (Julian)","tags":["diplomacy","religion"],"title":"亞德五世","url":"https://zh.wikipedia.org/wiki/%E5%93%88%E5%BE%B7%E8%89%AF%E4%BA%94%E4%B8%96","language":"zh","tier":0.5}
+]

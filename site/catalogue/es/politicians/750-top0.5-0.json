@@ -1,0 +1,12 @@
+[
+{"id":"Q41652","kind":"person","start":770.0,"startLabel":"≈770","end":844.0273224043716,"endLabel":"0844-01-11","tags":["politicians"],"title":"Miguel I Rangabé","url":"https://es.wikipedia.org/wiki/Miguel_I_Rangab%C3%A9","language":"es","tier":0.5},
+{"id":"Q237587","kind":"person","start":775.0,"startLabel":"775","end":812.0382513661202,"endLabel":"0812-01-11 (Julian)","tags":["politicians"],"title":"Estauracio","url":"https://es.wikipedia.org/wiki/Estauracio","language":"es","tier":0.5},
+{"id":"Q41645","kind":"person","start":750.0657534246575,"startLabel":"0750-01-25","end":780.6857923497267,"endLabel":"0780-09-08","tags":["politicians"],"title":"León IV","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_IV_(emperador)","language":"es","tier":0.5},
+{"id":"Q208754","kind":"person","start":760.0,"startLabel":"760","end":811.5753424657535,"endLabel":"0811-07-26 (Julian)","tags":["politicians"],"title":"Nicéforo I","url":"https://es.wikipedia.org/wiki/Nic%C3%A9foro_I","language":"es","tier":0.5},
+{"id":"Q41641","kind":"person","start":775.0,"startLabel":"775","end":821.0027397260274,"endLabel":"0820-12-29 (Julian)","tags":["politicians"],"title":"León V el Armenio","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_V_el_Armenio","language":"es","tier":0.5},
+{"id":"Q41661","kind":"person","start":771.0465753424658,"startLabel":"0771-01-14 (Julian)","end":797.641095890411,"endLabel":"0797-08-19 (Julian)","tags":["politicians"],"title":"Constantino VI","url":"https://es.wikipedia.org/wiki/Constantino_VI","language":"es","tier":0.5},
+{"id":"Q191003","kind":"person","start":751.0,"startLabel":"751","end":771.9342465753425,"endLabel":"0771-12-08","tags":["politicians","rulers"],"title":"Carlomán I","url":"https://es.wikipedia.org/wiki/Carlom%C3%A1n_I","language":"es","tier":0.5},
+{"id":"Q206737","kind":"person","start":752.0,"startLabel":"≈752","end":803.6027397260274,"endLabel":"0803-08-09","tags":["politicians"],"title":"Irene","url":"https://es.wikipedia.org/wiki/Irene_de_Atenas","language":"es","tier":0.5},
+{"id":"Q284550","kind":"person","start":796.0,"startLabel":"796","end":842.0109589041095,"endLabel":"0842-01-05","tags":["politicians","rulers"],"title":"Al-Mutásim","url":"https://es.wikipedia.org/wiki/Al-Mut%C3%A1sim","language":"es","tier":0.5},
+{"id":"Q307412","kind":"person","start":792.0,"startLabel":"792","end":852.724043715847,"endLabel":"0852-09-22","tags":["politicians"],"title":"Abderramán II","url":"https://es.wikipedia.org/wiki/Abderram%C3%A1n_II","language":"es","tier":0.5}
+]

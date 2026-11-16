@@ -1,0 +1,9 @@
+[
+{"id":"Q271850","kind":"person","start":-443.0,"startLabel":"444 BCE","end":-359.0,"endLabel":"360 BCE","tags":["politicians","diplomacy","military"],"title":"阿格西莱二世","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%BC%E8%A5%BF%E8%8E%B1%E4%BA%8C%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q187982","kind":"person","start":-449.0,"startLabel":"≈450 BCE","end":-403.0,"endLabel":"404 BCE","tags":["politicians","military"],"title":"阿尔西比亚德斯","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%A5%BF%E6%AF%94%E4%BA%9A%E5%BE%B7%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q188472","kind":"person","start":-435.0,"startLabel":"436 BCE","end":-357.0,"endLabel":"358 BCE","tags":["politicians","rulers"],"title":"阿尔塔薛西斯二世","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%A1%94%E8%96%9B%E8%A5%BF%E6%96%AF%E4%BA%8C%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q296857","kind":"person","start":-409.0,"startLabel":"≈410 BCE","end":-352.0,"endLabel":"353 BCE","tags":["politicians"],"title":"马乌索卢斯","url":"https://zh.wikipedia.org/wiki/%E6%91%A9%E7%B4%A2%E6%8B%89%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q312821","kind":"person","start":-426.0,"startLabel":"427 BCE","end":-290.0,"endLabel":"291 BCE","tags":["politicians"],"parent":"Q838196","title":"孝安天皇","url":"https://zh.wikipedia.org/wiki/%E5%AD%9D%E5%AE%89%E5%A4%A9%E7%9A%87","language":"zh","tier":0.5},
+{"id":"Q190436","kind":"person","start":-417.0,"startLabel":"418 BCE","end":-361.0,"endLabel":"362 BCE","tags":["politicians","military"],"title":"伊巴密濃達","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%B7%B4%E5%AF%86%E6%BF%83%E9%81%94","language":"zh","tier":0.5},
+{"id":"Q192867","kind":"person","start":-424.0,"startLabel":"425 BCE","end":-336.4328767123288,"endLabel":"0338-08-01 BCE (Julian)","tags":["politicians"],"title":"阿尔塔薛西斯三世","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%A1%94%E8%96%9B%E8%A5%BF%E6%96%AF%E4%B8%89%E4%B8%96","language":"zh","tier":0.5}
+]

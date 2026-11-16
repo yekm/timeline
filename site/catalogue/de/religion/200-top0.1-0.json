@@ -1,0 +1,12 @@
+[
+{"id":"Q122376","kind":"person","end":222.0,"endLabel":"≈222","tags":["religion"],"title":"Calixt I.","url":"https://de.wikipedia.org/wiki/Calixt_I.","language":"de","tier":0.1},
+{"id":"Q131162","kind":"person","start":200.0,"startLabel":"≈200","end":268.9836065573771,"endLabel":"0268-12-26 (Julian)","tags":["religion"],"title":"Dionysius","url":"https://de.wikipedia.org/wiki/Dionysius_(Bischof_von_Rom)","language":"de","tier":0.1},
+{"id":"Q132100","kind":"person","end":236.0054644808743,"endLabel":"0236-01-03 (Julian)","tags":["religion"],"title":"Anterus","url":"https://de.wikipedia.org/wiki/Anterus","language":"de","tier":0.1},
+{"id":"Q127385","kind":"person","start":215.0,"startLabel":"≈215","end":258.5945205479452,"endLabel":"0258-08-06 (Julian)","tags":["religion"],"title":"Sixtus II.","url":"https://de.wikipedia.org/wiki/Sixtus_II.","language":"de","tier":0.1},
+{"id":"Q101306","kind":"person","end":217.96712328767123,"endLabel":"0217-12-20 (Julian)","tags":["religion"],"title":"Zephyrinus","url":"https://de.wikipedia.org/wiki/Zephyrinus","language":"de","tier":0.1},
+{"id":"Q132793","kind":"person","start":200.0,"startLabel":"200","end":254.17260273972602,"endLabel":"0254-03-05 (Julian)","tags":["religion"],"title":"Lucius I.","url":"https://de.wikipedia.org/wiki/Lucius_I.","language":"de","tier":0.1},
+{"id":"Q131159","kind":"person","start":200.0,"startLabel":"200","end":250.05205479452056,"endLabel":"0250-01-20 (Julian)","tags":["religion"],"title":"Fabianus","url":"https://de.wikipedia.org/wiki/Fabianus","language":"de","tier":0.1},
+{"id":"Q101280","kind":"person","start":200.0,"startLabel":"101–200","tags":["religion"],"parent":"Q28109118","title":"Soterus","url":"https://de.wikipedia.org/wiki/Soterus","language":"de","tier":0.1},
+{"id":"Q125631","kind":"person","end":230.37808219178083,"endLabel":"0230-05-19 (Julian)","tags":["religion"],"title":"Urban I.","url":"https://de.wikipedia.org/wiki/Urban_I.","language":"de","tier":0.1},
+{"id":"Q132113","kind":"person","end":235.74794520547945,"endLabel":"0235-10 (Julian)","tags":["religion"],"title":"Pontianus","url":"https://de.wikipedia.org/wiki/Pontianus","language":"de","tier":0.1}
+]

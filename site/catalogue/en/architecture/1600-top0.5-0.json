@@ -1,0 +1,4 @@
+[
+{"id":"Q192839","kind":"person","start":1633.3287671232877,"startLabel":"1633-05","end":1707.2410958904109,"endLabel":"1707-03-30","tags":["architecture","writers","engineers","military"],"title":"Sébastien Le Prestre de Vauban","url":"https://en.wikipedia.org/wiki/S%C3%A9bastien_Le_Prestre,_Marquis_of_Vauban","language":"en","tier":0.5},
+{"id":"Q273849","kind":"person","start":1613.1917808219177,"startLabel":"1613-03-12","end":1700.704109589041,"endLabel":"1700-09-15","tags":["architecture","occupation-q483501","occupation-q758780"],"title":"André Le Nôtre","url":"https://en.wikipedia.org/wiki/Andr%C3%A9_Le_N%C3%B4tre","language":"en","tier":0.5}
+]

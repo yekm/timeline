@@ -1,0 +1,6 @@
+[
+{"id":"Q151932","kind":"person","start":1910.123287671233,"startLabel":"1910-02-15","end":2008.360655737705,"endLabel":"2008-05-12","tags":["healthcare","activism","occupation-q16532929","occupation-q7019111","occupation-q974144"],"title":"伊雷娜·森德勒","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%9B%B7%E5%A8%9C%C2%B7%E6%A3%AE%E5%BE%B7%E5%8B%92","language":"zh","tier":0.5},
+{"id":"Q182654","kind":"person","start":1949.2630136986302,"startLabel":"1949-04-07","tags":["healthcare","politicians","diplomacy","occupation-q115088092"],"title":"瓦莲京娜·马特维延科","url":"https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8E%B2%E4%BA%AC%E5%A8%9C%C2%B7%E9%A9%AC%E7%89%B9%E7%BB%B4%E5%BB%B6%E7%A7%91","language":"zh","tier":0.5},
+{"id":"Q209989","kind":"person","start":1911.4,"startLabel":"1911-05-27","end":1978.0328767123287,"endLabel":"1978-01-13","tags":["healthcare","politicians","activism"],"title":"休伯特·汉弗莱","url":"https://zh.wikipedia.org/wiki/%E4%BC%91%E4%BC%AF%E7%89%B9%C2%B7%E6%B1%89%E5%BC%97%E8%8E%B1","language":"zh","tier":0.5},
+{"id":"Q63702","kind":"person","start":1923.7643835616439,"startLabel":"1923-10-07","end":1945.9479452054795,"endLabel":"1945-12-13","tags":["healthcare","politicians","safety","occupation-q20725072"],"title":"伊爾瑪·格雷澤","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%88%BE%E7%91%AA%C2%B7%E6%A0%BC%E9%9B%B7%E6%BE%A4","language":"zh","tier":0.5}
+]

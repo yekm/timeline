@@ -1,0 +1,6 @@
+[
+{"id":"Q44170","kind":"person","start":35.0,"startLabel":"≈35","end":108.0,"endLabel":"108","tags":["religion"],"parent":"Q182603","title":"إغناطيوس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D9%88%D8%B3","language":"ar","tier":0.5},
+{"id":"Q161775","kind":"person","start":1.0,"startLabel":"≈1","end":36.0,"endLabel":"≈36","tags":["religion"],"title":"إسطفانوس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B7%D9%81%D8%A7%D9%86%D9%88%D8%B3","language":"ar","tier":0.5},
+{"id":"Q212647","kind":"person","start":17.0,"startLabel":"17","end":97.0,"endLabel":"97","tags":["religion"],"title":"تيموثاوس","url":"https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%85%D9%88%D8%AB%D8%A7%D9%88%D8%B3","language":"ar","tier":0.5},
+{"id":"Q185856","kind":"person","start":1.0,"startLabel":"1–100","end":61.0,"endLabel":"61","tags":["religion","music"],"title":"برنابا","url":"https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D8%A8%D8%A7","language":"ar","tier":0.5}
+]

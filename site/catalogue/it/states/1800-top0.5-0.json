@@ -1,0 +1,15 @@
+[
+{"id":"Q31","kind":"event","point":1830.7561643835616,"pointLabel":"1830-10-04","tags":["states"],"parent":"Q1065","title":"Belgio","url":"https://it.wikipedia.org/wiki/Belgio","language":"it","tier":0.5},
+{"id":"Q717","kind":"event","point":1811.5068493150684,"pointLabel":"1811-07-05","tags":["states"],"parent":"Q12585","title":"Venezuela","url":"https://it.wikipedia.org/wiki/Venezuela","language":"it","tier":0.5},
+{"id":"Q736","kind":"event","point":1840.1256830601094,"pointLabel":"1840-02-16","tags":["states"],"parent":"Q12585","title":"Ecuador","url":"https://it.wikipedia.org/wiki/Ecuador","language":"it","tier":0.5},
+{"id":"Q750","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"Bolivia","url":"https://it.wikipedia.org/wiki/Bolivia","language":"it","tier":0.5},
+{"id":"Q783","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Honduras","url":"https://it.wikipedia.org/wiki/Honduras","language":"it","tier":0.5},
+{"id":"Q347","kind":"event","point":1806.5260273972603,"pointLabel":"1806-07-12","tags":["states"],"parent":"Q151624","title":"Liechtenstein","url":"https://it.wikipedia.org/wiki/Liechtenstein","language":"it","tier":0.5},
+{"id":"Q774","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Guatemala","url":"https://it.wikipedia.org/wiki/Guatemala","language":"it","tier":0.5},
+{"id":"Q419","kind":"event","point":1821.5698630136985,"pointLabel":"1821-07-28","tags":["states"],"parent":"Q12585","title":"Perù","url":"https://it.wikipedia.org/wiki/Per%C3%B9","language":"it","tier":0.5},
+{"id":"Q1014","kind":"event","point":1822.0164383561644,"pointLabel":"1822-01-07","tags":["states"],"parent":"Q4412","title":"Liberia","url":"https://it.wikipedia.org/wiki/Liberia","language":"it","tier":0.5},
+{"id":"Q77","kind":"event","point":1825.0,"pointLabel":"1825","tags":["states"],"parent":"Q12585","title":"Uruguay","url":"https://it.wikipedia.org/wiki/Uruguay","language":"it","tier":0.5},
+{"id":"Q800","kind":"event","point":1821.0,"pointLabel":"1821","tags":["states"],"parent":"Q12585","title":"Costa Rica","url":"https://it.wikipedia.org/wiki/Costa_Rica","language":"it","tier":0.5},
+{"id":"Q32","kind":"event","point":1815.0,"pointLabel":"1815","tags":["states"],"parent":"Q458","title":"Lussemburgo","url":"https://it.wikipedia.org/wiki/Lussemburgo","language":"it","tier":0.5},
+{"id":"Q733","kind":"event","point":1811.0,"pointLabel":"1811","tags":["states"],"parent":"Q12585","title":"Paraguay","url":"https://it.wikipedia.org/wiki/Paraguay","language":"it","tier":0.5}
+]

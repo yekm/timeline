@@ -1,0 +1,8 @@
+[
+{"id":"Q177320","kind":"person","start":1217.0,"startLabel":"≈1217","end":1265.123287671233,"endLabel":"1265-02-08 (Julian)","tags":["politicians","rulers"],"title":"Hulagu Khan","url":"https://it.wikipedia.org/wiki/Hulagu_Khan","language":"it","tier":0.1},
+{"id":"Q174044","kind":"person","start":1220.3825136612022,"startLabel":"1220-05-13 (Julian)","end":1263.8876712328768,"endLabel":"1263-11-14 (Julian)","tags":["politicians","military"],"title":"Aleksandr Nevskij","url":"https://it.wikipedia.org/wiki/Aleksandr_Nevskij","language":"it","tier":0.1},
+{"id":"Q171520","kind":"person","start":1200.0,"startLabel":"1101–1200","tags":["politicians","religion"],"title":"papa Urbano III","url":"https://it.wikipedia.org/wiki/Papa_Urbano_III","language":"it","tier":0.1},
+{"id":"Q346","kind":"person","start":1214.331506849315,"startLabel":"1214-04-25 (Julian)","end":1270.6657534246576,"endLabel":"1270-08-25 (Julian)","tags":["politicians","rulers","occupation-q1678054"],"title":"Luigi IX di Francia","url":"https://it.wikipedia.org/wiki/Luigi_IX_di_Francia","language":"it","tier":0.1},
+{"id":"Q57798","kind":"person","start":1239.4767123287672,"startLabel":"1239-06-17 (Julian)","end":1307.5342465753424,"endLabel":"1307-07-07 (Julian)","tags":["politicians","rulers"],"title":"Edoardo I d'Inghilterra","url":"https://it.wikipedia.org/wiki/Edoardo_I_d%27Inghilterra","language":"it","tier":0.1},
+{"id":"Q175138","kind":"person","start":1205.0,"startLabel":"≈1205","end":1255.0,"endLabel":"≈1255","tags":["politicians","rulers","military"],"title":"Batu Khan","url":"https://it.wikipedia.org/wiki/Batu_Khan","language":"it","tier":0.1}
+]

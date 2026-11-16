@@ -1,0 +1,10 @@
+[
+{"id":"Q59734","kind":"person","start":-335.0,"startLabel":"336 BCE","end":-282.0,"endLabel":"283 BCE","tags":["politicians"],"title":"Demetrios I. Poliorketes","url":"https://de.wikipedia.org/wiki/Demetrios_I._Poliorketes","language":"de","tier":0.5},
+{"id":"Q313286","kind":"person","start":-349.0,"startLabel":"350 BCE","end":-282.0,"endLabel":"283 BCE","tags":["politicians","occupation-q182436","occupation-q4964182"],"title":"Demetrios von Phaleron","url":"https://de.wikipedia.org/wiki/Demetrios_von_Phaleron","language":"de","tier":0.5},
+{"id":"Q39576","kind":"person","start":-307.0,"startLabel":"308 BCE","end":-245.0,"endLabel":"246 BCE","tags":["politicians"],"title":"Ptolemaios II.","url":"https://de.wikipedia.org/wiki/Ptolemaios_II.","language":"de","tier":0.5},
+{"id":"Q315526","kind":"person","start":-319.0,"startLabel":"320 BCE","end":-272.0,"endLabel":"273 BCE","tags":["politicians"],"title":"Bindusara","url":"https://de.wikipedia.org/wiki/Bindusara","language":"de","tier":0.5},
+{"id":"Q207847","kind":"person","start":-322.0,"startLabel":"323 BCE","end":-308.0,"endLabel":"309 BCE","tags":["politicians"],"title":"Alexander IV. Aigos","url":"https://de.wikipedia.org/wiki/Alexander_IV._Aigos","language":"de","tier":0.5},
+{"id":"Q211488","kind":"person","start":-323.0,"startLabel":"324 BCE","end":-260.0,"endLabel":"261 BCE","tags":["politicians"],"title":"Antiochos I.","url":"https://de.wikipedia.org/wiki/Antiochos_I.","language":"de","tier":0.5},
+{"id":"Q260783","kind":"person","end":-335.0,"endLabel":"336 BCE","tags":["politicians"],"title":"Arses","url":"https://de.wikipedia.org/wiki/Arses","language":"de","tier":0.5},
+{"id":"Q372698","kind":"person","start":-325.0,"startLabel":"326 BCE","end":-233.0,"endLabel":"234 BCE","tags":["politicians"],"title":"Parnawas I.","url":"https://de.wikipedia.org/wiki/Parnawas_I.","language":"de","tier":0.5}
+]

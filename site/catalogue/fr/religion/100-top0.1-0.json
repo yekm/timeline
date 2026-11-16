@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"Hygin","url":"https://fr.wikipedia.org/wiki/Hygin_(pape)","language":"fr","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"Anicet","url":"https://fr.wikipedia.org/wiki/Anicet_(pape)","language":"fr","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"Évariste","url":"https://fr.wikipedia.org/wiki/%C3%89variste_(pape)","language":"fr","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"Marie de Magdala","url":"https://fr.wikipedia.org/wiki/Marie_Madeleine","language":"fr","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"Télesphore","url":"https://fr.wikipedia.org/wiki/T%C3%A9lesphore_(pape)","language":"fr","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"Clément de Rome","url":"https://fr.wikipedia.org/wiki/Cl%C3%A9ment_de_Rome","language":"fr","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"Alexandre Ier","url":"https://fr.wikipedia.org/wiki/Alexandre_Ier_(pape)","language":"fr","tier":0.1}
+]

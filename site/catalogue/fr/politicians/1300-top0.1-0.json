@@ -1,0 +1,5 @@
+[
+{"id":"Q96261","kind":"person","start":1326.490410958904,"startLabel":"1326-06-29","end":1389.509589041096,"endLabel":"1389-06-28 (Julian)","tags":["politicians"],"title":"Mourad Ier","url":"https://fr.wikipedia.org/wiki/Mourad_Ier","language":"fr","tier":0.1},
+{"id":"Q129247","kind":"person","start":1312.8879781420765,"startLabel":"1312-11-13 (Julian)","end":1377.490410958904,"endLabel":"1377-06-21 (Julian)","tags":["politicians","rulers"],"title":"Édouard III","url":"https://fr.wikipedia.org/wiki/%C3%89douard_III","language":"fr","tier":0.1},
+{"id":"Q167782","kind":"person","start":1338.0767123287671,"startLabel":"1338-01-21 (Julian)","end":1380.7295081967213,"endLabel":"1380-09-16 (Julian)","tags":["politicians","rulers"],"title":"Charles V de France","url":"https://fr.wikipedia.org/wiki/Charles_V_le_Sage","language":"fr","tier":0.1}
+]

@@ -1,0 +1,7 @@
+[
+{"id":"Q1413","kind":"person","start":37.94794520547945,"startLabel":"0037-12-15 (Julian)","end":68.43169398907104,"endLabel":"0068-06-09 (Julian)","tags":["writers","poetry","politicians","military"],"title":"Néron","url":"https://fr.wikipedia.org/wiki/N%C3%A9ron","language":"fr","tier":0.1},
+{"id":"Q41523","kind":"person","start":40.0,"startLabel":"≈40–49","end":120.0,"endLabel":"≈120","tags":["writers","scientists","politicians","religion","occupation-q4964182"],"title":"Plutarque","url":"https://fr.wikipedia.org/wiki/Plutarque","language":"fr","tier":0.1},
+{"id":"Q134461","kind":"person","start":37.0,"startLabel":"37","end":100.0,"endLabel":"100","tags":["writers","scientists"],"title":"Flavius Josèphe","url":"https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe","language":"fr","tier":0.1},
+{"id":"Q9200","kind":"person","start":5.0,"startLabel":"≈5","end":67.0,"endLabel":"≈67","tags":["writers","religion","trades","occupation-q133485","occupation-q219477","occupation-q22813352","occupation-q4504549"],"title":"Paul de Tarse","url":"https://fr.wikipedia.org/wiki/Paul_de_Tarse","language":"fr","tier":0.1},
+{"id":"Q82778","kind":"person","start":20.0,"startLabel":"20–29","end":79.0,"endLabel":"79","tags":["writers","poetry","scientists","politicians","military","occupation-q4964182"],"title":"Pline l'Ancien","url":"https://fr.wikipedia.org/wiki/Pline_l%27Ancien","language":"fr","tier":0.1}
+]

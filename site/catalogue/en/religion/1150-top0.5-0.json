@@ -1,0 +1,6 @@
+[
+{"id":"Q44091","kind":"person","start":1170.6191780821919,"startLabel":"1170-08-08 (Julian)","end":1221.613698630137,"endLabel":"1221-08-06 (Julian)","tags":["religion","occupation-q2450226"],"title":"Saint Dominic","url":"https://en.wikipedia.org/wiki/Saint_Dominic","language":"en","tier":0.5},
+{"id":"Q121130","kind":"person","start":1177.6,"startLabel":"1177-08 (Julian)","end":1208.4890710382513,"endLabel":"1208-06-21 (Julian)","tags":["religion"],"title":"Philip of Swabia","url":"https://en.wikipedia.org/wiki/Philip_of_Swabia","language":"en","tier":0.5},
+{"id":"Q167477","kind":"person","start":1195.6383561643836,"startLabel":"1195-08-15 (Julian)","end":1231.4657534246576,"endLabel":"1231-06-13 (Julian)","tags":["religion"],"title":"Anthony of Padua","url":"https://en.wikipedia.org/wiki/Anthony_of_Padua","language":"en","tier":0.5},
+{"id":"Q235238","kind":"person","start":1155.1780821917807,"startLabel":"1155-02-28 (Julian)","end":1183.4602739726026,"endLabel":"1183-06-11 (Julian)","tags":["religion"],"title":"Henry the Young King","url":"https://en.wikipedia.org/wiki/Henry_the_Young_King","language":"en","tier":0.5}
+]

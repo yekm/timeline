@@ -1,0 +1,18 @@
+[
+{"id":"Q148","kind":"event","point":1949.7479452054795,"pointLabel":"1949-10-01","tags":["states"],"parent":"Q27231","title":"China","url":"https://pt.wikipedia.org/wiki/China","language":"pt","tier":0.1},
+{"id":"Q183","kind":"event","point":1949.3890410958904,"pointLabel":"1949-05-23","tags":["states"],"parent":"Q8932","title":"Alemanha","url":"https://pt.wikipedia.org/wiki/Alemanha","language":"pt","tier":0.1},
+{"id":"Q38","kind":"event","point":1946.4602739726026,"pointLabel":"1946-06-18","tags":["states"],"parent":"Q458","title":"Itália","url":"https://pt.wikipedia.org/wiki/It%C3%A1lia","language":"pt","tier":0.1},
+{"id":"Q43","kind":"event","point":1923.8246575342466,"pointLabel":"1923-10-29","tags":["states"],"parent":"Q12299139","title":"Turquia","url":"https://pt.wikipedia.org/wiki/Turquia","language":"pt","tier":0.1},
+{"id":"Q258","kind":"event","point":1910.4109589041095,"pointLabel":"1910-05-31","tags":["states"],"parent":"Q27394","title":"África do Sul","url":"https://pt.wikipedia.org/wiki/%C3%81frica_do_Sul","language":"pt","tier":0.1},
+{"id":"Q668","kind":"event","point":1947.6191780821919,"pointLabel":"1947-08-15","tags":["states"],"parent":"Q145700","title":"Índia","url":"https://pt.wikipedia.org/wiki/%C3%8Dndia","language":"pt","tier":0.1},
+{"id":"Q145","kind":"event","point":1927.2767123287672,"pointLabel":"1927-04-12","tags":["states"],"parent":"Q27479","title":"Reino Unido","url":"https://pt.wikipedia.org/wiki/Reino_Unido","language":"pt","tier":0.1},
+{"id":"Q159","kind":"event","point":1917.849315068493,"pointLabel":"1917-10-25 (Julian)","tags":["states"],"parent":"Q302045","title":"Rússia","url":"https://pt.wikipedia.org/wiki/R%C3%BAssia","language":"pt","tier":0.1},
+{"id":"Q408","kind":"event","point":1901.0,"pointLabel":"1901-01-01","tags":["states"],"parent":"Q107323313","title":"Austrália","url":"https://pt.wikipedia.org/wiki/Austr%C3%A1lia","language":"pt","tier":0.1},
+{"id":"Q33","kind":"event","point":1917.9287671232876,"pointLabel":"1917-12-06","tags":["states"],"parent":"Q27479","title":"Finlândia","url":"https://pt.wikipedia.org/wiki/Finl%C3%A2ndia","language":"pt","tier":0.1},
+{"id":"Q17","kind":"event","point":1947.3342465753424,"pointLabel":"1947-05-03","tags":["states"],"parent":"Q27231","title":"Japão","url":"https://pt.wikipedia.org/wiki/Jap%C3%A3o","language":"pt","tier":0.1},
+{"id":"Q20","kind":"event","point":1905.8164383561643,"pointLabel":"1905-10-26","tags":["states"],"parent":"Q21195","title":"Noruega","url":"https://pt.wikipedia.org/wiki/Noruega","language":"pt","tier":0.1},
+{"id":"Q191","kind":"event","point":1918.1479452054793,"pointLabel":"1918-02-24","tags":["states"],"parent":"Q27479","title":"Estónia","url":"https://pt.wikipedia.org/wiki/Est%C3%B3nia","language":"pt","tier":0.1},
+{"id":"Q36","kind":"event","point":1918.8602739726027,"pointLabel":"1918-11-11","tags":["states"],"parent":"Q27468","title":"Polónia","url":"https://pt.wikipedia.org/wiki/Pol%C3%B3nia","language":"pt","tier":0.1},
+{"id":"Q79","kind":"event","point":1922.158904109589,"pointLabel":"1922-02-28","tags":["states"],"parent":"Q27293","title":"Egito","url":"https://pt.wikipedia.org/wiki/Egito","language":"pt","tier":0.1},
+{"id":"Q40","kind":"event","point":1918.86301369863,"pointLabel":"1918-11-12","tags":["states"],"parent":"Q27509","title":"Áustria","url":"https://pt.wikipedia.org/wiki/%C3%81ustria","language":"pt","tier":0.1}
+]

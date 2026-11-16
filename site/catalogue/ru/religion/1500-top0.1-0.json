@@ -1,0 +1,6 @@
+[
+{"id":"Q133350","kind":"person","start":1521.9753424657533,"startLabel":"1521-12-13 (Julian)","end":1590.6520547945206,"endLabel":"1590-08-27","tags":["religion"],"title":"Сикст V","url":"https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BA%D1%81%D1%82_V","language":"ru","tier":0.1},
+{"id":"Q134337","kind":"person","start":1521.6164383561643,"startLabel":"1521-08-04 (Julian)","end":1590.7369863013698,"endLabel":"1590-09-27","tags":["religion"],"title":"Урбан VII","url":"https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D0%BD_VII","language":"ru","tier":0.1},
+{"id":"Q131945","kind":"person","start":1504.0710382513662,"startLabel":"1504-01-17 (Julian)","end":1572.3579234972678,"endLabel":"1572-05-01 (Julian)","tags":["religion"],"title":"Пий V","url":"https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B9_V","language":"ru","tier":0.1},
+{"id":"Q83029","kind":"person","start":1502.027397260274,"startLabel":"1502-01-01 (Julian)","end":1585.2712328767122,"endLabel":"1585-04-10","tags":["religion"],"title":"Григорий XIII","url":"https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_XIII","language":"ru","tier":0.1}
+]

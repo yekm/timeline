@@ -1,0 +1,13 @@
+[
+{"id":"Q351345","kind":"person","start":-389.0,"startLabel":"390 BCE","end":-337.0,"endLabel":"338 BCE","tags":["politicians","occupation-q4964182"],"title":"Shang Yang","url":"https://es.wikipedia.org/wiki/Shang_Yang","language":"es","tier":0.5},
+{"id":"Q28935","kind":"person","start":-399.0,"startLabel":"301–400 BCE","end":-315.0,"endLabel":"316 BCE","tags":["politicians"],"title":"Poros","url":"https://es.wikipedia.org/wiki/Poros_(rey)","language":"es","tier":0.5},
+{"id":"Q32133","kind":"person","start":-360.0,"startLabel":"361 BCE","end":-280.0,"endLabel":"281 BCE","tags":["politicians","military"],"parent":"Q201546","title":"Lisímaco de Tracia","url":"https://es.wikipedia.org/wiki/Lis%C3%ADmaco_de_Tracia","language":"es","tier":0.5},
+{"id":"Q296434","kind":"person","start":-399.0,"startLabel":"301–400 BCE","end":-328.0,"endLabel":"329 BCE","tags":["politicians"],"title":"Bessos","url":"https://es.wikipedia.org/wiki/Bessos","language":"es","tier":0.5},
+{"id":"Q313126","kind":"person","start":-399.0,"startLabel":"301–400 BCE","end":-342.0,"endLabel":"343 BCE","tags":["politicians"],"title":"Nectanebo II","url":"https://es.wikipedia.org/wiki/Nectanebo_II","language":"es","tier":0.5},
+{"id":"Q223134","kind":"person","start":-374.0,"startLabel":"≈375 BCE","end":-315.0,"endLabel":"316 BCE","tags":["politicians"],"title":"Olimpia de Epiro","url":"https://es.wikipedia.org/wiki/Olimpia_de_Epiro","language":"es","tier":0.5},
+{"id":"Q143559","kind":"person","start":-400.0,"startLabel":"401–500 BCE","end":-394.0,"endLabel":"395 BCE","tags":["politicians","military"],"title":"Lisandro","url":"https://es.wikipedia.org/wiki/Lisandro","language":"es","tier":0.5},
+{"id":"Q202113","kind":"person","start":-364.0,"startLabel":"365 BCE","end":-320.0,"endLabel":"321 BCE","tags":["politicians","military"],"title":"Pérdicas","url":"https://es.wikipedia.org/wiki/P%C3%A9rdicas_(general)","language":"es","tier":0.5},
+{"id":"Q312326","kind":"person","start":-360.0,"startLabel":"361 BCE","end":-288.0,"endLabel":"289 BCE","tags":["politicians","military"],"title":"Agatocles de Siracusa","url":"https://es.wikipedia.org/wiki/Agatocles","language":"es","tier":0.5},
+{"id":"Q207183","kind":"person","start":-354.0,"startLabel":"355 BCE","end":-295.0,"endLabel":"296 BCE","tags":["politicians","rulers"],"title":"Casandro de Macedonia","url":"https://es.wikipedia.org/wiki/Casandro_de_Macedonia","language":"es","tier":0.5},
+{"id":"Q295530","kind":"person","start":-358.0,"startLabel":"359 BCE","end":-315.26502732240436,"endLabel":"0317-10 BCE (Julian)","tags":["politicians"],"title":"Filipo III de Macedonia","url":"https://es.wikipedia.org/wiki/Filipo_III_de_Macedonia","language":"es","tier":0.5}
+]

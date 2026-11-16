@@ -1,0 +1,10 @@
+[
+{"id":"Q10133","kind":"person","start":70.0,"startLabel":"≈70","end":126.0,"endLabel":"≈126","tags":["writers","poetry","scientists","services","occupation-q5697103"],"title":"Gaio Svetonio Tranquillo","url":"https://it.wikipedia.org/wiki/Gaio_Svetonio_Tranquillo","language":"it","tier":0.5},
+{"id":"Q190368","kind":"person","start":95.0,"startLabel":"≈95","end":165.0,"endLabel":"≈165","tags":["writers","scientists","politicians","law"],"title":"Appiano di Alessandria","url":"https://it.wikipedia.org/wiki/Appiano_di_Alessandria","language":"it","tier":0.5},
+{"id":"Q193800","kind":"person","start":55.0,"startLabel":"55","end":200.0,"endLabel":"101–200","tags":["writers","poetry","scientists"],"title":"Decimo Giunio Giovenale","url":"https://it.wikipedia.org/wiki/Decimo_Giunio_Giovenale","language":"it","tier":0.5},
+{"id":"Q192371","kind":"person","start":69.0,"startLabel":"69","end":155.14246575342466,"endLabel":"0155-02-23 (Julian)","tags":["writers","religion"],"parent":"Q182603","title":"Policarpo di Smirne","url":"https://it.wikipedia.org/wiki/Policarpo_di_Smirne","language":"it","tier":0.5},
+{"id":"Q197206","kind":"person","start":78.0,"startLabel":"78","end":139.0,"endLabel":"139","tags":["writers","poetry","scientists","engineers","inventors","politicians","occupation-q4964182"],"title":"Zhang Heng","url":"https://it.wikipedia.org/wiki/Zhang_Heng","language":"it","tier":0.5},
+{"id":"Q31845","kind":"person","start":89.0,"startLabel":"≈89","end":175.0,"endLabel":"≈175","tags":["writers","scientists","politicians","military","occupation-q4964182"],"title":"Arriano","url":"https://it.wikipedia.org/wiki/Arriano","language":"it","tier":0.5},
+{"id":"Q183144","kind":"person","start":50.0,"startLabel":"≈50","end":138.0,"endLabel":"138","tags":["writers","occupation-q4964182"],"title":"Epitteto","url":"https://it.wikipedia.org/wiki/Epitteto","language":"it","tier":0.5},
+{"id":"Q312552","kind":"person","start":80.0,"startLabel":"80","end":150.0,"endLabel":"150","tags":["writers","poetry"],"title":"Aśvaghoṣa","url":"https://it.wikipedia.org/wiki/A%C5%9Bvagho%E1%B9%A3a","language":"it","tier":0.5}
+]

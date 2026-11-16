@@ -1,0 +1,4 @@
+[
+{"id":"Q235","kind":"event","point":1297.0383561643835,"pointLabel":"1297-01-08 (Julian)","tags":["states"],"title":"Mónaco","url":"https://pt.wikipedia.org/wiki/M%C3%B3naco","language":"pt","tier":0.5},
+{"id":"Q228","kind":"event","point":1278.0,"pointLabel":"1278","tags":["states"],"parent":"Q234963","title":"Andorra","url":"https://pt.wikipedia.org/wiki/Andorra","language":"pt","tier":0.5}
+]

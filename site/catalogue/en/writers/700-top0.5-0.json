@@ -1,0 +1,8 @@
+[
+{"id":"Q128307","kind":"person","start":706.0,"startLabel":"706","end":744.0,"endLabel":"744","tags":["writers","poetry","politicians"],"title":"Al-Walid II","url":"https://en.wikipedia.org/wiki/Al-Walid_II","language":"en","tier":0.5},
+{"id":"Q154332","kind":"person","start":724.0,"startLabel":"≈724","end":804.3907103825137,"endLabel":"0804-05-19 (Julian)","tags":["writers","poetry","religion","occupation-q4964182"],"title":"Alcuin","url":"https://en.wikipedia.org/wiki/Alcuin","language":"en","tier":0.5},
+{"id":"Q160424","kind":"person","start":720.0,"startLabel":"≈720","end":799.0,"endLabel":"≈799","tags":["writers","poetry","scientists","occupation-q2109894"],"title":"Paul the Deacon","url":"https://en.wikipedia.org/wiki/Paul_the_Deacon","language":"en","tier":0.5},
+{"id":"Q103314","kind":"person","start":700.0,"startLabel":"601–700","end":715.2794520547945,"endLabel":"0715-04-09 (Julian)","tags":["writers","religion"],"title":"Constantine","url":"https://en.wikipedia.org/wiki/Pope_Constantine","language":"en","tier":0.5},
+{"id":"Q256506","kind":"person","start":710.0,"startLabel":"710–719","end":801.0,"endLabel":"801","tags":["writers","poetry","occupation-q12328016","occupation-q4964182"],"title":"Rabia of Basri","url":"https://en.wikipedia.org/wiki/Rabia_of_Basra","language":"en","tier":0.5},
+{"id":"Q334847","kind":"person","start":704.0,"startLabel":"704","end":767.0,"endLabel":"767","tags":["writers","scientists"],"title":"Ibn Ishaq","url":"https://en.wikipedia.org/wiki/Ibn_Ishaq","language":"en","titles":{"ja":"イブン・イスハーク"},"tier":0.5}
+]

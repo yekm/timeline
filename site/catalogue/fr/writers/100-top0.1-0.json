@@ -1,0 +1,5 @@
+[
+{"id":"Q170512","kind":"person","start":125.0,"startLabel":"≈125","end":170.0,"endLabel":"≈170","tags":["writers","poetry","physicians","occupation-q361809","occupation-q4964182"],"title":"Apulée","url":"https://fr.wikipedia.org/wiki/Apul%C3%A9e","language":"fr","tier":0.1},
+{"id":"Q1430","kind":"person","start":121.31232876712329,"startLabel":"0121-04-26 (Julian)","end":180.20491803278688,"endLabel":"0180-03-17 (Julian)","tags":["writers","politicians","rulers","occupation-q4964182"],"parent":"Q193254","title":"Marc Aurèle","url":"https://fr.wikipedia.org/wiki/Marc_Aur%C3%A8le","language":"fr","tier":0.1},
+{"id":"Q34943","kind":"person","start":100.0,"startLabel":"≈100","end":170.0,"endLabel":"≈170","tags":["writers","poetry","scientists","occupation-q14915627","occupation-q155647","occupation-q16031530","occupation-q4964182"],"title":"Claude Ptolémée","url":"https://fr.wikipedia.org/wiki/Claude_Ptol%C3%A9m%C3%A9e","language":"fr","tier":0.1}
+]

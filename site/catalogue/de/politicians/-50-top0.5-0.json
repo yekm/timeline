@@ -1,0 +1,9 @@
+[
+{"id":"Q214765","kind":"person","start":-45.0,"startLabel":"≈46 BCE","end":9.0,"endLabel":"9","tags":["politicians","military"],"title":"Publius Quinctilius Varus","url":"https://de.wikipedia.org/wiki/Publius_Quinctilius_Varus","language":"de","tier":0.5},
+{"id":"Q156778","kind":"person","start":-36.964383561643835,"startLabel":"0038-01-14 BCE","end":-7.297814207650273,"endLabel":"0009-09-14 BCE","tags":["politicians","military"],"title":"Drusus","url":"https://de.wikipedia.org/wiki/Drusus","language":"de","tier":0.5},
+{"id":"Q229413","kind":"person","start":-13.0,"startLabel":"14 BCE","end":33.78904109589041,"endLabel":"0033-10-18 (Julian)","tags":["politicians"],"title":"Agrippina die Ältere","url":"https://de.wikipedia.org/wiki/Agrippina_die_%C3%84ltere","language":"de","tier":0.5},
+{"id":"Q39589","kind":"person","start":-45.53150684931507,"startLabel":"0047-06-23 BCE (Julian)","end":-29.0,"endLabel":"30 BCE","tags":["politicians"],"title":"Ptolemaios XV.","url":"https://de.wikipedia.org/wiki/Ptolemaios_XV.","language":"de","tier":0.5},
+{"id":"Q298162","kind":"person","start":-19.0,"startLabel":"20 BCE","end":4.133879781420765,"endLabel":"0004-02-21 (Julian)","tags":["politicians","military"],"title":"Gaius Caesar","url":"https://de.wikipedia.org/wiki/Gaius_Caesar","language":"de","tier":0.5},
+{"id":"Q192950","kind":"person","start":-19.0,"startLabel":"20 BCE","end":39.0,"endLabel":"39","tags":["politicians","rulers"],"title":"Herodes Antipas","url":"https://de.wikipedia.org/wiki/Herodes_Antipas","language":"de","tier":0.5},
+{"id":"Q7250","kind":"person","start":-44.0,"startLabel":"≈45 BCE","end":23.756164383561643,"endLabel":"0023-10-06 (Julian)","tags":["politicians"],"title":"Wang Mang","url":"https://de.wikipedia.org/wiki/Wang_Mang","language":"de","tier":0.5}
+]

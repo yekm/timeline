@@ -1,0 +1,10 @@
+[
+{"id":"Q9151911","kind":"person","start":1972.3715846994535,"startLabel":"1972-05-16","tags":["educators","politicians","law","occupation-q115088092","occupation-q185351"],"title":"Andrzej Duda","url":"https://en.wikipedia.org/wiki/Andrzej_Duda","language":"en","tier":0.1},
+{"id":"Q233984","kind":"person","start":1956.6639344262296,"startLabel":"1956-08-31","tags":["educators","politicians","law","occupation-q185351"],"parent":"Q22137460","title":"Tsai Ing-wen","url":"https://en.wikipedia.org/wiki/Tsai_Ing-wen","language":"en","tier":0.1},
+{"id":"Q34448","kind":"person","start":1956.8224043715848,"startLabel":"1956-10-28","tags":["educators","engineers","politicians"],"title":"Mahmoud Ahmadinejad","url":"https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad","language":"en","tier":0.1},
+{"id":"Q211239","kind":"person","start":1950.7698630136986,"startLabel":"1950-10-09","tags":["educators","activism"],"title":"Jody Williams","url":"https://en.wikipedia.org/wiki/Jody_Williams","language":"en","tier":0.1},
+{"id":"Q53844829","kind":"person","start":1964.6010928961748,"startLabel":"1964-08-08","tags":["educators","politicians","law","occupation-q115088092","occupation-q185351"],"title":"Giuseppe Conte","url":"https://en.wikipedia.org/wiki/Giuseppe_Conte","language":"en","tier":0.1},
+{"id":"Q9685","kind":"person","start":1961.495890410959,"startLabel":"1961-07-01","end":1997.66301369863,"endLabel":"1997-08-31","tags":["educators","politicians","activism","occupation-q512314"],"parent":"Q114783720","title":"Diana, Princess of Wales","url":"https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales","language":"en","tier":0.1},
+{"id":"Q3442375","kind":"person","start":1954.027397260274,"startLabel":"1954-01-11","tags":["educators","engineers","activism","occupation-q115088092"],"title":"Kailash Satyarthi","url":"https://en.wikipedia.org/wiki/Kailash_Satyarthi","language":"en","tier":0.1},
+{"id":"Q2642828","kind":"person","start":1959.2493150684932,"startLabel":"1959-04-02","tags":["educators","politicians","law"],"title":"Alberto Fernández","url":"https://en.wikipedia.org/wiki/Alberto_Fern%C3%A1ndez","language":"en","tier":0.1}
+]

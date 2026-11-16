@@ -1,0 +1,5 @@
+[
+{"id":"Q1436","kind":"person","start":126.57808219178082,"startLabel":"0126-08-01 (Julian)","end":193.23287671232876,"endLabel":"0193-03-28 (Julian)","tags":["politicians","military"],"title":"Pertinax","url":"https://es.wikipedia.org/wiki/Pertinax","language":"es","tier":0.1},
+{"id":"Q1440","kind":"person","start":133.07671232876712,"startLabel":"0133-01-30 (Julian)","end":193.41095890410958,"endLabel":"0193-06-01 (Julian)","tags":["politicians","military"],"title":"Didio Juliano","url":"https://es.wikipedia.org/wiki/Didio_Juliano","language":"es","tier":0.1},
+{"id":"Q1442","kind":"person","start":146.27123287671233,"startLabel":"0146-04-11 (Julian)","end":211.09315068493152,"endLabel":"0211-02-04 (Julian)","tags":["politicians","rulers","military"],"title":"Septimio Severo","url":"https://es.wikipedia.org/wiki/Septimio_Severo","language":"es","tier":0.1}
+]

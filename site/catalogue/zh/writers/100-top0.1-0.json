@@ -1,0 +1,5 @@
+[
+{"id":"Q170512","kind":"person","start":125.0,"startLabel":"≈125","end":170.0,"endLabel":"≈170","tags":["writers","poetry","physicians","occupation-q361809","occupation-q4964182"],"title":"阿普列尤斯","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E6%99%AE%E5%88%97%E5%B0%A4%E6%96%AF","language":"zh","tier":0.1},
+{"id":"Q1430","kind":"person","start":121.31232876712329,"startLabel":"0121-04-26 (Julian)","end":180.20491803278688,"endLabel":"0180-03-17 (Julian)","tags":["writers","politicians","rulers","occupation-q4964182"],"parent":"Q193254","title":"馬爾庫斯·奧列里烏斯","url":"https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%88%BE%E5%BA%AB%E6%96%AF%C2%B7%E5%A5%A7%E5%88%97%E9%87%8C%E7%83%8F%E6%96%AF","language":"zh","tier":0.1},
+{"id":"Q34943","kind":"person","start":100.0,"startLabel":"≈100","end":170.0,"endLabel":"≈170","tags":["writers","poetry","scientists","occupation-q14915627","occupation-q155647","occupation-q16031530","occupation-q4964182"],"title":"克劳狄乌斯·托勒密","url":"https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF%C2%B7%E6%89%98%E5%8B%92%E5%AF%86","language":"zh","tier":0.1}
+]

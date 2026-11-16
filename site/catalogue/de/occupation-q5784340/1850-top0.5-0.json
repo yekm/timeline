@@ -1,0 +1,4 @@
+[
+{"id":"Q50926","kind":"person","start":1892.3524590163934,"startLabel":"1892-05-09","end":1989.1972602739727,"endLabel":"1989-03-14","tags":["occupation-q5784340"],"parent":"Q63195502","title":"Kaiserin Zita von Österreich","url":"https://de.wikipedia.org/wiki/Zita_von_Bourbon-Parma","language":"de","tier":0.5},
+{"id":"Q154423","kind":"person","start":1869.9013698630138,"startLabel":"1869-11-26","end":1938.8849315068494,"endLabel":"1938-11-20","tags":["occupation-q5784340"],"parent":"Q63195435","title":"Maud von Großbritannien und Irland","url":"https://de.wikipedia.org/wiki/Maud_von_Gro%C3%9Fbritannien_und_Irland","language":"de","tier":0.5}
+]

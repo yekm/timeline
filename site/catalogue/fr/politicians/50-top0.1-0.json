@@ -1,0 +1,5 @@
+[
+{"id":"Q1425","kind":"person","start":53.706849315068496,"startLabel":"0053-09-18 (Julian)","end":117.57808219178082,"endLabel":"0117-08 (Julian)","tags":["politicians","military"],"parent":"Q193254","title":"Trajan","url":"https://fr.wikipedia.org/wiki/Trajan","language":"fr","tier":0.1},
+{"id":"Q1423","kind":"person","start":51.8054794520548,"startLabel":"0051-10-24 (Julian)","end":96.70765027322405,"endLabel":"0096-09-18 (Julian)","tags":["politicians"],"title":"Domitien","url":"https://fr.wikipedia.org/wiki/Domitien","language":"fr","tier":0.1},
+{"id":"Q1429","kind":"person","start":86.7095890410959,"startLabel":"0086-09-19 (Julian)","end":161.17534246575343,"endLabel":"0161-03-07 (Julian)","tags":["politicians"],"parent":"Q193254","title":"Antonin le Pieux","url":"https://fr.wikipedia.org/wiki/Antonin_le_Pieux","language":"fr","tier":0.1}
+]

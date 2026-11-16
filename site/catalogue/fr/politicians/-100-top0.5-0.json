@@ -1,0 +1,12 @@
+[
+{"id":"Q309869","kind":"person","start":-89.0,"startLabel":"90–99 BCE","end":-43.0,"endLabel":"44 BCE","tags":["politicians","rulers"],"title":"Burebista","url":"https://fr.wikipedia.org/wiki/Burebista","language":"fr","tier":0.5},
+{"id":"Q40017","kind":"person","start":-58.0,"startLabel":"59 BCE","end":-43.0,"endLabel":"44 BCE","tags":["politicians"],"title":"Ptolémée XIV","url":"https://fr.wikipedia.org/wiki/Ptol%C3%A9m%C3%A9e_XIV","language":"fr","tier":0.5},
+{"id":"Q105452","kind":"person","start":-89.0,"startLabel":"≈90 BCE","end":-12.0,"endLabel":"13 BCE","tags":["politicians","military"],"title":"Lépide","url":"https://fr.wikipedia.org/wiki/L%C3%A9pide","language":"fr","tier":0.5},
+{"id":"Q297763","kind":"person","end":-87.0,"endLabel":"88 BCE","tags":["politicians"],"title":"Mithridate II de Parthie","url":"https://fr.wikipedia.org/wiki/Mithridate_II_de_Parthie","language":"fr","tier":0.5},
+{"id":"Q469701","kind":"person","start":-57.92602739726028,"startLabel":"0059-01-30 BCE (Julian)","end":29.73972602739726,"endLabel":"0029-09-28","tags":["politicians"],"title":"Livie","url":"https://fr.wikipedia.org/wiki/Livie","language":"fr","tier":0.5},
+{"id":"Q40022","kind":"person","start":-76.0,"startLabel":"77 BCE","end":-54.0,"endLabel":"55 BCE","tags":["politicians"],"title":"Bérénice IV","url":"https://fr.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_IV","language":"fr","tier":0.5},
+{"id":"Q178953","kind":"person","start":-79.0,"startLabel":"≈80 BCE","end":-45.0,"endLabel":"46 BCE","tags":["politicians","military"],"title":"Vercingétorix","url":"https://fr.wikipedia.org/wiki/Vercing%C3%A9torix","language":"fr","tier":0.5},
+{"id":"Q314850","kind":"person","start":-68.0,"startLabel":"69 BCE","end":70.52602739726028,"endLabel":"0070-07-14 (Julian)","tags":["politicians"],"title":"Suinin","url":"https://fr.wikipedia.org/wiki/Suinin","language":"fr","tier":0.5},
+{"id":"Q39938","kind":"person","start":-61.0,"startLabel":"62 BCE","end":-46.0,"endLabel":"47 BCE","tags":["politicians"],"title":"Ptolémée XIII","url":"https://fr.wikipedia.org/wiki/Ptol%C3%A9m%C3%A9e_XIII","language":"fr","tier":0.5},
+{"id":"Q207370","kind":"person","start":-81.0,"startLabel":"≈82 BCE","end":-41.0,"endLabel":"42 BCE","tags":["politicians","military"],"title":"Caius Cassius Longinus","url":"https://fr.wikipedia.org/wiki/Caius_Cassius_Longinus_(tribun_de_la_pl%C3%A8be)","language":"fr","tier":0.5}
+]

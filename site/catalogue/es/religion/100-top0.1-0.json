@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"Higinio","url":"https://es.wikipedia.org/wiki/Higinio","language":"es","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"Aniceto","url":"https://es.wikipedia.org/wiki/Aniceto","language":"es","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"Evaristo","url":"https://es.wikipedia.org/wiki/Evaristo","language":"es","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"María Magdalena","url":"https://es.wikipedia.org/wiki/Mar%C3%ADa_Magdalena","language":"es","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"Telésforo","url":"https://es.wikipedia.org/wiki/Telesforo_(papa)","language":"es","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"Clemente de Roma","url":"https://es.wikipedia.org/wiki/Clemente_de_Roma","language":"es","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"Alejandro I","url":"https://es.wikipedia.org/wiki/Alejandro_I_(papa)","language":"es","tier":0.1}
+]

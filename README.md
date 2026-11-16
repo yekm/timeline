@@ -1,48 +1,64 @@
-# Атлас времени
+# Atlas of Time
 
-Статическая хронология с тремя обзорными шкалами и одной рабочей. Обзоры ведут от геологических эонов к выбранному диапазону. На основной шкале биографии, исторические события и эпохи можно сравнивать по времени.
+Atlas of Time is an interactive timeline for comparing biographies, historical events, and eras from the formation of Earth to the present. The site runs entirely in the browser.
 
-## Запуск
+## Run locally
+
+From the repository root, start a local HTTP server with Python 3.10 or later.
 
 ```sh
 python3 -m http.server 8000 --bind 127.0.0.1 --directory site
 ```
 
-Откройте [локальный атлас](http://127.0.0.1:8000/). Приложению нужен HTTP для загрузки JSON и ES-модулей. Встроенная небольшая подборка доступна сразу. При наличии `site/data/manifest.json` сайт использует выгруженный каталог.
+Open the [local Atlas of Time](http://127.0.0.1:8000/). The browser loads `site/data` when a local catalogue is present. Otherwise it loads the bundled catalogue in `site/catalogue`.
 
-- Кнопка **Шкалы** рядом со **Слоями** показывает или скрывает три обзорные шкалы. Клик по верхней шкале выбирает период.
-- На двух нижних обзорах можно передвигать выделение и менять его размер за ручки.
-- На основной шкале колесо приближает и отдаляет. Перетаскивание и `Shift` + колесо сдвигают время. Вертикальная полоса прокрутки открывает дополнительные дорожки.
-- Дерево слева включает категории. При открытии сайт выбирает первый доступный язык из настроек браузера, а при отсутствии совпадений использует английский. Язык можно сменить вручную. Записи выбранного языка дополняют английские по QID. При отсутствии местной статьи используется ссылка на английскую Википедию.
-- Фильтр известности показывает примерно 0,1%, 0,5%, 1%, 10% или все записи. Рядом с каждым порогом указано число уникальных статей во всём каталоге. В полном каталоге по умолчанию выбран топ 0,1%.
+- Use **Layers** to choose categories and **Overview** to show the three overview scales. Click the top scale to choose a period. Drag the selection or its handles on the two lower scales to adjust the range.
+- On the main timeline, scroll to zoom, drag or hold `Shift` and scroll to move across time, and use the vertical scrollbar for more rows. **Reset view** returns to the starting range.
+- The catalogue language initially follows the first supported browser preference, with English as the fallback. You can also select a language manually. If an entry has no article in the selected language, its English Wikipedia link is used when available.
 
-## Выгрузка из Wikidata
+## Build the full catalogue locally
 
-Нужен Python 3.10 или новее со стандартной библиотекой. Дамп можно оставить на отдельном диске и передать путь или ссылку на него.
+Download the [latest Wikidata JSON dump](https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.gz). To use the snapshot included in the bundled catalogue, follow the archived `wikidata-20240101-all.json.gz` link in the [Wikidata download documentation](https://www.wikidata.org/wiki/Wikidata:Database_download#JSON_dumps_(recommended)). The dump is large. Keep the compressed file wherever you have space and pass its path to the scanner.
+
+The scanner and exporter use Python 3.10 or later and its standard library. Run these commands from the repository root, substituting your dump path.
 
 ```sh
-python3 importer/scan.py wikidata-20240101-all.json.gz build/wikidata.sqlite
-python3 importer/export.py build/wikidata.sqlite site/data --languages en ru
+python3 importer/scan.py /path/to/latest-all.json.gz build/wikidata.sqlite
+python3 importer/export.py build/wikidata.sqlite site/data \
+  --languages en ru de fr es pt it ja zh ar --page-budget-mb 4000
 ```
 
-Первый шаг читает gzip потоком и сохраняет в SQLite только поля каталога и связи классов. Полный проход по архиву может занять несколько часов. Программа сообщает прогресс и публикует базу после успешного чтения до конца. Категории и языковые наборы можно пересобирать из готовой базы. `importer/categories.json` задаёт ветки дерева, профессии, классы событий и подборку ключевых событий. Для неизвестных профессий экспортёр создаёт ветки с названиями из Wikidata.
+The scanner reads gzip directly and builds a SQLite database of catalogue fields and class relationships. Scanning the full dump can take several hours. Reuse `build/wikidata.sqlite` to export again with different languages or category rules without rescanning the dump.
 
-Второй шаг записывает JSON-фрагменты по языку, категории, времени и уровню известности. Оценка записи равна числу языковых разделов Википедии, где есть связанная статья. Экспортёр рассчитывает пороги отдельно для биографий и событий по всему экспортируемому набору. Записи с одинаковой оценкой остаются в одном уровне, поэтому фактические доли могут отличаться от указанных. Манифест содержит пороги и числа записей. [Языковые ссылки Wikidata](https://www.wikidata.org/wiki/Help:Sitelinks)
+The exporter writes all cutoffs through 100% to `site/data`. Reload the local site to use the full catalogue. `--languages` sets the language editions to include, with English always included. Changing the language set can change the eligible entries and the cutoff counts. `--page-budget-mb` sets the generated catalogue size limit. The command raises it for local use with multiple languages.
 
-У фрагмента есть фактические границы записей, поэтому интервал доступен при прокрутке через любое пересекающее его окно. Английский входит в выгрузку всегда. Переключатель каталога предлагает языки из `--languages`. Для проверки на небольшом объёме используйте отдельную базу и каталог:
+For a quick test on a smaller input, scan a partial database and export it to a separate directory.
 
 ```sh
-python3 importer/scan.py wikidata-20240101-all.json.gz build/sample.sqlite --limit 10000
+python3 importer/scan.py /path/to/latest-all.json.gz build/sample.sqlite --limit 10000
 python3 importer/export.py build/sample.sqlite build/sample-data --allow-partial
 ```
 
-## GitHub Pages
+## How popularity is ranked
 
-В репозитории на GitHub выберите **Settings → Pages → Source → GitHub Actions**. Запустите workflow **Deploy to GitHub Pages** с ветки `master`. Он публикует только каталог `site/`. Для публикации полной выгрузки добавьте в коммит сгенерированные JSON-файлы `site/data/`. Исходные архивы и локальная SQLite-база исключены правилами `.gitignore`.
+Each entry is scored by how many language editions of Wikipedia have an article linked to the same Wikidata item. The exporter ranks people and events separately and keeps articles with the same score together, so the percentages are approximate. The numbers next to the cutoffs are cumulative counts of unique entries in the catalogue before layer and date filters. [Wikidata sitelinks documentation](https://www.wikidata.org/wiki/Help:Sitelinks)
 
-Экспортёр по умолчанию проверяет лимит в 900 МБ для каталога, оставляя запас до лимита GitHub Pages. Если выгрузка больше, можно собрать меньше языков. Для другого хостинга бюджет задаётся через `--page-budget-mb`. [Лимиты GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
+The bundled catalogue contains the top 0.1% and 0.5% for English, Russian, German, French, Spanish, Portuguese, Italian, Japanese, Chinese, and Arabic. On GitHub Pages, selecting 1%, 10%, or 100% shows a notice linking to the local build instructions above.
 
-## Источники данных
+## Update the bundled catalogue and deploy
 
-- Биографии, события, подписи и ссылки берутся из структурированных данных Wikidata под CC0. Демокаталог — небольшая подборка из публичного Wikidata. [Лицензирование Wikidata](https://www.wikidata.org/wiki/Wikidata:Licensing)
-- Геологические границы взяты из Международной стратиграфической шкалы ICS от июня 2026 года. Исторические границы в стартовом каталоге ориентировочные. Они могут различаться по регионам. [Таблица ICS](https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf)
+Rebuild the compact catalogue from the same SQLite database.
+
+```sh
+python3 importer/export.py build/wikidata.sqlite site/catalogue \
+  --languages en ru de fr es pt it ja zh ar --max-tier 0.5
+```
+
+Commit the generated `site/catalogue` files when updating the bundled data. Git ignores local dumps, SQLite databases, and the full catalogue in `site/data`.
+
+In the [GitHub repository](https://github.com/yekm/timeline), select **Settings → Pages → Source → GitHub Actions**. Run **Deploy to GitHub Pages** from `master` to publish `site/` to [yekm.github.io/timeline](https://yekm.github.io/timeline/).
+
+## Data sources
+
+- Biographies, events, labels, and article links come from Wikidata. The structured data is available under CC0. [Wikidata licensing](https://www.wikidata.org/wiki/Wikidata:Licensing)
+- Geological boundaries follow the June 2026 International Chronostratigraphic Chart. Historical era boundaries in the timeline are approximate and can vary by region. [International Commission on Stratigraphy chart](https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf)

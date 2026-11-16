@@ -1,0 +1,7 @@
+[
+{"id":"Q104205","kind":"person","start":780.0,"startLabel":"≈780","end":827.6630136986302,"endLabel":"0827-08-27 (Julian)","tags":["religion"],"title":"Eugen II.","url":"https://de.wikipedia.org/wiki/Eugen_II.","language":"de","tier":0.1},
+{"id":"Q193854","kind":"person","start":770.0,"startLabel":"≈770","end":817.0739726027397,"endLabel":"0817-01-24 (Julian)","tags":["religion"],"title":"Stephan IV.","url":"https://de.wikipedia.org/wiki/Stephan_IV._(Papst)","language":"de","tier":0.1},
+{"id":"Q168733","kind":"person","start":780.0,"startLabel":"≈780","end":827.7835616438356,"endLabel":"0827-10-10 (Julian)","tags":["religion"],"title":"Valentin","url":"https://de.wikipedia.org/wiki/Valentin_(Papst)","language":"de","tier":0.1},
+{"id":"Q228644","kind":"person","start":790.0,"startLabel":"≈790","end":847.082191780822,"endLabel":"0847-01-27 (Julian)","tags":["religion"],"title":"Sergius II.","url":"https://de.wikipedia.org/wiki/Sergius_II.","language":"de","tier":0.1},
+{"id":"Q173995","kind":"person","start":792.0,"startLabel":"792","end":872.9617486338798,"endLabel":"0872-12-14 (Julian)","tags":["religion"],"title":"Hadrian II.","url":"https://de.wikipedia.org/wiki/Hadrian_II.","language":"de","tier":0.1}
+]

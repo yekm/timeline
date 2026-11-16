@@ -1,0 +1,7 @@
+[
+{"id":"Q47144","kind":"person","start":10.0,"startLabel":"10","end":79.0,"endLabel":"79","tags":["religion"],"title":"Lin","url":"https://fr.wikipedia.org/wiki/Lin_(pape)","language":"fr","tier":0.1},
+{"id":"Q81634","kind":"person","start":42.0,"startLabel":"≈42","end":126.0,"endLabel":"120–129","tags":["religion"],"title":"Sixte Ier","url":"https://fr.wikipedia.org/wiki/Sixte_Ier","language":"fr","tier":0.1},
+{"id":"Q31966","kind":"person","start":12.0,"startLabel":"≈12","end":68.30874316939891,"endLabel":"0068-04-25 (Julian)","tags":["religion"],"parent":"Q472773","title":"Marc","url":"https://fr.wikipedia.org/wiki/Marc_(%C3%A9vang%C3%A9liste)","language":"fr","tier":0.1},
+{"id":"Q33923","kind":"person","start":0.0,"startLabel":"1 BCE","end":65.0,"endLabel":"≈65","tags":["religion","agriculture"],"parent":"Q4155679","title":"Pierre","url":"https://fr.wikipedia.org/wiki/Pierre_(ap%C3%B4tre)","language":"fr","tier":0.1},
+{"id":"Q80450","kind":"person","start":25.0,"startLabel":"≈25","end":90.0,"endLabel":"90–99","tags":["religion"],"title":"Anaclet","url":"https://fr.wikipedia.org/wiki/Anaclet","language":"fr","tier":0.1}
+]

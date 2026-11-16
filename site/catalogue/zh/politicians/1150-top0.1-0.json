@@ -1,0 +1,5 @@
+[
+{"id":"Q7519","kind":"person","start":1186.868493150685,"startLabel":"≈1186-11-07 (Julian)","end":1241.9616438356165,"endLabel":"1241-12-11 (Julian)","tags":["politicians","rulers"],"title":"窝阔台","url":"https://zh.wikipedia.org/wiki/%E7%AA%9D%E9%98%94%E5%8F%B0","language":"zh","tier":0.1},
+{"id":"Q129308","kind":"person","start":1166.9972602739726,"startLabel":"1166-12-24 (Julian)","end":1216.8169398907103,"endLabel":"1216-10-19 (Julian)","tags":["politicians","rulers"],"title":"约翰","url":"https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0_(%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%9B%BD%E7%8E%8B)","language":"zh","tier":0.1},
+{"id":"Q720","kind":"person","start":1162.4301369863015,"startLabel":"≈1162-05-31 (Julian)","end":1227.6465753424657,"endLabel":"1227-08-18 (Julian)","tags":["politicians","rulers","military"],"title":"成吉思汗","url":"https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97","language":"zh","tier":0.1}
+]

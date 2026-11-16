@@ -1,0 +1,5 @@
+[
+{"id":"Q43915","kind":"person","start":912.9071038251366,"startLabel":"0912-11-23 (Julian)","end":973.358904109589,"endLabel":"0973-05-07 (Julian)","tags":["politicians"],"title":"Otto I.","url":"https://de.wikipedia.org/wiki/Otto_I._(HRR)","language":"de","tier":0.1},
+{"id":"Q159575","kind":"person","start":940.0,"startLabel":"940","end":996.8251366120219,"endLabel":"0996-10-24 (Julian)","tags":["politicians"],"title":"Hugo Capet","url":"https://de.wikipedia.org/wiki/Hugo_Capet","language":"de","tier":0.1},
+{"id":"Q172404","kind":"person","end":905.0,"endLabel":"905","tags":["politicians","religion"],"title":"Leo V.","url":"https://de.wikipedia.org/wiki/Leo_V._(Papst)","language":"de","tier":0.1}
+]

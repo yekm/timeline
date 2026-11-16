@@ -1,0 +1,4 @@
+[
+{"id":"Q37562","kind":"person","start":1386.0,"startLabel":"1386","end":1466.9479452054795,"endLabel":"1466-12-13","tags":["painters","sculptors","trades"],"title":"Donatello","url":"https://en.wikipedia.org/wiki/Donatello","language":"en","tier":0.1},
+{"id":"Q102272","kind":"person","start":1390.0,"startLabel":"≈1390","end":1441.5424657534247,"endLabel":"1441-07-09 (Julian)","tags":["painters","architecture","visual-media","trades","occupation-q15296811"],"parent":"Q77577637","title":"Jan van Eyck","url":"https://en.wikipedia.org/wiki/Jan_van_Eyck","language":"en","tier":0.1}
+]

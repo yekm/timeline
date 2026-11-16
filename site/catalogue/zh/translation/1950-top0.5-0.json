@@ -1,0 +1,5 @@
+[
+{"id":"Q15299239","kind":"person","start":1956.1939890710382,"startLabel":"1956-03-12","tags":["translation","educators"],"title":"约斯特·吉佩特","url":"https://zh.wikipedia.org/wiki/%E7%BA%A6%E6%96%AF%E7%89%B9%C2%B7%E5%90%89%E4%BD%A9%E7%89%B9","language":"zh","tier":0.5},
+{"id":"Q92597","kind":"person","start":1954.7369863013698,"startLabel":"1954-09-27","tags":["translation","programmers","engineers","occupation-q82594"],"title":"拉里·沃尔","url":"https://zh.wikipedia.org/wiki/%E6%8B%89%E9%87%8C%C2%B7%E6%B2%83%E5%B0%94","language":"zh","tier":0.5},
+{"id":"Q19216","kind":"person","start":1950.5287671232877,"startLabel":"1950-07-13","tags":["translation","politicians","law","occupation-q185351","occupation-q9352089"],"parent":"Q26345277","title":"馬英九","url":"https://zh.wikipedia.org/wiki/%E9%A6%AC%E8%8B%B1%E4%B9%9D","language":"zh","tier":0.5}
+]

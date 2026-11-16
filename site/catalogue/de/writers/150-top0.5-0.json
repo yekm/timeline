@@ -1,0 +1,10 @@
+[
+{"id":"Q174929","kind":"person","start":160.0,"startLabel":"≈160","end":240.0,"endLabel":"≈240","tags":["writers","religion","occupation-q4964182"],"title":"Tertullian","url":"https://de.wikipedia.org/wiki/Tertullian","language":"de","tier":0.5},
+{"id":"Q207113","kind":"person","start":170.0,"startLabel":"≈170","end":235.0,"endLabel":"235","tags":["writers","religion"],"title":"Hippolyt von Rom","url":"https://de.wikipedia.org/wiki/Hippolyt_von_Rom","language":"de","tier":0.5},
+{"id":"Q294923","kind":"person","start":170.0,"startLabel":"≈170","end":223.0,"endLabel":"223","tags":["writers","poetry","occupation-q12859263"],"title":"Athenaios","url":"https://de.wikipedia.org/wiki/Athenaios","language":"de","tier":0.5},
+{"id":"Q204077","kind":"person","start":155.0,"startLabel":"155","end":220.0,"endLabel":"220","tags":["writers","poetry","politicians","military"],"title":"Cao Cao","url":"https://de.wikipedia.org/wiki/Cao_Cao","language":"de","tier":0.5},
+{"id":"Q313333","kind":"person","start":187.4027397260274,"startLabel":"0187-05-29 (Julian)","end":226.4904109589041,"endLabel":"0226-06-29 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"Cao Pi","url":"https://de.wikipedia.org/wiki/Cao_Pi","language":"de","tier":0.5},
+{"id":"Q59138","kind":"person","start":180.0,"startLabel":"180","end":240.0,"endLabel":"240","tags":["writers","poetry","scientists","occupation-q4964182"],"title":"Diogenes Laertios","url":"https://de.wikipedia.org/wiki/Diogenes_Laertios","language":"de","tier":0.5},
+{"id":"Q170472","kind":"person","start":185.0,"startLabel":"185","end":254.0,"endLabel":"254","tags":["writers","translation","religion","occupation-q4964182"],"title":"Origenes","url":"https://de.wikipedia.org/wiki/Origenes","language":"de","tier":0.5},
+{"id":"Q188883","kind":"person","start":150.0,"startLabel":"≈150","end":215.0,"endLabel":"≈215","tags":["writers","religion","occupation-q4964182"],"title":"Clemens von Alexandria","url":"https://de.wikipedia.org/wiki/Clemens_von_Alexandria","language":"de","tier":0.5}
+]

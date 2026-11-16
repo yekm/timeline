@@ -4,26 +4,28 @@ const copy = {
   en: {
     language: 'Catalogue language', title: 'Atlas of Time',
     ranking: 'Article notability', top: 'Top', showAll: 'All (100%)',
-    rankingHint: 'People and events are ranked separately by how many Wikipedia language editions cover them. Tied articles stay together. Counts cover the entire catalogue at each cutoff.',
+    rankingHint: 'The ranking counts how many Wikipedia language editions have an article about each person or event. People and events are ranked separately, and ties stay together. Counts cover the entire catalogue at each cutoff.',
     catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', overviews: 'Overview', filterHint: 'Choose what appears on the timeline.',
     clear: 'Clear', visibleRange: 'VISIBLE RANGE', reset: 'Reset view', retry: 'Retry',
     gestures: 'Wheel to zoom · Drag or Shift + wheel to pan', footer: 'A timeline built from linked open data.',
-    demo: 'Demo catalogue', snapshot: 'Wikidata snapshot', sample: 'Partial snapshot', selected: 'Layers enabled',
+    snapshot: 'Wikidata snapshot', sample: 'Partial snapshot', selected: 'Layers enabled',
     loading: 'Loading catalogue…', choose: 'Choose a layer to display entries.',
     empty: 'No matching entries in this range.', rankedEmpty: 'No entries in this range at the selected cutoff.', visible: 'Entries in range',
+    cutoffUnavailable: 'This cutoff requires the full local catalogue.', catalogueGuide: 'Instructions in the README',
     partial: 'Some data could not be loaded.', unavailable: 'The catalogue could not be loaded.',
     expand: 'Expand', collapse: 'Collapse', bce: 'BCE', million: 'Ma', billion: 'Ga',
   },
   ru: {
     language: 'Язык каталога', title: 'Атлас времени',
     ranking: 'Известность статей', top: 'Топ', showAll: 'Все (100%)',
-    rankingHint: 'Люди и события ранжируются отдельно по числу языковых версий Википедии. Записи с одинаковым числом не разделяются. Число рядом с порогом учитывает весь каталог.',
+    rankingHint: 'Рейтинг учитывает, в скольких языковых разделах Википедии есть статья о человеке или событии. Люди и события ранжируются отдельно, записи с одинаковым числом не разделяются. Число рядом с порогом учитывает весь каталог.',
     catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', overviews: 'Шкалы', filterHint: 'Выберите данные для отображения на шкале.',
     clear: 'Сбросить', visibleRange: 'ВИДИМЫЙ ПЕРИОД', reset: 'Сбросить вид', retry: 'Повторить',
     gestures: 'Колесо — зум · Перетаскивание или Shift + колесо — сдвиг', footer: 'Хронология на основе открытых связанных данных.',
-    demo: 'Демокаталог', snapshot: 'Снимок Wikidata', sample: 'Часть снимка', selected: 'Включено слоёв',
+    snapshot: 'Снимок Wikidata', sample: 'Часть снимка', selected: 'Включено слоёв',
     loading: 'Загрузка каталога…', choose: 'Выберите слой, чтобы увидеть записи.',
     empty: 'В выбранном диапазоне записей нет.', rankedEmpty: 'В этом диапазоне нет записей с выбранным порогом.', visible: 'Записей в диапазоне',
+    cutoffUnavailable: 'Для выбранного порога нужен полный локальный каталог.', catalogueGuide: 'Инструкция в README',
     partial: 'Часть данных не удалось загрузить.', unavailable: 'Каталог не удалось загрузить.',
     expand: 'Раскрыть', collapse: 'Свернуть', bce: 'до н. э.', million: 'млн лет назад', billion: 'млрд лет назад',
   },
@@ -32,6 +34,7 @@ const copy = {
 const tree = document.getElementById('category-tree');
 const rangeLabel = document.getElementById('range-label');
 const status = document.getElementById('data-status');
+const catalogueGuide = document.getElementById('catalogue-guide');
 const retry = document.getElementById('retry-load');
 const select = document.getElementById('language');
 const rankingControl = document.getElementById('ranking-control');
@@ -62,7 +65,6 @@ let manifest;
 let manifestURL;
 let epochs = [];
 let ready = false;
-let usingDemo = false;
 let interacted = false;
 let request = 0;
 let timer;
@@ -119,6 +121,10 @@ function rankingLabel(tier) {
   return `${label} · ${number(counts.reduce((total, count) => total + count, 0))}`;
 }
 
+function cutoffAvailable(tier) {
+  return manifest.ranking?.availableTiers?.includes(tier) ?? true;
+}
+
 function formatYear(value) {
   const elapsed = 1 - value;
   if (elapsed >= 1e9) return `${number(elapsed / 1e9, { maximumFractionDigits: 2 })} ${strings().billion}`;
@@ -133,10 +139,11 @@ function updateRangeLabel() {
   rangeLabel.textContent = start === end ? start : `${start} — ${end}`;
 }
 
-function setStatus(message, error = false) {
+function setStatus(message, { error = false, showGuide = false } = {}) {
   if (status.textContent !== message) status.textContent = message;
   status.toggleAttribute('data-error', error);
   retry.hidden = !error;
+  catalogueGuide.hidden = !showGuide;
 }
 
 function showSidebar(visible) {
@@ -172,8 +179,7 @@ async function loadManifest() {
     manifest = await fetchJSON(manifestURL);
   } catch (error) {
     if (error.status !== 404) throw error;
-    usingDemo = true;
-    manifestURL = new URL('./demo/manifest.json', import.meta.url);
+    manifestURL = new URL('./catalogue/manifest.json', import.meta.url);
     manifest = await fetchJSON(manifestURL);
   }
   if (manifest.version !== 1 || !Array.isArray(manifest.categories) || !Array.isArray(manifest.languages)) {
@@ -238,6 +244,11 @@ async function itemsFor(active, window, locale, limit) {
 function queueLoad(delay = 0) {
   clearTimeout(timer);
   const id = ++request;
+  if (!cutoffAvailable(cutoff)) {
+    timeline.setItems([]);
+    setStatus(strings().cutoffUnavailable, { showGuide: true });
+    return;
+  }
   if (!selected.size) {
     timeline.setItems([]);
     setStatus(strings().choose);
@@ -255,11 +266,11 @@ function queueLoad(delay = 0) {
       timeline.setItems(items);
       const emptyMessage = limit < 100 ? strings().rankedEmpty : strings().empty;
       const message = items.length ? `${strings().visible} ${number(items.length)}` : emptyMessage;
-      setStatus(failed ? `${strings().partial}${items.length ? ` ${message}` : ''}` : message, failed);
+      setStatus(failed ? `${strings().partial}${items.length ? ` ${message}` : ''}` : message, { error: failed });
     } catch (error) {
       if (id !== request) return;
       console.error(error);
-      setStatus(strings().unavailable, true);
+      setStatus(strings().unavailable, { error: true });
     }
   }, delay);
 }
@@ -400,7 +411,7 @@ function updateLanguage() {
   }
   rankingSelect.title = strings().rankingHint;
   const snapshotLabel = manifest.partial ? strings().sample : strings().snapshot;
-  datasetLabel.textContent = usingDemo ? strings().demo : `${snapshotLabel}${manifest.snapshot ? ` ${manifest.snapshot}` : ''}`;
+  datasetLabel.textContent = `${snapshotLabel}${manifest.snapshot ? ` ${manifest.snapshot}` : ''}`;
   datasetLabel.hidden = false;
   timeline.setLanguage(language);
   timeline.setEpochs(localEpochs());
@@ -475,8 +486,9 @@ async function start() {
     await loadManifest();
     if (manifest.ranking) {
       const tiers = manifest.ranking.tiers ?? [1, 5, 10, 100];
-      const defaultTier = manifest.ranking.default ?? (usingDemo ? 100 : tiers[0]);
-      cutoff = tiers.includes(defaultTier) ? defaultTier : tiers[0];
+      const defaultTier = manifest.ranking.default ?? tiers[0];
+      cutoff = tiers.includes(defaultTier) && cutoffAvailable(defaultTier)
+        ? defaultTier : tiers.find(cutoffAvailable) ?? tiers[0];
       rankingSelect.replaceChildren(...tiers.map((tier) => new Option('', String(tier))));
       rankingSelect.value = String(cutoff);
       rankingControl.hidden = false;
@@ -509,7 +521,7 @@ async function start() {
     queueLoad();
   } catch (error) {
     console.error(error);
-    setStatus(strings().unavailable, true);
+    setStatus(strings().unavailable, { error: true });
   }
 }
 

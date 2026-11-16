@@ -1,0 +1,5 @@
+[
+{"id":"Q1411","kind":"person","start":-8.424657534246576,"startLabel":"0010-08-01 BCE (Julian)","end":54.775342465753425,"endLabel":"0054-10-13 (Julian)","tags":["writers","scientists","politicians","religion"],"title":"Claude","url":"https://fr.wikipedia.org/wiki/Claude_(empereur_romain)","language":"fr","tier":0.1},
+{"id":"Q7198","kind":"person","start":-41.79178082191781,"startLabel":"0043-03-20 BCE (Julian)","end":17.0,"endLabel":"17","tags":["writers","poetry"],"title":"Ovide","url":"https://fr.wikipedia.org/wiki/Ovide","language":"fr","tier":0.1},
+{"id":"Q2054","kind":"person","start":-3.0,"startLabel":"1–9 BCE","end":65.27123287671233,"endLabel":"0065-04-12 (Julian)","tags":["writers","poetry","politicians","occupation-q4964182"],"title":"Sénèque","url":"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que","language":"fr","tier":0.1}
+]

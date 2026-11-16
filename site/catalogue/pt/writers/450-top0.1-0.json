@@ -1,0 +1,8 @@
+[
+{"id":"Q160916","kind":"person","start":470.0,"startLabel":"≈470","end":526.386301369863,"endLabel":"0526-05-20 (Julian)","tags":["writers","religion"],"title":"Papa João I","url":"https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_I","language":"pt","tier":0.1},
+{"id":"Q168736","kind":"person","start":470.0,"startLabel":"470","end":535.3534246575342,"endLabel":"0535-05-08 (Julian)","tags":["writers","religion"],"title":"Papa João II","url":"https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_II","language":"pt","tier":0.1},
+{"id":"Q102851","kind":"person","start":480.0,"startLabel":"≈480","end":524.8196721311475,"endLabel":"0524-10-25 (Julian)","tags":["writers","translation","scientists","politicians","occupation-q14915627","occupation-q16031530","occupation-q4964182"],"title":"Boécio","url":"https://pt.wikipedia.org/wiki/Bo%C3%A9cio","language":"pt","tier":0.1},
+{"id":"Q160931","kind":"person","start":450.0,"startLabel":"450","end":523.6,"endLabel":"0523-08-06 (Julian)","tags":["writers","religion"],"title":"Papa Hormisdas","url":"https://pt.wikipedia.org/wiki/Papa_Hormisda","language":"pt","tier":0.1},
+{"id":"Q41866","kind":"person","start":482.35890410958905,"startLabel":"0482-05-11 (Julian)","end":565.8739726027397,"endLabel":"0565-11-14 (Julian)","tags":["writers","politicians","rulers"],"title":"Justiniano I","url":"https://pt.wikipedia.org/wiki/Justiniano","language":"pt","tier":0.1},
+{"id":"Q44265","kind":"person","start":480.172131147541,"startLabel":"0480-03-03 (Julian)","end":547.227397260274,"endLabel":"0547-03-23 (Julian)","tags":["writers","religion","occupation-q2566598"],"title":"Bento de Núrsia","url":"https://pt.wikipedia.org/wiki/Bento_de_N%C3%BArsia","language":"pt","tier":0.1}
+]

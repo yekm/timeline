@@ -1,0 +1,5 @@
+[
+{"id":"Q36724","kind":"person","start":395.0,"startLabel":"≈395","end":453.0,"endLabel":"453","tags":["politicians"],"title":"アッティラ","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%86%E3%82%A3%E3%83%A9","language":"ja","tier":0.1},
+{"id":"Q159369","kind":"person","start":377.0027397260274,"startLabel":"0377-01-01 (Julian)","end":408.3333333333333,"endLabel":"0408-05-01 (Julian)","tags":["politicians"],"title":"アルカディウス","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q159798","kind":"person","start":384.6912568306011,"startLabel":"0384-09-09 (Julian)","end":423.62191780821917,"endLabel":"0423-08-15 (Julian)","tags":["politicians"],"title":"ホノリウス","url":"https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%8E%E3%83%AA%E3%82%A6%E3%82%B9","language":"ja","tier":0.1}
+]

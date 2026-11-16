@@ -1,0 +1,5 @@
+[
+{"id":"Q4214","kind":"person","start":1240.0,"startLabel":"≈1240","end":1288.0,"endLabel":"≈1288","tags":["composers","performers","writers","poetry","music"],"title":"Adam de la Halle","url":"https://it.wikipedia.org/wiki/Adam_de_la_Halle","language":"it","tier":0.5},
+{"id":"Q312311","kind":"person","start":1240.0,"startLabel":"1240","end":1285.8794520547945,"endLabel":"1285-11-11 (Julian)","tags":["composers","performers","writers","poetry","music","occupation-q102083"],"title":"Pietro III di Aragona","url":"https://it.wikipedia.org/wiki/Pietro_III_d%27Aragona","language":"it","tier":0.5},
+{"id":"Q47595","kind":"person","start":1221.9123287671232,"startLabel":"1221-11-23 (Julian)","end":1284.275956284153,"endLabel":"1284-04-04 (Julian)","tags":["composers","writers","poetry","scientists","politicians","music","occupation-q185351"],"title":"Alfonso X di Castiglia","url":"https://it.wikipedia.org/wiki/Alfonso_X_di_Castiglia","language":"it","tier":0.5}
+]

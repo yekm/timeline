@@ -1,0 +1,7 @@
+[
+{"id":"Q200859","kind":"person","start":-709.0,"startLabel":"710 BCE","end":-641.0,"endLabel":"642 BCE","tags":["politicians"],"title":"Тулл Гостилий","url":"https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%BB_%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%B9","language":"ru","tier":0.5},
+{"id":"Q200188","kind":"person","start":-709.9041095890411,"startLabel":"0711-02-13 BCE (Julian)","end":-584.0,"endLabel":"585 BCE","tags":["politicians","rulers"],"title":"Император Дзимму","url":"https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%94%D0%B7%D0%B8%D0%BC%D0%BC%D1%83","language":"ru","tier":0.5},
+{"id":"Q207140","kind":"person","start":-744.0,"startLabel":"≈745 BCE","end":-679.2185792349727,"endLabel":"0681-10-20 BCE (Julian)","tags":["politicians"],"title":"Синаххериб","url":"https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B0%D1%85%D1%85%D0%B5%D1%80%D0%B8%D0%B1","language":"ru","tier":0.5},
+{"id":"Q310640","kind":"person","end":-721.0,"endLabel":"722 BCE","tags":["politicians"],"title":"Салманасар V","url":"https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D0%B0%D1%80_V","language":"ru","tier":0.5},
+{"id":"Q210074","kind":"person","end":-726.0,"endLabel":"727 BCE","tags":["politicians","rulers"],"title":"Тиглатпаласар III","url":"https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B3%D0%BB%D0%B0%D1%82%D0%BF%D0%B0%D0%BB%D0%B0%D1%81%D0%B0%D1%80_III","language":"ru","tier":0.5}
+]

@@ -1,0 +1,6 @@
+[
+{"id":"Q51672","kind":"person","start":-73.0,"startLabel":"≈74 BCE","end":-3.0,"endLabel":"≈4 BCE","tags":["politicians","rulers"],"title":"Herodes I el Grande","url":"https://es.wikipedia.org/wiki/Herodes_I_el_Grande","language":"es","tier":0.1},
+{"id":"Q635","kind":"person","start":-67.97267759562841,"startLabel":"0069-01-13 BCE (Julian)","end":-28.394520547945206,"endLabel":"0030-08-12 BCE (Julian)","tags":["politicians","rulers"],"parent":"Q28684594","title":"Cleopatra","url":"https://es.wikipedia.org/wiki/Cleopatra","language":"es","tier":0.1},
+{"id":"Q1405","kind":"person","start":-61.27945205479452,"startLabel":"0063-09-23 BCE (Julian)","end":14.624657534246575,"endLabel":"0014-08-19 (Julian)","tags":["politicians","military"],"title":"Augusto","url":"https://es.wikipedia.org/wiki/Augusto","language":"es","tier":0.1},
+{"id":"Q51673","kind":"person","start":-82.0,"startLabel":"83 BCE","end":-29.0,"endLabel":"30 BCE","tags":["politicians","military"],"parent":"Q60310502","title":"Marco Antonio","url":"https://es.wikipedia.org/wiki/Marco_Antonio","language":"es","tier":0.1}
+]

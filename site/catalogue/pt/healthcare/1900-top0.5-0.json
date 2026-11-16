@@ -1,0 +1,6 @@
+[
+{"id":"Q151932","kind":"person","start":1910.123287671233,"startLabel":"1910-02-15","end":2008.360655737705,"endLabel":"2008-05-12","tags":["healthcare","activism","occupation-q16532929","occupation-q7019111","occupation-q974144"],"title":"Irena Sendler","url":"https://pt.wikipedia.org/wiki/Irena_Sendler","language":"pt","tier":0.5},
+{"id":"Q182654","kind":"person","start":1949.2630136986302,"startLabel":"1949-04-07","tags":["healthcare","politicians","diplomacy","occupation-q115088092"],"title":"Valentina Matvienko","url":"https://pt.wikipedia.org/wiki/Valentina_Matvienko","language":"pt","tier":0.5},
+{"id":"Q209989","kind":"person","start":1911.4,"startLabel":"1911-05-27","end":1978.0328767123287,"endLabel":"1978-01-13","tags":["healthcare","politicians","activism"],"title":"Hubert Humphrey","url":"https://pt.wikipedia.org/wiki/Hubert_Humphrey","language":"pt","tier":0.5},
+{"id":"Q63702","kind":"person","start":1923.7643835616439,"startLabel":"1923-10-07","end":1945.9479452054795,"endLabel":"1945-12-13","tags":["healthcare","politicians","safety","occupation-q20725072"],"title":"Irma Grese","url":"https://pt.wikipedia.org/wiki/Irma_Grese","language":"pt","tier":0.5}
+]

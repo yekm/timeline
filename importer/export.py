@@ -271,8 +271,8 @@ def stage_entries(connection, catalog, languages, staged):
     histograms = {"person": Counter(), "event": Counter()}
     for row in connection.execute("SELECT * FROM entities"):
         sitelinks = json.loads(row["sitelinks"])
-        available = [language for language in languages if sitelinks.get(language)]
-        if not available:
+        local_sitelinks = {language: sitelinks[language] for language in languages if language in sitelinks}
+        if not any(local_sitelinks.values()):
             continue
         tags = catalog.tags_for(row)
         if not tags:
@@ -288,10 +288,10 @@ def stage_entries(connection, catalog, languages, staged):
             entry["parent"] = parents[0]
         labels = json.loads(row["labels"])
         labels.update(catalog.title_overrides.get(row["qid"], {}))
-        items = [localize(entry, language, sitelinks, labels, languages) for language in available]
+        local_labels = {language: labels[language] for language in languages if language in labels}
         score = sum(bool(article) for article in sitelinks.values())
         histograms[kind][score] += 1
-        staged.write(json.dumps((kind, score, start, end, items), ensure_ascii=False,
+        staged.write(json.dumps((entry, score, start, end, local_sitelinks, local_labels), ensure_ascii=False,
                                 separators=(",", ":"), allow_nan=False) + "\n")
     return histograms
 
@@ -309,17 +309,23 @@ def build_catalogue(connection, stage, args):
     with TemporaryFile(mode="w+", encoding="utf-8", dir=stage.parent) as staged:
         histograms = stage_entries(connection, catalog, args.languages, staged)
         ranking = ranking_summary(histograms)
+        ranking["availableTiers"] = [tier for tier in RANK_TIERS if tier <= args.max_tier]
         total = sum(info["total"] for info in ranking["counts"].values())
         print(f"Ranked {total:,} entries by Wikipedia language count; writing catalogue fragments.", file=sys.stderr)
         staged.seek(0)
         try:
             for line in staged:
-                kind, score, start, end, items = json.loads(line)
-                tier = tier_for_score(score, ranking["counts"][kind])
-                for item in items:
+                entry, score, start, end, sitelinks, labels = json.loads(line)
+                tier = tier_for_score(score, ranking["counts"][entry["kind"]])
+                if tier > args.max_tier:
+                    continue
+                for language, article in sitelinks.items():
+                    if not article:
+                        continue
+                    item = localize(entry, language, sitelinks, labels, args.languages)
                     item["tier"] = tier
                     shards.append(item, start, end)
-                    exported[item["language"]] += 1
+                    exported[language] += 1
         finally:
             shards.close()
     shards.finish()
@@ -361,7 +367,7 @@ def publish(args):
         size = sum(path.stat().st_size for path in stage.rglob("*.json"))
         if size > args.page_budget_mb * 1_000_000:
             raise ValueError(f"Catalogue is {size / 1_000_000:.1f} MB, above the {args.page_budget_mb} MB budget. "
-                             "Export fewer languages or adjust the budget for a different host.")
+                             "Set a lower --max-tier, export fewer languages or adjust the budget for a different host.")
         backup = Path(workspace) / "previous"
         try:
             if output.exists():
@@ -388,6 +394,8 @@ def main():
     parser.add_argument("output", type=Path, help="Catalogue directory, typically site/data")
     parser.add_argument("--categories", type=Path, default=DEFAULT_CATEGORIES)
     parser.add_argument("--languages", nargs="+", default=["en", "ru"], metavar="LANG")
+    parser.add_argument("--max-tier", type=float, choices=RANK_TIERS, default=RANK_TIERS[-1],
+                        help="highest popularity cutoff to export (default: %(default)s)")
     parser.add_argument("--bucket-years", type=positive_int, default=50)
     parser.add_argument("--shard-items", type=positive_int, default=2_000)
     parser.add_argument("--page-budget-mb", type=positive_int, default=900)

@@ -1,0 +1,10 @@
+[
+{"id":"Q103423","kind":"person","start":900.0,"startLabel":"801–900","end":946.3424657534247,"endLabel":"0946-05 (Julian)","tags":["writers","religion"],"title":"Marino II","url":"https://es.wikipedia.org/wiki/Marino_II","language":"es","tier":0.5},
+{"id":"Q182463","kind":"person","start":900.0,"startLabel":"801–900","end":903.5095890410959,"endLabel":"0903-07 (Julian)","tags":["writers","religion"],"title":"Benedicto IV","url":"https://es.wikipedia.org/wiki/Benedicto_IV","language":"es","tier":0.5},
+{"id":"Q103389","kind":"person","start":900.0,"startLabel":"801–900","end":955.9287671232877,"endLabel":"0955-12 (Julian)","tags":["writers","religion"],"title":"Agapito II","url":"https://es.wikipedia.org/wiki/Agapito_II","language":"es","tier":0.5},
+{"id":"Q227965","kind":"person","start":915.0,"startLabel":"915","end":965.1753424657534,"endLabel":"0965-03-01 (Julian)","tags":["writers","religion"],"title":"León VIII","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_VIII","language":"es","tier":0.5},
+{"id":"Q181959","kind":"person","start":910.0,"startLabel":"≈910","end":936.0,"endLabel":"936","tags":["writers","religion"],"title":"Juan XI","url":"https://es.wikipedia.org/wiki/Juan_XI","language":"es","tier":0.5},
+{"id":"Q182489","kind":"person","end":939.5424657534246,"endLabel":"0939-07-13 (Julian)","tags":["writers","religion"],"title":"León VII","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_VII","language":"es","tier":0.5},
+{"id":"Q11075","kind":"person","start":903.945205479452,"startLabel":"0903-12-07 (Julian)","end":986.4082191780822,"endLabel":"0986-05-25 (Julian)","tags":["writers","poetry","translation","scientists","occupation-q155647"],"title":"Abd Al-Rahman Al Sufi","url":"https://es.wikipedia.org/wiki/Abd_Al-Rahman_Al_Sufi","language":"es","tier":0.5},
+{"id":"Q41608","kind":"person","start":905.3890410958904,"startLabel":"0905-05-18 (Julian)","end":959.8684931506849,"endLabel":"0959-11-09 (Julian)","tags":["writers","scientists"],"title":"Constantino VII","url":"https://es.wikipedia.org/wiki/Constantino_VII","language":"es","tier":0.5}
+]

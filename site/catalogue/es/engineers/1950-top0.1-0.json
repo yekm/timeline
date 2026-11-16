@@ -1,0 +1,8 @@
+[
+{"id":"Q1317","kind":"person","start":1957.186301369863,"startLabel":"1957-03-10","end":2011.331506849315,"endLabel":"2011-05-02","tags":["engineers","businesspeople","activism"],"title":"Osama bin Laden","url":"https://es.wikipedia.org/wiki/Osama_bin_Laden","language":"es","tier":0.1},
+{"id":"Q561837","kind":"person","start":1959.1041095890412,"startLabel":"1959-02-08","tags":["engineers","politicians","businesspeople","occupation-q115088092","occupation-q26481809"],"title":"Mauricio Macri","url":"https://es.wikipedia.org/wiki/Mauricio_Macri","language":"es","tier":0.1},
+{"id":"Q3318231","kind":"person","start":1961.468493150685,"startLabel":"1961-06-21","tags":["engineers","politicians","businesspeople","occupation-q115088092"],"title":"Joko Widodo","url":"https://es.wikipedia.org/wiki/Joko_Widodo","language":"es","tier":0.1},
+{"id":"Q92764","kind":"person","start":1973.6356164383562,"startLabel":"1973-08-21","tags":["engineers","inventors","occupation-q115088092","occupation-q2961975","occupation-q82594"],"title":"Serguéi Brin","url":"https://es.wikipedia.org/wiki/Sergu%C3%A9i_Brin","language":"es","tier":0.1},
+{"id":"Q312015","kind":"person","start":1974.5698630136985,"startLabel":"1974-07-28","tags":["engineers","politicians"],"title":"Alexis Tsipras","url":"https://es.wikipedia.org/wiki/Alexis_Tsipras","language":"es","tier":0.1},
+{"id":"Q4934","kind":"person","start":1973.2301369863014,"startLabel":"1973-03-26","tags":["engineers","businesspeople","occupation-q115088092","occupation-q82594"],"title":"Larry Page","url":"https://es.wikipedia.org/wiki/Larry_Page","language":"es","tier":0.1}
+]

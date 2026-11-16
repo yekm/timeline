@@ -1,0 +1,5 @@
+[
+{"id":"Q43915","kind":"person","start":912.9071038251366,"startLabel":"0912-11-23 (Julian)","end":973.358904109589,"endLabel":"0973-05-07 (Julian)","tags":["politicians"],"title":"オットー1世","url":"https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%83%88%E3%83%BC1%E4%B8%96_(%E7%A5%9E%E8%81%96%E3%83%AD%E3%83%BC%E3%83%9E%E7%9A%87%E5%B8%9D)","language":"ja","tier":0.1},
+{"id":"Q159575","kind":"person","start":940.0,"startLabel":"940","end":996.8251366120219,"endLabel":"0996-10-24 (Julian)","tags":["politicians"],"title":"ユーグ・カペー","url":"https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B0%E3%83%BB%E3%82%AB%E3%83%9A%E3%83%BC","language":"ja","tier":0.1},
+{"id":"Q172404","kind":"person","end":905.0,"endLabel":"905","tags":["politicians","religion"],"title":"レオ5世","url":"https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA5%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)","language":"ja","tier":0.1}
+]

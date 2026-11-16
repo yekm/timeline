@@ -1,0 +1,9 @@
+[
+{"id":"Q298","kind":"event","point":1810.7123287671234,"pointLabel":"1810-09-18","tags":["states"],"parent":"Q12585","title":"تشيلي","url":"https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%84%D9%8A","language":"ar","tier":0.1},
+{"id":"Q739","kind":"event","point":1810.0,"pointLabel":"1810","tags":["states"],"parent":"Q12585","title":"كولومبيا","url":"https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7","language":"ar","tier":0.1},
+{"id":"Q414","kind":"event","point":1816.51912568306,"pointLabel":"1816-07-09","tags":["states"],"parent":"Q12585","title":"الأرجنتين","url":"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86","language":"ar","tier":0.1},
+{"id":"Q41","kind":"event","point":1821.2602739726028,"pointLabel":"1821-03-25 (Julian)","tags":["states"],"parent":"Q1065","title":"اليونان","url":"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86","language":"ar","tier":0.1},
+{"id":"Q29","kind":"event","point":1812.2131147540983,"pointLabel":"1812-03-19","tags":["states"],"parent":"Q1849394","title":"إسبانيا","url":"https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7","language":"ar","tier":0.1},
+{"id":"Q39","kind":"event","point":1848.6967213114754,"pointLabel":"1848-09-12","tags":["states"],"title":"سويسرا","url":"https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7","language":"ar","tier":0.1},
+{"id":"Q96","kind":"event","point":1810.7068493150684,"pointLabel":"1810-09-16","tags":["states"],"parent":"Q12585","title":"المكسيك","url":"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83","language":"ar","tier":0.1}
+]

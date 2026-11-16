@@ -1,0 +1,12 @@
+[
+{"id":"Q122376","kind":"person","end":222.0,"endLabel":"≈222","tags":["religion"],"title":"教宗加理多一世","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%8A%A0%E7%90%86%E5%A4%9A%E4%B8%80%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q131162","kind":"person","start":200.0,"startLabel":"≈200","end":268.9836065573771,"endLabel":"0268-12-26 (Julian)","tags":["religion"],"title":"教宗狄约尼削","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E7%8B%84%E7%BA%A6%E5%B0%BC%E5%89%8A","language":"zh","tier":0.1},
+{"id":"Q132100","kind":"person","end":236.0054644808743,"endLabel":"0236-01-03 (Julian)","tags":["religion"],"title":"教宗安塞罗","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%AE%89%E5%A1%9E%E7%BD%97","language":"zh","tier":0.1},
+{"id":"Q127385","kind":"person","start":215.0,"startLabel":"≈215","end":258.5945205479452,"endLabel":"0258-08-06 (Julian)","tags":["religion"],"title":"教宗西斯笃二世","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%A5%BF%E6%96%AF%E7%AC%83%E4%BA%8C%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q101306","kind":"person","end":217.96712328767123,"endLabel":"0217-12-20 (Julian)","tags":["religion"],"title":"教宗则斐琳","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%88%99%E6%96%90%E7%90%B3","language":"zh","tier":0.1},
+{"id":"Q132793","kind":"person","start":200.0,"startLabel":"200","end":254.17260273972602,"endLabel":"0254-03-05 (Julian)","tags":["religion"],"title":"教宗路基约一世","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%B7%AF%E7%88%B5%E4%B8%80%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q131159","kind":"person","start":200.0,"startLabel":"200","end":250.05205479452056,"endLabel":"0250-01-20 (Julian)","tags":["religion"],"title":"教宗法比盎","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E6%B3%95%E6%AF%94%E7%9B%8E","language":"zh","tier":0.1},
+{"id":"Q101280","kind":"person","start":200.0,"startLabel":"101–200","tags":["religion"],"parent":"Q28109118","title":"教宗沙德","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E6%B2%99%E5%BE%B7","language":"zh","tier":0.1},
+{"id":"Q125631","kind":"person","end":230.37808219178083,"endLabel":"0230-05-19 (Julian)","tags":["religion"],"title":"乌尔巴诺一世","url":"https://zh.wikipedia.org/wiki/%E7%83%8F%E7%88%BE%E5%B7%B4%E8%AB%BE%E4%B8%80%E4%B8%96","language":"zh","tier":0.1},
+{"id":"Q132113","kind":"person","end":235.74794520547945,"endLabel":"0235-10 (Julian)","tags":["religion"],"title":"教宗彭谦","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E5%BD%AD%E8%B0%A6","language":"zh","tier":0.1}
+]

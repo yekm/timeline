@@ -1,0 +1,10 @@
+[
+{"id":"Q58563","kind":"person","start":1018.0,"startLabel":"1018","end":1057.5863013698631,"endLabel":"1057-07-28 (Julian)","tags":["religion"],"title":"papa Vittore II","url":"https://it.wikipedia.org/wiki/Papa_Vittore_II","language":"it","tier":0.5},
+{"id":"Q46090","kind":"person","start":1000.0,"startLabel":"≈1000","end":1063.7643835616439,"endLabel":"1063-10 (Julian)","tags":["religion"],"title":"papa Silvestro III","url":"https://it.wikipedia.org/wiki/Papa_Silvestro_III","language":"it","tier":0.5},
+{"id":"Q222500","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"papa Stefano VIII","url":"https://it.wikipedia.org/wiki/Papa_Stefano_VIII","language":"it","tier":0.5},
+{"id":"Q227981","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.0,"endLabel":"1048","tags":["religion"],"title":"papa Gregorio VI","url":"https://it.wikipedia.org/wiki/Papa_Gregorio_VI","language":"it","tier":0.5},
+{"id":"Q60063","kind":"person","start":1000.0,"startLabel":"≈1000","end":1048.620218579235,"endLabel":"1048-08-09 (Julian)","tags":["religion"],"title":"papa Damaso II","url":"https://it.wikipedia.org/wiki/Papa_Damaso_II","language":"it","tier":0.5},
+{"id":"Q227963","kind":"person","end":1003.9616438356164,"endLabel":"1003-12-12 (Julian)","tags":["religion"],"title":"papa Giovanni XVII","url":"https://it.wikipedia.org/wiki/Papa_Giovanni_XVII","language":"it","tier":0.5},
+{"id":"Q227972","kind":"person","start":1000.0,"startLabel":"901–1000","tags":["religion"],"title":"papa Giovanni XIV","url":"https://it.wikipedia.org/wiki/Papa_Giovanni_XIV","language":"it","tier":0.5},
+{"id":"Q58568","kind":"person","start":1000.0,"startLabel":"≈1000","end":1058.2547945205479,"endLabel":"1058-03-29 (Julian)","tags":["religion"],"title":"papa Stefano IX","url":"https://it.wikipedia.org/wiki/Papa_Stefano_IX","language":"it","tier":0.5}
+]

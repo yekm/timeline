@@ -1,0 +1,5 @@
+[
+{"id":"Q36724","kind":"person","start":395.0,"startLabel":"≈395","end":453.0,"endLabel":"453","tags":["politicians"],"title":"Attila","url":"https://fr.wikipedia.org/wiki/Attila","language":"fr","tier":0.1},
+{"id":"Q159369","kind":"person","start":377.0027397260274,"startLabel":"0377-01-01 (Julian)","end":408.3333333333333,"endLabel":"0408-05-01 (Julian)","tags":["politicians"],"title":"Flavius Arcadius","url":"https://fr.wikipedia.org/wiki/Arcadius_(empereur_romain)","language":"fr","tier":0.1},
+{"id":"Q159798","kind":"person","start":384.6912568306011,"startLabel":"0384-09-09 (Julian)","end":423.62191780821917,"endLabel":"0423-08-15 (Julian)","tags":["politicians"],"title":"Flavius Honorius","url":"https://fr.wikipedia.org/wiki/Flavius_Honorius","language":"fr","tier":0.1}
+]

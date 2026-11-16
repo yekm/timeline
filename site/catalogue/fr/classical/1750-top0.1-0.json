@@ -1,0 +1,5 @@
+[
+{"id":"Q66075","kind":"person","start":1782.8191780821917,"startLabel":"1782-10-27","end":1840.4016393442623,"endLabel":"1840-05-27","tags":["classical","composers","performers","music"],"title":"Niccolò Paganini","url":"https://fr.wikipedia.org/wiki/Niccol%C3%B2_Paganini","language":"fr","tier":0.1},
+{"id":"Q254","kind":"person","start":1756.0710382513662,"startLabel":"1756-01-27","end":1791.9260273972602,"endLabel":"1791-12-05","tags":["classical","composers","performers","music"],"title":"Wolfgang Amadeus Mozart","url":"https://fr.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart","language":"fr","tier":0.1},
+{"id":"Q255","kind":"person","start":1770.9561643835616,"startLabel":"1770-12-16","end":1827.2301369863014,"endLabel":"1827-03-26","tags":["classical","composers","performers","writers","music","occupation-q3149505"],"title":"Ludwig van Beethoven","url":"https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven","language":"fr","tier":0.1}
+]

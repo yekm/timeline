@@ -1,0 +1,5 @@
+[
+{"id":"Q58720","kind":"person","start":1711.8821917808218,"startLabel":"1711-11-08 (Julian)","end":1765.2849315068493,"endLabel":"1765-04-04 (Julian)","tags":["painters","writers","poetry","translation","scientists","educators","engineers","inventors","politicians","occupation-q4964182","occupation-q593644"],"title":"Mijaíl Lomonósov","url":"https://es.wikipedia.org/wiki/Mija%C3%ADl_Lomon%C3%B3sov","language":"es","tier":0.1},
+{"id":"Q83155","kind":"person","start":1748.6612021857923,"startLabel":"1748-08-30","end":1825.9917808219177,"endLabel":"1825-12-29","tags":["painters","politicians","trades"],"title":"Jacques-Louis David","url":"https://es.wikipedia.org/wiki/Jacques-Louis_David","language":"es","tier":0.1},
+{"id":"Q5432","kind":"person","start":1746.2410958904109,"startLabel":"1746-03-30","end":1828.2896174863388,"endLabel":"1828-04-16","tags":["painters","occupation-q10862983","occupation-q11569986","occupation-q15296811","occupation-q16947657"],"title":"Francisco de Goya","url":"https://es.wikipedia.org/wiki/Francisco_de_Goya","language":"es","tier":0.1}
+]

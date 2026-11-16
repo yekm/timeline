@@ -1,0 +1,7 @@
+[
+{"id":"Q47144","kind":"person","start":10.0,"startLabel":"10","end":79.0,"endLabel":"79","tags":["religion"],"title":"Papa Lino","url":"https://pt.wikipedia.org/wiki/Papa_Lino","language":"pt","tier":0.1},
+{"id":"Q81634","kind":"person","start":42.0,"startLabel":"≈42","end":126.0,"endLabel":"120–129","tags":["religion"],"title":"Papa Sisto I","url":"https://pt.wikipedia.org/wiki/Papa_Sisto_I","language":"pt","tier":0.1},
+{"id":"Q31966","kind":"person","start":12.0,"startLabel":"≈12","end":68.30874316939891,"endLabel":"0068-04-25 (Julian)","tags":["religion"],"parent":"Q472773","title":"São Marcos","url":"https://pt.wikipedia.org/wiki/Marcos,_o_Evangelista","language":"pt","tier":0.1},
+{"id":"Q33923","kind":"person","start":0.0,"startLabel":"1 BCE","end":65.0,"endLabel":"≈65","tags":["religion","agriculture"],"parent":"Q4155679","title":"São Pedro","url":"https://pt.wikipedia.org/wiki/Pedro_(ap%C3%B3stolo)","language":"pt","tier":0.1},
+{"id":"Q80450","kind":"person","start":25.0,"startLabel":"≈25","end":90.0,"endLabel":"90–99","tags":["religion"],"title":"Papa Anacleto","url":"https://pt.wikipedia.org/wiki/Papa_Anacleto","language":"pt","tier":0.1}
+]

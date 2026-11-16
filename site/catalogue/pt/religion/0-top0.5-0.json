@@ -1,0 +1,6 @@
+[
+{"id":"Q44170","kind":"person","start":35.0,"startLabel":"≈35","end":108.0,"endLabel":"108","tags":["religion"],"parent":"Q182603","title":"Inácio de Antioquia","url":"https://pt.wikipedia.org/wiki/In%C3%A1cio_de_Antioquia","language":"pt","tier":0.5},
+{"id":"Q161775","kind":"person","start":1.0,"startLabel":"≈1","end":36.0,"endLabel":"≈36","tags":["religion"],"title":"Santo Estêvão","url":"https://pt.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_(m%C3%A1rtir)","language":"pt","tier":0.5},
+{"id":"Q212647","kind":"person","start":17.0,"startLabel":"17","end":97.0,"endLabel":"97","tags":["religion"],"title":"Timóteo de Éfeso","url":"https://pt.wikipedia.org/wiki/Tim%C3%B3teo_de_%C3%89feso","language":"pt","tier":0.5},
+{"id":"Q185856","kind":"person","start":1.0,"startLabel":"1–100","end":61.0,"endLabel":"61","tags":["religion","music"],"title":"Barnabé","url":"https://pt.wikipedia.org/wiki/Barnab%C3%A9_(B%C3%ADblia)","language":"pt","tier":0.5}
+]

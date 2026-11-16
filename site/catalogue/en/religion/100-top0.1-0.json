@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"Hyginus","url":"https://en.wikipedia.org/wiki/Pope_Hyginus","language":"en","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"Anicetus","url":"https://en.wikipedia.org/wiki/Pope_Anicetus","language":"en","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"Evaristus","url":"https://en.wikipedia.org/wiki/Pope_Evaristus","language":"en","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"Mary Magdalene","url":"https://en.wikipedia.org/wiki/Mary_Magdalene","language":"en","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"Telesphorus","url":"https://en.wikipedia.org/wiki/Pope_Telesphorus","language":"en","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"Clement I","url":"https://en.wikipedia.org/wiki/Clement_of_Rome","language":"en","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"Alexander I","url":"https://en.wikipedia.org/wiki/Pope_Alexander_I","language":"en","tier":0.1}
+]

@@ -1,0 +1,10 @@
+[
+{"id":"Q313327","kind":"person","start":182.5041095890411,"startLabel":"0182-07-05 (Julian)","end":252.38524590163934,"endLabel":"0252-05-21 (Julian)","tags":["politicians","rulers"],"title":"Sun Quan","url":"https://de.wikipedia.org/wiki/Sun_Quan","language":"de","tier":0.5},
+{"id":"Q1803","kind":"person","start":190.0,"startLabel":"190–199","end":238.27671232876713,"endLabel":"0238-04-12 (Julian)","tags":["politicians","military"],"title":"Gordian II.","url":"https://de.wikipedia.org/wiki/Gordian_II.","language":"de","tier":0.5},
+{"id":"Q1805","kind":"person","start":178.0,"startLabel":"178","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Balbinus","url":"https://de.wikipedia.org/wiki/Balbinus","language":"de","tier":0.5},
+{"id":"Q237960","kind":"person","start":150.0,"startLabel":"150","end":197.13150684931506,"endLabel":"0197-02-19 (Julian)","tags":["politicians"],"title":"Clodius Albinus","url":"https://de.wikipedia.org/wiki/Clodius_Albinus","language":"de","tier":0.5},
+{"id":"Q1777","kind":"person","start":173.0,"startLabel":"173","end":238.35342465753425,"endLabel":"0238-05-10 (Julian)","tags":["politicians","military"],"title":"Maximinus Thrax","url":"https://de.wikipedia.org/wiki/Maximinus_Thrax","language":"de","tier":0.5},
+{"id":"Q1797","kind":"person","start":170.0,"startLabel":"101–200","end":238.57260273972602,"endLabel":"0238-07-29 (Julian)","tags":["politicians"],"parent":"Q7260656","title":"Pupienus","url":"https://de.wikipedia.org/wiki/Pupienus","language":"de","tier":0.5},
+{"id":"Q191455","kind":"person","start":150.0,"startLabel":"101–200","end":272.0,"endLabel":"272","tags":["politicians"],"title":"Schapur I.","url":"https://de.wikipedia.org/wiki/Schapur_I.","language":"de","tier":0.5},
+{"id":"Q371319","kind":"person","start":180.0,"startLabel":"180","end":242.0,"endLabel":"242","tags":["politicians"],"title":"Ardaschir I.","url":"https://de.wikipedia.org/wiki/Ardaschir_I.","language":"de","tier":0.5}
+]

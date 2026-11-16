@@ -1,0 +1,5 @@
+[
+{"id":"Q159923","kind":"person","start":1754.7342465753425,"startLabel":"1754-09-26","end":1826.5068493150684,"endLabel":"1826-07-05","tags":["explorers","healthcare","occupation-q593644"],"title":"Жозеф Луи Пруст","url":"https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%82,_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%9B%D1%83%D0%B8","language":"ru","tier":0.5},
+{"id":"Q186203","kind":"person","start":1788.8688524590164,"startLabel":"1788-11-03 (Julian)","end":1851.3068493150686,"endLabel":"1851-04-11 (Julian)","tags":["explorers","military"],"title":"Михаил Петрович Лазарев","url":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87","language":"ru","tier":0.5},
+{"id":"Q238960","kind":"person","start":1788.3715846994535,"startLabel":"1788-05-16","end":1812.9453551912568,"endLabel":"1812-12-12","tags":["explorers"],"title":"Сакагавея","url":"https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BA%D0%B0%D0%B3%D0%B0%D0%B2%D0%B5%D1%8F","language":"ru","tier":0.5}
+]

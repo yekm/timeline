@@ -1,0 +1,15 @@
+[
+{"id":"Q46821","kind":"person","start":254.0,"startLabel":"254","end":284.8333333333333,"endLabel":"0284-11","tags":["politicians"],"parent":"Q887928","title":"Numeriano","url":"https://es.wikipedia.org/wiki/Numeriano","language":"es","tier":0.5},
+{"id":"Q172168","kind":"person","start":250.0,"startLabel":"250","end":311.33972602739726,"endLabel":"0311-05-05","tags":["politicians"],"parent":"Q174450","title":"Galerio","url":"https://es.wikipedia.org/wiki/Galerio","language":"es","tier":0.5},
+{"id":"Q310215","kind":"person","start":250.0,"startLabel":"201–300","end":276.0,"endLabel":"276","tags":["politicians"],"title":"Bahram I","url":"https://es.wikipedia.org/wiki/Bahram_I","language":"es","tier":0.5},
+{"id":"Q182070","kind":"person","start":278.0,"startLabel":"278","end":312.8251366120219,"endLabel":"0312-10-28 (Julian)","tags":["politicians"],"title":"Majencio","url":"https://es.wikipedia.org/wiki/Majencio","language":"es","tier":0.5},
+{"id":"Q184549","kind":"person","start":263.0,"startLabel":"≈263","end":325.0,"endLabel":"325","tags":["politicians"],"title":"Licinio","url":"https://es.wikipedia.org/wiki/Licinio","language":"es","tier":0.5},
+{"id":"Q313119","kind":"person","start":290.0,"startLabel":"290","end":399.0,"endLabel":"399","tags":["politicians"],"title":"Emperador Nintoku","url":"https://es.wikipedia.org/wiki/Nintoku_Tenn%C5%8D","language":"es","tier":0.5},
+{"id":"Q849802","kind":"person","start":250.0,"startLabel":"201–300","end":335.0,"endLabel":"301–400","tags":["politicians"],"title":"Chandragupta I","url":"https://es.wikipedia.org/wiki/Chandragupta_I","language":"es","tier":0.5},
+{"id":"Q190097","kind":"person","start":250.0,"startLabel":"250","end":285.4958904109589,"endLabel":"0285-07","tags":["politicians","military"],"parent":"Q887928","title":"Carino","url":"https://es.wikipedia.org/wiki/Carino","language":"es","tier":0.5},
+{"id":"Q310287","kind":"person","start":250.0,"startLabel":"201–300","end":273.0,"endLabel":"273","tags":["politicians"],"title":"Ormuz I","url":"https://es.wikipedia.org/wiki/Ormuz_I","language":"es","tier":0.5},
+{"id":"Q189095","kind":"person","start":270.88493150684934,"startLabel":"0270-11-20 (Julian)","end":313.0,"endLabel":"313","tags":["politicians","agriculture"],"title":"Maximino Daya","url":"https://es.wikipedia.org/wiki/Maximino_Daya","language":"es","tier":0.5},
+{"id":"Q299255","kind":"person","start":250.0,"startLabel":"201–300","end":293.0,"endLabel":"293","tags":["politicians","rulers"],"title":"Bahram II","url":"https://es.wikipedia.org/wiki/Bahram_II","language":"es","tier":0.5},
+{"id":"Q170164","kind":"person","start":250.0,"startLabel":"≈250","end":330.63013698630135,"endLabel":"0330-08-18 (Julian)","tags":["politicians"],"title":"Helena de Constantinopla","url":"https://es.wikipedia.org/wiki/Helena_de_Constantinopla","language":"es","tier":0.5},
+{"id":"Q268744","kind":"person","start":250.0,"startLabel":"201–300","end":324.0,"endLabel":"324","tags":["politicians"],"title":"Martiniano","url":"https://es.wikipedia.org/wiki/Martiniano_(emperador)","language":"es","tier":0.5}
+]

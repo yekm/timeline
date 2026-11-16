@@ -1,0 +1,9 @@
+[
+{"id":"Q5670","kind":"person","start":756.0,"startLabel":"≈756","end":814.0,"endLabel":"814","tags":["writers","poetry"],"title":"Abu Nuwas","url":"https://it.wikipedia.org/wiki/Abu_Nuwas","language":"it","tier":0.1},
+{"id":"Q167052","kind":"person","start":795.0,"startLabel":"≈795","end":844.0765027322404,"endLabel":"0844-01-25 (Julian)","tags":["writers","religion"],"title":"papa Gregorio IV","url":"https://it.wikipedia.org/wiki/Papa_Gregorio_IV","language":"it","tier":0.1},
+{"id":"Q228205","kind":"person","start":790.0,"startLabel":"≈790","end":855.5506849315068,"endLabel":"0855-07-17 (Julian)","tags":["writers","religion"],"title":"papa Leone IV","url":"https://it.wikipedia.org/wiki/Papa_Leone_IV","language":"it","tier":0.1},
+{"id":"Q103308","kind":"person","start":775.0,"startLabel":"≈775","end":824.1229508196722,"endLabel":"0824-02-11 (Julian)","tags":["writers","politicians","rulers","religion"],"title":"papa Pasquale I","url":"https://it.wikipedia.org/wiki/Papa_Pasquale_I","language":"it","tier":0.1},
+{"id":"Q9038","kind":"person","start":780.0,"startLabel":"≈780","end":850.0,"endLabel":"≈850","tags":["writers","translation","scientists","occupation-q155647","occupation-q4964182"],"title":"Muhammad ibn Musa al-Khwarizmi","url":"https://it.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB","language":"it","tier":0.1},
+{"id":"Q131002","kind":"person","start":766.1890410958904,"startLabel":"0766-03-07 (Julian)","end":809.2356164383561,"endLabel":"0809-03-24 (Julian)","tags":["writers","poetry","politicians"],"title":"Hārūn al-Rashīd","url":"https://it.wikipedia.org/wiki/H%C4%81r%C5%ABn_al-Rash%C4%ABd","language":"it","tier":0.1},
+{"id":"Q132086","kind":"person","start":750.0,"startLabel":"750","end":816.4562841530054,"endLabel":"0816-06-12 (Julian)","tags":["writers","religion"],"title":"papa Leone III","url":"https://it.wikipedia.org/wiki/Papa_Leone_III","language":"it","tier":0.1}
+]

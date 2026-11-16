@@ -1,0 +1,6 @@
+[
+{"id":"Q51672","kind":"person","start":-73.0,"startLabel":"≈74 BCE","end":-3.0,"endLabel":"≈4 BCE","tags":["politicians","rulers"],"title":"Ирод I Великий","url":"https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BE%D0%B4_I_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9","language":"ru","tier":0.1},
+{"id":"Q635","kind":"person","start":-67.97267759562841,"startLabel":"0069-01-13 BCE (Julian)","end":-28.394520547945206,"endLabel":"0030-08-12 BCE (Julian)","tags":["politicians","rulers"],"parent":"Q28684594","title":"Клеопатра","url":"https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D0%BE%D0%BF%D0%B0%D1%82%D1%80%D0%B0","language":"ru","tier":0.1},
+{"id":"Q1405","kind":"person","start":-61.27945205479452,"startLabel":"0063-09-23 BCE (Julian)","end":14.624657534246575,"endLabel":"0014-08-19 (Julian)","tags":["politicians","military"],"title":"Октавиан Август","url":"https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82","language":"ru","tier":0.1},
+{"id":"Q51673","kind":"person","start":-82.0,"startLabel":"83 BCE","end":-29.0,"endLabel":"30 BCE","tags":["politicians","military"],"parent":"Q60310502","title":"Марк Антоний","url":"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B9","language":"ru","tier":0.1}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"Q132711","kind":"person","start":1552.7377049180327,"startLabel":"1552-09-17 (Julian)","end":1621.0739726027398,"endLabel":"1621-01-28","tags":["religion"],"title":"Paul V","url":"https://en.wikipedia.org/wiki/Pope_Paul_V","language":"en","tier":0.1},
+{"id":"Q127254","kind":"person","start":1599.1178082191782,"startLabel":"1599-02-13","end":1667.386301369863,"endLabel":"1667-05-22","tags":["religion"],"title":"Alexander VII","url":"https://en.wikipedia.org/wiki/Pope_Alexander_VII","language":"en","tier":0.1},
+{"id":"Q132692","kind":"person","start":1554.0493150684931,"startLabel":"1554-01-09 (Julian)","end":1623.5150684931507,"endLabel":"1623-07-08","tags":["religion"],"title":"Gregory XV","url":"https://en.wikipedia.org/wiki/Pope_Gregory_XV","language":"en","tier":0.1}
+]

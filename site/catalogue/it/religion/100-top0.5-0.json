@@ -1,0 +1,5 @@
+[
+{"id":"Q185117","kind":"person","start":100.0,"startLabel":"≈100","end":165.0,"endLabel":"≈165","tags":["religion","occupation-q4964182"],"parent":"Q182603","title":"Giustino","url":"https://it.wikipedia.org/wiki/Giustino_(filosofo)","language":"it","tier":0.5},
+{"id":"Q26925","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"parent":"Q620744","title":"Giacomo il Giusto","url":"https://it.wikipedia.org/wiki/Giacomo_il_Giusto","language":"it","tier":0.5},
+{"id":"Q182123","kind":"person","start":130.0,"startLabel":"≈130","end":202.0,"endLabel":"≈202","tags":["religion","occupation-q4964182"],"title":"Ireneo di Lione","url":"https://it.wikipedia.org/wiki/Ireneo_di_Lione","language":"it","tier":0.5}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"Q111559","kind":"person","start":-499.0,"startLabel":"1–1000 BCE","end":-159.0,"endLabel":"160 BCE","tags":["military","religion"],"title":"Judah Maccabee","url":"https://en.wikipedia.org/wiki/Judas_Maccabeus","language":"en","tier":0.5},
+{"id":"Q233711","kind":"person","start":-469.0,"startLabel":"470 BCE","end":-429.0,"endLabel":"430 BCE","tags":["military","occupation-q4964182"],"title":"Melissus of Samos","url":"https://en.wikipedia.org/wiki/Melissus_of_Samos","language":"en","tier":0.5},
+{"id":"Q297960","kind":"person","start":-499.0,"startLabel":"401–500 BCE","end":-400.0,"endLabel":"401 BCE","tags":["military"],"title":"Cyrus the Younger","url":"https://en.wikipedia.org/wiki/Cyrus_the_Younger","language":"en","tier":0.5}
+]

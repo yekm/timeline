@@ -1,0 +1,9 @@
+[
+{"id":"Q80604","kind":"person","end":142.0,"endLabel":"142","tags":["religion"],"title":"Papa Higino","url":"https://pt.wikipedia.org/wiki/Papa_Higino","language":"pt","tier":0.1},
+{"id":"Q546590","kind":"person","start":100.0,"startLabel":"1–100","end":166.2958904109589,"endLabel":"0166-04-20 (Julian)","tags":["religion"],"title":"Papa Aniceto","url":"https://pt.wikipedia.org/wiki/Papa_Aniceto","language":"pt","tier":0.1},
+{"id":"Q47746","kind":"person","start":100.0,"startLabel":"1–100","end":105.0,"endLabel":"105","tags":["religion"],"title":"Papa Evaristo","url":"https://pt.wikipedia.org/wiki/Papa_Evaristo","language":"pt","tier":0.1},
+{"id":"Q63070","kind":"person","start":100.0,"startLabel":"≈1–100","end":100.0,"endLabel":"1–100","tags":["religion","occupation-q553079"],"parent":"Q2020824","title":"Maria Madalena","url":"https://pt.wikipedia.org/wiki/Maria_Madalena","language":"pt","tier":0.1},
+{"id":"Q81647","kind":"person","end":130.0,"endLabel":"130–139","tags":["religion"],"title":"Papa Telésforo","url":"https://pt.wikipedia.org/wiki/Papa_Tel%C3%A9sforo","language":"pt","tier":0.1},
+{"id":"Q42887","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"title":"Papa Clemente I","url":"https://pt.wikipedia.org/wiki/Papa_Clemente_I","language":"pt","tier":0.1},
+{"id":"Q80028","kind":"person","start":100.0,"startLabel":"1–100","end":116.0,"endLabel":"≈116","tags":["religion"],"title":"Papa Alexandre I","url":"https://pt.wikipedia.org/wiki/Papa_Alexandre_I","language":"pt","tier":0.1}
+]

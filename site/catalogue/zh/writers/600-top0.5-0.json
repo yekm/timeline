@@ -1,0 +1,7 @@
+[
+{"id":"Q320122","kind":"person","start":604.0,"startLabel":"604","end":650.0,"endLabel":"650","tags":["writers","politicians","occupation-q2493637"],"title":"松赞干布","url":"https://zh.wikipedia.org/wiki/%E6%9D%BE%E8%B5%9E%E5%B9%B2%E5%B8%83","language":"zh","tier":0.5},
+{"id":"Q42063","kind":"person","start":602.2602739726027,"startLabel":"0602-04-06","end":664.1803278688525,"endLabel":"0664-03-07","tags":["writers","translation","explorers","occupation-q4964182","occupation-q854997"],"title":"玄奘","url":"https://zh.wikipedia.org/wiki/%E7%8E%84%E5%A5%98","language":"zh","tier":0.5},
+{"id":"Q131548","kind":"person","start":600.0,"startLabel":"≈501–600","end":600.0,"endLabel":"≈501–600","tags":["writers","scientists"],"title":"约达尼斯","url":"https://zh.wikipedia.org/wiki/%E7%BA%A6%E8%BE%BE%E5%B0%BC%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q217442","kind":"person","start":646.0,"startLabel":"646","end":683.8684931506849,"endLabel":"0683-11-11 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"耶齐德一世","url":"https://zh.wikipedia.org/wiki/%E8%80%B6%E9%BD%90%E5%BE%B7%E4%B8%80%E4%B8%96","language":"zh","tier":0.5},
+{"id":"Q9738","kind":"person","start":624.1366120218579,"startLabel":"0624-02-17 (Julian)","end":705.9671232876713,"endLabel":"0705-12-16 (Julian)","tags":["writers","poetry","politicians","rulers"],"title":"武則天","url":"https://zh.wikipedia.org/wiki/%E6%AD%A6%E5%88%99%E5%A4%A9","language":"zh","tier":0.5}
+]

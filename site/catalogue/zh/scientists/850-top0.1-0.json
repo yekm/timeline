@@ -1,0 +1,4 @@
+[
+{"id":"Q160460","kind":"person","start":870.0,"startLabel":"≈870","end":950.0,"endLabel":"≈950","tags":["scientists","occupation-q16031530","occupation-q4964182"],"title":"法拉比","url":"https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89%E6%AF%94","language":"zh","tier":0.1},
+{"id":"Q169234","kind":"person","start":866.0,"startLabel":"866","end":925.8,"endLabel":"0925-10-15 (Julian)","tags":["scientists","engineers","inventors","physicians","occupation-q4964182","occupation-q593644"],"title":"拉齐","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B8%83%C2%B7%E8%B4%9D%E5%85%8B%E5%B0%94%C2%B7%E6%8B%89%E9%BD%90","language":"zh","tier":0.1}
+]

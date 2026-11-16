@@ -146,6 +146,7 @@ button:enabled, select:enabled { cursor: pointer; }
 .range-label { font: 500 clamp(0.78rem, 1.45vw, 1rem) var(--mono); color: var(--ink); }
 .workspace-status { display: flex; align-items: baseline; gap: 0.45rem; }
 .workspace-status [data-error] { color: #8d382d; }
+.workspace-status a { color: var(--accent); text-underline-offset: 0.18em; }
 .workspace-footer { flex-wrap: wrap; }
 #timeline { display: flex; flex-direction: column; flex: 1; min-height: 0; }
 .gesture-hint { margin-left: auto; }

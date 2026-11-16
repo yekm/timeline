@@ -1,0 +1,4 @@
+[
+{"id":"Q238539","kind":"person","start":1921.8438356164384,"startLabel":"1921-11-05","end":2013.4986301369863,"endLabel":"2013-07-02","tags":["occupation-q5784340"],"title":"茀絲亞","url":"https://zh.wikipedia.org/wiki/%E8%8C%80%E7%B5%B2%E4%BA%9E%C2%B7%E7%A6%8F%E9%98%BF%E5%BE%B7","language":"zh","tier":0.5},
+{"id":"Q163010","kind":"person","start":1910.2356164383561,"startLabel":"1910-03-28","end":2000.8497267759562,"endLabel":"2000-11-07","tags":["occupation-q5784340"],"parent":"Q63195407","title":"英格丽德公主","url":"https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E4%B8%BD%E5%BE%B7%E7%8E%8B%E5%90%8E","language":"zh","tier":0.5}
+]

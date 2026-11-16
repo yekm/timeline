@@ -1,0 +1,7 @@
+[
+{"id":"Q142999","kind":"person","start":265.0,"startLabel":"≈265","end":340.0,"endLabel":"≈340","tags":["writers","scientists","religion"],"parent":"Q182603","title":"該撒利亞的優西比烏","url":"https://zh.wikipedia.org/wiki/%E8%A9%B2%E6%92%92%E5%88%A9%E4%BA%9E%E7%9A%84%E5%84%AA%E8%A5%BF%E6%AF%94%E7%83%8F","language":"zh","tier":0.5},
+{"id":"Q44024","kind":"person","start":296.0,"startLabel":"296","end":373.3342465753425,"endLabel":"0373-05-02 (Julian)","tags":["writers","religion"],"parent":"Q182603","title":"亚他那修","url":"https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BB%96%E9%82%A3%E4%BF%AE","language":"zh","tier":0.5},
+{"id":"Q170547","kind":"person","start":251.0,"startLabel":"251","end":357.0,"endLabel":"≈357","tags":["writers","occupation-q1146843","occupation-q2109894"],"title":"聖安東尼","url":"https://zh.wikipedia.org/wiki/%E8%81%96%E5%AE%89%E6%9D%B1%E5%B0%BC_(%E5%9F%BA%E7%9D%A3%E6%95%99%E8%81%96%E4%BA%BA)","language":"zh","tier":0.5},
+{"id":"Q297742","kind":"person","start":292.0,"startLabel":"≈292","end":307.0,"endLabel":"≈307","tags":["writers"],"title":"童貞瑪加利大","url":"https://zh.wikipedia.org/wiki/%E7%AB%A5%E8%B2%9E%E7%91%AA%E5%8A%A0%E5%88%A9%E5%A4%A7","language":"zh","tier":0.5},
+{"id":"Q298698","kind":"person","start":292.0,"startLabel":"292","end":348.3524590163934,"endLabel":"0348-05-09","tags":["writers","occupation-q733786"],"title":"帕科繆","url":"https://zh.wikipedia.org/wiki/%E5%B8%95%E7%A7%91%E7%B9%86","language":"zh","tier":0.5}
+]

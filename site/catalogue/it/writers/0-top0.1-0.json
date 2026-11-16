@@ -1,0 +1,7 @@
+[
+{"id":"Q1413","kind":"person","start":37.94794520547945,"startLabel":"0037-12-15 (Julian)","end":68.43169398907104,"endLabel":"0068-06-09 (Julian)","tags":["writers","poetry","politicians","military"],"title":"Nerone","url":"https://it.wikipedia.org/wiki/Nerone","language":"it","tier":0.1},
+{"id":"Q41523","kind":"person","start":40.0,"startLabel":"≈40–49","end":120.0,"endLabel":"≈120","tags":["writers","scientists","politicians","religion","occupation-q4964182"],"title":"Plutarco","url":"https://it.wikipedia.org/wiki/Plutarco","language":"it","tier":0.1},
+{"id":"Q134461","kind":"person","start":37.0,"startLabel":"37","end":100.0,"endLabel":"100","tags":["writers","scientists"],"title":"Flavio Giuseppe","url":"https://it.wikipedia.org/wiki/Flavio_Giuseppe","language":"it","tier":0.1},
+{"id":"Q9200","kind":"person","start":5.0,"startLabel":"≈5","end":67.0,"endLabel":"≈67","tags":["writers","religion","trades","occupation-q133485","occupation-q219477","occupation-q22813352","occupation-q4504549"],"title":"Paolo di Tarso","url":"https://it.wikipedia.org/wiki/Paolo_di_Tarso","language":"it","tier":0.1},
+{"id":"Q82778","kind":"person","start":20.0,"startLabel":"20–29","end":79.0,"endLabel":"79","tags":["writers","poetry","scientists","politicians","military","occupation-q4964182"],"title":"Plinio il Vecchio","url":"https://it.wikipedia.org/wiki/Plinio_il_Vecchio","language":"it","tier":0.1}
+]

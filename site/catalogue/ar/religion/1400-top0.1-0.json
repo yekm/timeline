@@ -1,0 +1,6 @@
+[
+{"id":"Q163514","kind":"person","start":1414.5753424657535,"startLabel":"1414-07-21 (Julian)","end":1484.636612021858,"endLabel":"1484-08-12 (Julian)","tags":["religion"],"title":"سيكتوس الرابع","url":"https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%83%D8%AA%D9%88%D8%B3_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9","language":"ar","tier":0.1},
+{"id":"Q80516","kind":"person","start":1443.9506849315069,"startLabel":"1443-12-05 (Julian)","end":1513.1671232876713,"endLabel":"1513-02-21 (Julian)","tags":["religion"],"title":"يوليوس الثاني","url":"https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%84%D9%8A%D9%88%D8%B3_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A","language":"ar","tier":0.1},
+{"id":"Q160030","kind":"person","start":1439.3753424657534,"startLabel":"1439-05-09 (Julian)","end":1503.8219178082193,"endLabel":"1503-10-18 (Julian)","tags":["religion"],"title":"بيوس الثالث","url":"https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%88%D8%B3_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB","language":"ar","tier":0.1},
+{"id":"Q108316","kind":"person","start":1431.0246575342467,"startLabel":"1431-01-01 (Julian)","end":1503.654794520548,"endLabel":"1503-08-18 (Julian)","tags":["religion"],"parent":"Q237599","title":"إسكندر السادس","url":"https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3","language":"ar","tier":0.1}
+]

@@ -1,0 +1,10 @@
+[
+{"id":"Q183445","kind":"person","start":450.0,"startLabel":"450","end":527.586301369863,"endLabel":"0527-08-01 (Julian)","tags":["politicians"],"title":"Justino I","url":"https://es.wikipedia.org/wiki/Justino_I","language":"es","tier":0.5},
+{"id":"Q212852","kind":"person","start":497.0,"startLabel":"≈497","end":558.9808219178083,"endLabel":"0558-12-23 (Julian)","tags":["politicians","rulers"],"title":"Childeberto I","url":"https://es.wikipedia.org/wiki/Childeberto_I","language":"es","tier":0.5},
+{"id":"Q28984","kind":"person","start":498.0,"startLabel":"498","end":561.9150684931507,"endLabel":"0561-11-29 (Julian)","tags":["politicians","rulers"],"title":"Clotario I","url":"https://es.wikipedia.org/wiki/Clotario_I","language":"es","tier":0.5},
+{"id":"Q191707","kind":"person","start":467.0,"startLabel":"467","end":474.8767123287671,"endLabel":"0474-11-17","tags":["politicians"],"title":"León II","url":"https://es.wikipedia.org/wiki/Le%C3%B3n_II_(emperador)","language":"es","tier":0.5},
+{"id":"Q233461","kind":"person","start":485.0,"startLabel":"≈485","end":534.0,"endLabel":"534","tags":["politicians","rulers"],"title":"Teodorico I de Austrasia","url":"https://es.wikipedia.org/wiki/Teodorico_I_de_Austrasia","language":"es","tier":0.5},
+{"id":"Q244071","kind":"person","start":473.0,"startLabel":"473","end":531.6986301369863,"endLabel":"0531-09-13","tags":["politicians"],"title":"Kavad I","url":"https://es.wikipedia.org/wiki/Kavad_I","language":"es","tier":0.5},
+{"id":"Q189660","kind":"person","start":495.0,"startLabel":"≈495","end":524.4754098360655,"endLabel":"0524-06-21 (Julian)","tags":["politicians","rulers"],"title":"Clodomiro","url":"https://es.wikipedia.org/wiki/Clodomiro","language":"es","tier":0.5},
+{"id":"Q110884","kind":"person","start":458.0,"startLabel":"458","end":507.586301369863,"endLabel":"0507-08 (Julian)","tags":["politicians","military"],"title":"Alarico II","url":"https://es.wikipedia.org/wiki/Alarico_II","language":"es","tier":0.5}
+]

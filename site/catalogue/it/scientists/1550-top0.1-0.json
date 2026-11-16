@@ -1,0 +1,6 @@
+[
+{"id":"Q133060","kind":"person","start":1550.0,"startLabel":"1550","end":1597.4657534246576,"endLabel":"1597-06-20","tags":["scientists","explorers","occupation-q254651"],"title":"Willem Barents","url":"https://it.wikipedia.org/wiki/Willem_Barents","language":"it","tier":0.1},
+{"id":"Q159592","kind":"person","start":1550.1123287671232,"startLabel":"1550-02-01 (Julian)","end":1617.2547945205479,"endLabel":"1617-04-04","tags":["scientists","engineers","inventors","religion","occupation-q155647"],"title":"Nepero","url":"https://it.wikipedia.org/wiki/Nepero","language":"it","tier":0.1},
+{"id":"Q307","kind":"person","start":1564.1502732240438,"startLabel":"1564-02-15 (Julian)","end":1642.0191780821917,"endLabel":"1642-01-08","tags":["scientists","educators","engineers","inventors","occupation-q155647","occupation-q270141","occupation-q4964182"],"title":"Galileo Galilei","url":"https://it.wikipedia.org/wiki/Galileo_Galilei","language":"it","tier":0.1},
+{"id":"Q93128","kind":"person","start":1578.2739726027398,"startLabel":"1578-04-01 (Julian)","end":1657.4191780821918,"endLabel":"1657-06-03","tags":["scientists","physicians"],"title":"William Harvey","url":"https://it.wikipedia.org/wiki/William_Harvey","language":"it","tier":0.1}
+]

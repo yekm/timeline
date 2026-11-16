@@ -1,0 +1,10 @@
+[
+{"id":"Q10133","kind":"person","start":70.0,"startLabel":"≈70","end":126.0,"endLabel":"≈126","tags":["writers","poetry","scientists","services","occupation-q5697103"],"title":"Suétone","url":"https://fr.wikipedia.org/wiki/Su%C3%A9tone","language":"fr","tier":0.5},
+{"id":"Q190368","kind":"person","start":95.0,"startLabel":"≈95","end":165.0,"endLabel":"≈165","tags":["writers","scientists","politicians","law"],"title":"Appien","url":"https://fr.wikipedia.org/wiki/Appien","language":"fr","tier":0.5},
+{"id":"Q193800","kind":"person","start":55.0,"startLabel":"55","end":200.0,"endLabel":"101–200","tags":["writers","poetry","scientists"],"title":"Juvénal","url":"https://fr.wikipedia.org/wiki/Juv%C3%A9nal","language":"fr","tier":0.5},
+{"id":"Q192371","kind":"person","start":69.0,"startLabel":"69","end":155.14246575342466,"endLabel":"0155-02-23 (Julian)","tags":["writers","religion"],"parent":"Q182603","title":"Polycarpe de Smyrne","url":"https://fr.wikipedia.org/wiki/Polycarpe_de_Smyrne","language":"fr","tier":0.5},
+{"id":"Q197206","kind":"person","start":78.0,"startLabel":"78","end":139.0,"endLabel":"139","tags":["writers","poetry","scientists","engineers","inventors","politicians","occupation-q4964182"],"title":"Zhang Heng","url":"https://fr.wikipedia.org/wiki/Zhang_Heng","language":"fr","tier":0.5},
+{"id":"Q31845","kind":"person","start":89.0,"startLabel":"≈89","end":175.0,"endLabel":"≈175","tags":["writers","scientists","politicians","military","occupation-q4964182"],"title":"Arrien","url":"https://fr.wikipedia.org/wiki/Arrien","language":"fr","tier":0.5},
+{"id":"Q183144","kind":"person","start":50.0,"startLabel":"≈50","end":138.0,"endLabel":"138","tags":["writers","occupation-q4964182"],"title":"Épictète","url":"https://fr.wikipedia.org/wiki/%C3%89pict%C3%A8te","language":"fr","tier":0.5},
+{"id":"Q312552","kind":"person","start":80.0,"startLabel":"80","end":150.0,"endLabel":"150","tags":["writers","poetry"],"title":"Ashvaghosa","url":"https://fr.wikipedia.org/wiki/Ashvaghosha","language":"fr","tier":0.5}
+]

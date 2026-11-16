@@ -1,0 +1,9 @@
+[
+{"id":"Q214765","kind":"person","start":-45.0,"startLabel":"≈46 BCE","end":9.0,"endLabel":"9","tags":["politicians","military"],"title":"瓦盧斯","url":"https://zh.wikipedia.org/wiki/%E7%93%A6%E7%9B%A7%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q156778","kind":"person","start":-36.964383561643835,"startLabel":"0038-01-14 BCE","end":-7.297814207650273,"endLabel":"0009-09-14 BCE","tags":["politicians","military"],"title":"尼禄·克劳狄·德鲁苏斯","url":"https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%C2%B7%E5%BE%B7%E9%B2%81%E8%8B%8F%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q229413","kind":"person","start":-13.0,"startLabel":"14 BCE","end":33.78904109589041,"endLabel":"0033-10-18 (Julian)","tags":["politicians"],"title":"大阿格里皮娜","url":"https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%98%BF%E6%A0%BC%E9%87%8C%E7%9A%AE%E5%A8%9C","language":"zh","tier":0.5},
+{"id":"Q39589","kind":"person","start":-45.53150684931507,"startLabel":"0047-06-23 BCE (Julian)","end":-29.0,"endLabel":"30 BCE","tags":["politicians"],"title":"恺撒里昂","url":"https://zh.wikipedia.org/wiki/%E6%81%BA%E6%92%92%E9%87%8C%E6%98%82","language":"zh","tier":0.5},
+{"id":"Q298162","kind":"person","start":-19.0,"startLabel":"20 BCE","end":4.133879781420765,"endLabel":"0004-02-21 (Julian)","tags":["politicians","military"],"title":"盖乌斯·恺撒","url":"https://zh.wikipedia.org/wiki/%E8%93%8B%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92","language":"zh","tier":0.5},
+{"id":"Q192950","kind":"person","start":-19.0,"startLabel":"20 BCE","end":39.0,"endLabel":"39","tags":["politicians","rulers"],"title":"希律·安提帕斯","url":"https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%BE%8B%C2%B7%E5%AE%89%E6%8F%90%E5%B8%95%E6%96%AF","language":"zh","tier":0.5},
+{"id":"Q7250","kind":"person","start":-44.0,"startLabel":"≈45 BCE","end":23.756164383561643,"endLabel":"0023-10-06 (Julian)","tags":["politicians"],"title":"王莽","url":"https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8E%BD","language":"zh","tier":0.5}
+]

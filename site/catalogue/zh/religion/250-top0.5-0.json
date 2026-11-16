@@ -1,0 +1,5 @@
+[
+{"id":"Q106026","kind":"person","start":250.0,"startLabel":"250–259","end":336.0,"endLabel":"336","tags":["religion","occupation-q432386","occupation-q779458"],"title":"阿利烏","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%A9%E7%83%8F","language":"zh","tier":0.5},
+{"id":"Q309953","kind":"person","start":252.0,"startLabel":"252","end":329.0,"endLabel":"329","tags":["religion"],"title":"格列高利","url":"https://zh.wikipedia.org/wiki/%E5%90%AF%E8%92%99%E8%80%85%E6%A0%BC%E5%88%97%E9%AB%98%E5%88%A9","language":"zh","tier":0.5},
+{"id":"Q102131","kind":"person","start":255.013698630137,"startLabel":"0255-01-06 (Julian)","end":309.04383561643834,"endLabel":"0309-01-16 (Julian)","tags":["religion"],"title":"教宗玛策禄一世","url":"https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E7%8E%9B%E7%AD%96%E7%A6%84%E4%B8%80%E4%B8%96","language":"zh","tier":0.5}
+]

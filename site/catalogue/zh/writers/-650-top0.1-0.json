@@ -1,0 +1,7 @@
+[
+{"id":"Q35811","kind":"person","start":-627.0,"startLabel":"≈628 BCE","end":-550.0,"endLabel":"≈551 BCE","tags":["writers","poetry","occupation-q1349880","occupation-q2142783","occupation-q42857"],"title":"琐罗亚斯德","url":"https://zh.wikipedia.org/wiki/%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7","language":"zh","tier":0.1},
+{"id":"Q36303","kind":"person","start":-624.0,"startLabel":"≈625 BCE","end":-544.0,"endLabel":"540–549 BCE","tags":["writers","scientists","educators","engineers","occupation-q4964182"],"parent":"Q207782","title":"泰勒斯","url":"https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%E6%96%AF","language":"zh","tier":0.1},
+{"id":"Q43423","kind":"person","start":-619.0,"startLabel":"≈620 BCE","end":-563.0,"endLabel":"≈564 BCE","tags":["writers","occupation-q4964182"],"title":"伊索","url":"https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%B4%A2","language":"zh","tier":0.1},
+{"id":"Q133337","kind":"person","start":-629.0,"startLabel":"≈630 BCE","end":-559.0,"endLabel":"≈560 BCE","tags":["writers","poetry","politicians","occupation-q4964182"],"title":"梭伦","url":"https://zh.wikipedia.org/wiki/%E6%A2%AD%E4%BC%A6","language":"zh","tier":0.1},
+{"id":"Q42458","kind":"person","start":-609.0,"startLabel":"≈610 BCE","end":-546.0,"endLabel":"547 BCE","tags":["writers","scientists","occupation-q4964182"],"title":"阿那克西曼德","url":"https://zh.wikipedia.org/wiki/%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E6%9B%BC%E5%BE%B7","language":"zh","tier":0.1}
+]

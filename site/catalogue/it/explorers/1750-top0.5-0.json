@@ -1,0 +1,5 @@
+[
+{"id":"Q159923","kind":"person","start":1754.7342465753425,"startLabel":"1754-09-26","end":1826.5068493150684,"endLabel":"1826-07-05","tags":["explorers","healthcare","occupation-q593644"],"title":"Joseph Proust","url":"https://it.wikipedia.org/wiki/Joseph_Proust","language":"it","tier":0.5},
+{"id":"Q186203","kind":"person","start":1788.8688524590164,"startLabel":"1788-11-03 (Julian)","end":1851.3068493150686,"endLabel":"1851-04-11 (Julian)","tags":["explorers","military"],"title":"Michail Petrovič Lazarev","url":"https://it.wikipedia.org/wiki/Michail_Petrovi%C4%8D_Lazarev","language":"it","tier":0.5},
+{"id":"Q238960","kind":"person","start":1788.3715846994535,"startLabel":"1788-05-16","end":1812.9453551912568,"endLabel":"1812-12-12","tags":["explorers"],"title":"Sacajawea","url":"https://it.wikipedia.org/wiki/Sacajawea","language":"it","tier":0.5}
+]

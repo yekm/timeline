@@ -1,0 +1,6 @@
+[
+{"id":"Q133060","kind":"person","start":1550.0,"startLabel":"1550","end":1597.4657534246576,"endLabel":"1597-06-20","tags":["scientists","explorers","occupation-q254651"],"title":"威廉·巴伦支","url":"https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E5%B7%B4%E4%BC%A6%E6%94%AF","language":"zh","tier":0.1},
+{"id":"Q159592","kind":"person","start":1550.1123287671232,"startLabel":"1550-02-01 (Julian)","end":1617.2547945205479,"endLabel":"1617-04-04","tags":["scientists","engineers","inventors","religion","occupation-q155647"],"title":"約翰·納皮爾","url":"https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E7%B4%8D%E7%9A%AE%E7%88%BE","language":"zh","tier":0.1},
+{"id":"Q307","kind":"person","start":1564.1502732240438,"startLabel":"1564-02-15 (Julian)","end":1642.0191780821917,"endLabel":"1642-01-08","tags":["scientists","educators","engineers","inventors","occupation-q155647","occupation-q270141","occupation-q4964182"],"title":"伽利略·伽利莱","url":"https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1","language":"zh","tier":0.1},
+{"id":"Q93128","kind":"person","start":1578.2739726027398,"startLabel":"1578-04-01 (Julian)","end":1657.4191780821918,"endLabel":"1657-06-03","tags":["scientists","physicians"],"title":"威廉·哈维","url":"https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E5%93%88%E7%BB%B4","language":"zh","tier":0.1}
+]

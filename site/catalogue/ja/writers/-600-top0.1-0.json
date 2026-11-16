@@ -1,0 +1,7 @@
+[
+{"id":"Q80612","kind":"person","start":-584.0,"startLabel":"≈585 BCE","end":-524.0,"endLabel":"≈525 BCE","tags":["writers","scientists","occupation-q4964182"],"title":"アナクシメネス","url":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A1%E3%83%8D%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q131671","kind":"person","start":-559.0,"startLabel":"560 BCE","end":-477.0,"endLabel":"478 BCE","tags":["writers","poetry","religion","occupation-q4964182"],"title":"クセノパネス","url":"https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BB%E3%83%8E%E3%83%91%E3%83%8D%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q9333","kind":"person","start":-578.0,"startLabel":"501–600 BCE","end":-498.0,"endLabel":"401–500 BCE","tags":["writers","occupation-q116865146","occupation-q4964182","occupation-q635734"],"title":"老子","url":"https://ja.wikipedia.org/wiki/%E8%80%81%E5%AD%90","language":"ja","tier":0.1},
+{"id":"Q10261","kind":"person","start":-581.0,"startLabel":"501–600 BCE","end":-489.0,"endLabel":"490–499 BCE","tags":["writers","scientists","politicians","occupation-q14915627","occupation-q16031530","occupation-q4964182"],"title":"ピタゴラス","url":"https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E3%82%B9","language":"ja","tier":0.1},
+{"id":"Q4604","kind":"person","start":-550.2465753424658,"startLabel":"0552-10-09 BCE (Julian)","end":-477.8301369863014,"endLabel":"0479-03-09 BCE (Julian)","tags":["writers","educators","occupation-q4964182"],"title":"孔子","url":"https://ja.wikipedia.org/wiki/%E5%AD%94%E5%AD%90","language":"ja","tier":0.1}
+]

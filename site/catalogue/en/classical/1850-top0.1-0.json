@@ -1,0 +1,5 @@
+[
+{"id":"Q154770","kind":"person","start":1874.6986301369864,"startLabel":"1874-09-13","end":1951.5287671232877,"endLabel":"1951-07-13","tags":["classical","composers","performers","painters","writers","music","occupation-q14915627","occupation-q16031530","occupation-q2675537","occupation-q483501"],"title":"Arnold Schoenberg","url":"https://en.wikipedia.org/wiki/Arnold_Schoenberg","language":"en","tier":0.1},
+{"id":"Q7304","kind":"person","start":1860.5136612021859,"startLabel":"1860-07-07","end":1911.3753424657534,"endLabel":"1911-05-18","tags":["classical","composers","performers","music"],"title":"Gustav Mahler","url":"https://en.wikipedia.org/wiki/Gustav_Mahler","language":"en","tier":0.1},
+{"id":"Q7311","kind":"person","start":1858.972602739726,"startLabel":"1858-12-22","end":1924.9098360655737,"endLabel":"1924-11-29","tags":["classical","composers","performers","politicians","music"],"title":"Giacomo Puccini","url":"https://en.wikipedia.org/wiki/Giacomo_Puccini","language":"en","tier":0.1}
+]

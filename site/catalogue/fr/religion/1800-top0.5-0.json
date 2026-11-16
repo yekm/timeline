@@ -1,0 +1,6 @@
+[
+{"id":"Q146183","kind":"person","start":1815.6219178082192,"startLabel":"1815-08-16","end":1888.0819672131147,"endLabel":"1888-01-31","tags":["religion"],"title":"Jean Bosco","url":"https://fr.wikipedia.org/wiki/Jean_Bosco","language":"fr","tier":0.5},
+{"id":"Q232785","kind":"person","start":1840.0054644808743,"startLabel":"1840-01-03","end":1889.2849315068493,"endLabel":"1889-04-15","tags":["religion","occupation-q219477"],"title":"Père Damien","url":"https://fr.wikipedia.org/wiki/P%C3%A8re_Damien","language":"fr","tier":0.5},
+{"id":"Q298434","kind":"person","start":1838.0,"startLabel":"1838","end":1897.1835616438357,"endLabel":"1897-03-09","tags":["religion"],"title":"Djemâl ad-Dîn al-Afghâni","url":"https://fr.wikipedia.org/wiki/Djem%C3%A2l_ad-D%C3%AEn_al-Afgh%C3%A2ni","language":"fr","tier":0.5},
+{"id":"Q318461","kind":"person","start":1837.5424657534247,"startLabel":"1837-07-18","end":1873.131506849315,"endLabel":"1873-02-18","tags":["religion","activism"],"title":"Vassil Levski","url":"https://fr.wikipedia.org/wiki/Vasil_Levski","language":"fr","tier":0.5}
+]

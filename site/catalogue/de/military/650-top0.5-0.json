@@ -1,0 +1,5 @@
+[
+{"id":"Q230497","kind":"person","start":670.0,"startLabel":"670","end":720.0,"endLabel":"720","tags":["military","occupation-q1250916"],"title":"Tariq ibn Ziyad","url":"https://de.wikipedia.org/wiki/T%C4%81riq_ibn_Ziy%C4%81d","language":"de","tier":0.5},
+{"id":"Q128371","kind":"person","start":688.0,"startLabel":"688","end":750.6054794520549,"endLabel":"0750-08-06 (Julian)","tags":["military","occupation-q1251441"],"title":"Marwan II.","url":"https://de.wikipedia.org/wiki/Marwan_II.","language":"de","tier":0.5},
+{"id":"Q31755","kind":"person","start":675.0,"startLabel":"675","end":741.4712328767123,"endLabel":"0741-06-18 (Julian)","tags":["military"],"title":"Leo III.","url":"https://de.wikipedia.org/wiki/Leo_III._(Byzanz)","language":"de","tier":0.5}
+]

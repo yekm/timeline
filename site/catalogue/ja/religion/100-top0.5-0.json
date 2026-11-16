@@ -1,0 +1,5 @@
+[
+{"id":"Q185117","kind":"person","start":100.0,"startLabel":"≈100","end":165.0,"endLabel":"≈165","tags":["religion","occupation-q4964182"],"parent":"Q182603","title":"ユスティノス","url":"https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8E%E3%82%B9","language":"ja","tier":0.5},
+{"id":"Q26925","kind":"person","start":100.0,"startLabel":"1–100","tags":["religion"],"parent":"Q620744","title":"ヤコブ","url":"https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B3%E3%83%96_(%E3%82%A4%E3%82%A8%E3%82%B9%E3%81%AE%E5%85%84%E5%BC%9F)","language":"ja","tier":0.5},
+{"id":"Q182123","kind":"person","start":130.0,"startLabel":"≈130","end":202.0,"endLabel":"≈202","tags":["religion","occupation-q4964182"],"title":"エイレナイオス","url":"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AC%E3%83%8A%E3%82%A4%E3%82%AA%E3%82%B9","language":"ja","tier":0.5}
+]
