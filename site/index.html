@@ -13,7 +13,7 @@
   <body>
     <main class="shell" aria-labelledby="page-title">
       <h1 id="page-title" class="visually-hidden" data-copy="title">Atlas of Time</h1>
-      <div id="timeline-overviews" class="overview-panel"></div>
+      <div id="timeline-overviews" class="overview-panel" hidden></div>
       <div class="explorer" id="explorer">
         <aside class="filters" id="filters" aria-labelledby="filter-heading">
           <div class="filter-heading">
@@ -37,7 +37,12 @@
                 </svg>
                 <span data-copy="filters">Layers</span>
               </button>
-              <button class="toolbar-button" id="human-history" type="button">Human history</button>
+              <button class="toolbar-button" id="toggle-overviews" type="button" aria-controls="timeline-overviews" aria-expanded="false">
+                <svg aria-hidden="true" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round">
+                  <path d="M3 5h18M3 12h18M3 19h18M8 3v4m8 3v4m-5 3v4"/>
+                </svg>
+                <span data-copy="overviews">Overview</span>
+              </button>
             </div>
             <div class="window-controls">
               <div class="window-label">

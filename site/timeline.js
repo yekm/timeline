@@ -11,7 +11,7 @@ const POINT_WIDTH = 12;
 const translations = {
   en: {
     overview: ["Earth history", "Period overview", "Date selection"],
-    human: "Human history", timeline: "Timeline", present: "Present",
+    timeline: "Timeline", present: "Present",
     empty: "No items in this range. Move the timeline or choose a category.",
     brush: "Selected range", start: "Start", end: "End", bce: "BCE",
     born: "Born", died: "Died", unknown: "date unknown", ga: "Ga", ma: "Ma",
@@ -19,7 +19,7 @@ const translations = {
   },
   ru: {
     overview: ["История Земли", "Обзор периода", "Выбор дат"],
-    human: "История человечества", timeline: "Хронология", present: "Сегодня",
+    timeline: "Хронология", present: "Сегодня",
     empty: "В этом диапазоне нет записей. Сдвиньте шкалу или выберите категорию.",
     brush: "Выбранный диапазон", start: "Начало", end: "Конец", bce: "до н. э.",
     born: "Рождение", died: "Смерть", unknown: "дата неизвестна", ga: "млрд л.", ma: "млн л.",
@@ -197,7 +197,7 @@ function urlFor(item) {
 
 export class Timeline {
   constructor(root, {
-    onRangeChange = () => {}, onItemSelect = () => {}, overviewRoot = root, humanHistoryButton,
+    onRangeChange = () => {}, onItemSelect = () => {}, overviewRoot = root, overviewButton,
   } = {}) {
     this.root = root;
     this.overviewRoot = overviewRoot;
@@ -222,10 +222,13 @@ export class Timeline {
       this.overviewRoot.replaceChildren();
     }
     this.overviews = Array.from({length: 3}, (_, index) => this.makeOverview(index));
-    this.human = humanHistoryButton ?? element("button", "timeline-human");
-    this.human.type = "button";
-    this.listen(this.human, "click", () => this.focusHumanHistory());
-    if (!humanHistoryButton) this.overviewRoot.append(this.human);
+    if (overviewButton) {
+      this.listen(overviewButton, "click", () => {
+        overviewRoot.hidden = !overviewRoot.hidden;
+        overviewButton.setAttribute("aria-expanded", String(!overviewRoot.hidden));
+        this.requestRender();
+      });
+    }
     this.makeMain();
     this.setLanguage("en");
     this.resize = new ResizeObserver(() => this.requestRender());
@@ -262,7 +265,6 @@ export class Timeline {
     const monthFormat = new Intl.DateTimeFormat(locale, {month: "short", timeZone: "UTC"});
     this.months = Array.from({length: 12}, (_, month) => monthFormat.format(Date.UTC(2024, month, 1)));
     this.overviews.forEach(({section}, index) => section.setAttribute("aria-label", this.words.overview[index]));
-    this.human.textContent = this.words.human;
     this.scroll.setAttribute("aria-label", this.words.timeline);
     this.empty.textContent = this.words.empty;
     this.requestRender();
@@ -437,15 +439,6 @@ export class Timeline {
     this.tooltip.hidden = true;
     this.requestRender();
     if (notify) this.onRangeChange(this.getRange());
-  }
-
-  focusHumanHistory() {
-    const human = [HUMAN_START, this.now];
-    const last = contains(human, this.views[3]) ? this.views[3] : [this.now - 300, this.now];
-    this.views[1] = human;
-    this.views[2] = enclose([HISTORY_DETAIL_START, this.now], last, human);
-    this.views[3] = last;
-    this.changed();
   }
 
   selectChild(index, range, move = false, baseline = this.views) {

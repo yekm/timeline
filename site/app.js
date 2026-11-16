@@ -4,8 +4,8 @@ const copy = {
   en: {
     language: 'Catalogue language', title: 'Atlas of Time',
     ranking: 'Article notability', top: 'Top', showAll: 'All (100%)',
-    rankingHint: 'People and events are ranked separately by how many Wikipedia language editions cover them. Tied articles stay together.',
-    catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', filterHint: 'Choose what appears on the timeline.',
+    rankingHint: 'People and events are ranked separately by how many Wikipedia language editions cover them. Tied articles stay together. Counts cover the entire catalogue at each cutoff.',
+    catalogue: 'WIKIDATA CATALOGUE', filters: 'Layers', overviews: 'Overview', filterHint: 'Choose what appears on the timeline.',
     clear: 'Clear', visibleRange: 'VISIBLE RANGE', reset: 'Reset view', retry: 'Retry',
     gestures: 'Wheel to zoom · Drag or Shift + wheel to pan', footer: 'A timeline built from linked open data.',
     demo: 'Demo catalogue', snapshot: 'Wikidata snapshot', sample: 'Partial snapshot', selected: 'Layers enabled',
@@ -17,8 +17,8 @@ const copy = {
   ru: {
     language: 'Язык каталога', title: 'Атлас времени',
     ranking: 'Известность статей', top: 'Топ', showAll: 'Все (100%)',
-    rankingHint: 'Люди и события ранжируются отдельно по числу языковых версий Википедии. Записи с одинаковым числом не разделяются.',
-    catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', filterHint: 'Выберите данные для отображения на шкале.',
+    rankingHint: 'Люди и события ранжируются отдельно по числу языковых версий Википедии. Записи с одинаковым числом не разделяются. Число рядом с порогом учитывает весь каталог.',
+    catalogue: 'КАТАЛОГ WIKIDATA', filters: 'Слои', overviews: 'Шкалы', filterHint: 'Выберите данные для отображения на шкале.',
     clear: 'Сбросить', visibleRange: 'ВИДИМЫЙ ПЕРИОД', reset: 'Сбросить вид', retry: 'Повторить',
     gestures: 'Колесо — зум · Перетаскивание или Shift + колесо — сдвиг', footer: 'Хронология на основе открытых связанных данных.',
     demo: 'Демокаталог', snapshot: 'Снимок Wikidata', sample: 'Часть снимка', selected: 'Включено слоёв',
@@ -78,7 +78,7 @@ const chunks = new Map();
 
 const timeline = new Timeline(document.getElementById('timeline'), {
   overviewRoot: document.getElementById('timeline-overviews'),
-  humanHistoryButton: document.getElementById('human-history'),
+  overviewButton: document.getElementById('toggle-overviews'),
   onRangeChange(nextRange) {
     range = nextRange;
     updateRangeLabel();
@@ -86,8 +86,22 @@ const timeline = new Timeline(document.getElementById('timeline'), {
   },
 });
 
+function browserLanguage(languages) {
+  const available = new Set(languages.map(({ id }) => id));
+  const preferences = navigator.languages?.length ? navigator.languages : [navigator.language];
+  for (const locale of preferences) {
+    const subtags = locale.toLowerCase().split('-');
+    while (subtags.length) {
+      const candidate = subtags.join('-');
+      if (available.has(candidate)) return candidate;
+      subtags.pop();
+    }
+  }
+  return baseLanguage;
+}
+
 function uiLanguage() {
-  return language === 'ru' ? 'ru' : 'en';
+  return language === 'ru' || language.startsWith('ru-') ? 'ru' : baseLanguage;
 }
 
 function strings() {
@@ -96,6 +110,13 @@ function strings() {
 
 function number(value, options) {
   return value.toLocaleString(uiLanguage(), options);
+}
+
+function rankingLabel(tier) {
+  const label = tier === 100 ? strings().showAll : `${strings().top} ${number(tier)}%`;
+  const counts = Object.values(manifest.ranking?.counts ?? {}).map((group) => group.thresholds?.[tier]?.count);
+  if (!counts.length || !counts.every(Number.isFinite)) return label;
+  return `${label} · ${number(counts.reduce((total, count) => total + count, 0))}`;
 }
 
 function formatYear(value) {
@@ -375,8 +396,7 @@ function updateLanguage() {
     element.textContent = strings()[element.dataset.copy];
   }
   for (const option of rankingSelect.options) {
-    const tier = Number(option.value);
-    option.textContent = tier === 100 ? strings().showAll : `${strings().top} ${number(tier)}%`;
+    option.textContent = rankingLabel(Number(option.value));
   }
   rankingSelect.title = strings().rankingHint;
   const snapshotLabel = manifest.partial ? strings().sample : strings().snapshot;
@@ -421,11 +441,11 @@ retry.addEventListener('click', () => {
 
 async function chooseFeatured() {
   const candidates = [...categories.values()].filter((category) => category.featured &&
-    category.chunks?.some((chunk) => matchesChunk(chunk, initialRange, baseLanguage, cutoff)));
+    category.chunks?.some((chunk) => matchesChunk(chunk, initialRange, language, cutoff)));
   while (candidates.length && !interacted) {
     const index = Math.floor(Math.random() * candidates.length);
     const [candidate] = candidates.splice(index, 1);
-    const { items } = await itemsFor(new Set(collectTargets(candidate.id)), initialRange, baseLanguage, cutoff);
+    const { items } = await itemsFor(new Set(collectTargets(candidate.id)), initialRange, language, cutoff);
     if (items.length) return candidate;
   }
   return null;
@@ -470,7 +490,8 @@ async function start() {
     }
     applyCategoryColors();
     select.replaceChildren(...manifest.languages.map(({ id, label }) => new Option(label, id)));
-    select.value = baseLanguage;
+    language = browserLanguage(manifest.languages);
+    select.value = language;
     timeline.setRange(initialRange);
     range = timeline.getRange();
     updateLanguage();

@@ -23,23 +23,6 @@
   color: var(--timeline-muted);
 }
 
-.timeline-human {
-  padding: 4px 8px;
-  color: var(--timeline-accent);
-  font: inherit;
-  font-size: .69rem;
-  font-weight: 650;
-  line-height: 1.25;
-  background: color-mix(in srgb, var(--timeline-accent) 8%, var(--timeline-surface));
-  border: 1px solid color-mix(in srgb, var(--timeline-accent) 26%, var(--timeline-rule));
-  border-radius: 3px;
-  cursor: pointer;
-}
-
-.timeline-human:hover {
-  background: color-mix(in srgb, var(--timeline-accent) 15%, var(--timeline-surface));
-}
-
 .timeline-overview-track {
   --overview-axis-height: 22px;
   position: relative;
@@ -365,7 +348,6 @@
 @media (max-width: 500px) {
   .timeline-overview-track { height: 62px; }
   .timeline-axis { font-size: .64rem; }
-  .timeline-human { font-size: .68rem; }
   .timeline-brush-handle { width: 12px; }
   .timeline-brush-left { left: -5px; }
   .timeline-brush-right { right: -5px; }
